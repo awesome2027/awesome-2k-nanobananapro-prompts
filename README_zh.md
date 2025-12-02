@@ -17,11 +17,11 @@
 - [Ilustração de coelho rei do quadro-negro ao pôr do sol](#ilustrao-de-coelho-rei-do-quadro-negro-ao-pr-do-sol)
 - [Prompt de layout de fotolivro japonês de 9 grades para Nano Banana Pro](#prompt-de-layout-de-fotolivro-japons-de-9-grades-para-nano-banana-pro)
 - [Ilustração de coelho rei no quadro-negro ao pôr do sol](#ilustrao-de-coelho-rei-no-quadro-negro-ao-pr-do-sol)
-- [带肖像和中英文定制的宽引言卡](#item-1554)
-- [德国水彩地图，附带州名标注](#item-1555)
-- [火车广告风格的书籍广告图片](#item-1556)
-- [卡比吹泡泡的梦境日记](#item-1557)
-- [御宅族镜子自拍角人物特写](#item-1558)
+- [带肖像和中英文定制的宽引言卡](#item)
+- [德国水彩地图，附带州名标注](#item-2)
+- [火车广告风格的书籍广告图片](#item-3)
+- [卡比吹泡泡的梦境日记](#item-4)
+- [御宅族镜子自拍角人物特写](#item-5)
 - [Nano Banana Pro 的圣人与恶魔双重角色提示](#nano-banana-pro)
 - [Nano Banana Pro 的季节性森林拼贴画角色提示](#nano-banana-pro-2)
 - [适用于 Nano Banana Pro 的 9 宫格日式相册布局提示](#nano-banana-pro-9)
@@ -29,198 +29,198 @@
 - [直闪游戏女孩 Nano Banana Pro JSON 标签提示](#nano-banana-pro-json)
 - [两步 Nano Banana Pro 图像优化提示](#nano-banana-pro-3)
 - [12 图 Instagram 动态字符美学提示](#12-instagram)
-- [坦率的卧室肖像提示结构](#item-1566)
+- [坦率的卧室肖像提示结构](#item-6)
 - [Nano Banana Pro 的电影感卧室自拍提示](#nano-banana-pro-4)
 - [毛毡玩具全身 Nano Banana Pro 提示模板](#nano-banana-pro-5)
 - [水墨画孤舟提示词，适用于 Nano Banana Pro](#nano-banana-pro-6)
-- [中学生在历史课本上涂鸦](#item-1570)
+- [中学生在历史课本上涂鸦](#item-7)
 - [电影般的雨中都市场景 JSON 提示词](#json)
 - [Nano Banana Pro 联系表多重拍摄相机提示](#nano-banana-pro-7)
 - [YAML 提示词转换，适用于图像和图表](#yaml)
 - [参考匹配的女性肖像 JSON 提示词](#json-2)
 - [超逼真肖像 JSON 提示词，带参考图像](#json-3)
 - [Nano Banana Pro 提示词：将旧照片修复为现代肖像](#nano-banana-pro-8)
-- [从图片生成黑白故事板](#item-1577)
-- [拍立得风格偶像照片提示词（使用参考人物）](#item-1578)
+- [从图片生成黑白故事板](#item-8)
+- [拍立得风格偶像照片提示词（使用参考人物）](#item-9)
 - [适用于 Nano Banana Pro 的未来主义玻璃拟态 PPT 设计提示](#nano-banana-pro-ppt)
 - [能量场屏障 VFX 和姿势调整 YAML 提示](#vfx-yaml)
-- [产品草图到最终渲染提示](#item-1581)
-- [带有微小文本测试提示的包装模型](#item-1582)
+- [产品草图到最终渲染提示](#item-10)
+- [带有微小文本测试提示的包装模型](#item-11)
 - [严格的超写实主义限制促成了 Nano Banana Pro 的诞生](#nano-banana-pro-10)
 - [使用指定的 GPS 坐标让照片看起来很糟糕](#gps)
-- [根据给定的人物和故事，创作萌系全彩漫画](#item-1585)
-- [低质量一次性相机高中快照提示](#item-1586)
-- [将展位草图转化为透视图](#item-1587)
+- [根据给定的人物和故事，创作萌系全彩漫画](#item-12)
+- [低质量一次性相机高中快照提示](#item-13)
+- [将展位草图转化为透视图](#item-14)
 - [健身房瑜伽垫肖像 Nano Banana 提示](#nano-banana)
 - [特定坐标下的历史时刻 (1994)](#1994)
-- [儿童黏土动画日相图信息图](#item-1590)
+- [儿童黏土动画日相图信息图](#item-15)
 - [F1 VIP 粉丝超逼真自拍编辑](#f1-vip)
 - [LINE 风格 Q 版表情包头像九宫格](#line-q)
-- [带有坐标和日期的时空穿越场景](#item-1593)
-- [手绘等距地标示意图](#item-1594)
-- [电影风格的黑白女性肖像](#item-1595)
-- [冰箱扫描食谱信息图](#item-1596)
-- [平铺式分解照片](#item-1597)
-- [一位年轻男士的瑞士高山冬季肖像](#item-1598)
-- [漫威风格的女英雄漫画分镜图](#item-1599)
-- [电影级屋顶肖像照，源自参考照片](#item-1600)
-- [现有图片的卡通版本](#item-1601)
-- [设备的爆炸图](#item-1602)
-- [未来派面部年龄检测器信息图肖像](#item-1603)
-- [漫画风格的中文漫画分镜生成器](#item-1604)
-- [幕后拍摄设置可视化](#item-1605)
-- [诸葛连弩的复古工程爆炸图](#item-1606)
-- [老式食谱风格插画](#item-1607)
+- [带有坐标和日期的时空穿越场景](#item-16)
+- [手绘等距地标示意图](#item-17)
+- [电影风格的黑白女性肖像](#item-18)
+- [冰箱扫描食谱信息图](#item-19)
+- [平铺式分解照片](#item-20)
+- [一位年轻男士的瑞士高山冬季肖像](#item-21)
+- [漫威风格的女英雄漫画分镜图](#item-22)
+- [电影级屋顶肖像照，源自参考照片](#item-23)
+- [现有图片的卡通版本](#item-24)
+- [设备的爆炸图](#item-25)
+- [未来派面部年龄检测器信息图肖像](#item-26)
+- [漫画风格的中文漫画分镜生成器](#item-27)
+- [幕后拍摄设置可视化](#item-28)
+- [诸葛连弩的复古工程爆炸图](#item-29)
+- [老式食谱风格插画](#item-30)
 - [IT 电影多面板序列](#it)
-- [编辑级牛仔布肖像，保留面部特征](#item-1609)
-- [儿童蜡笔风格的家庭露营画](#item-1610)
-- [参考图像的四个摄像机角度网格](#item-1611)
-- [编辑月亮位置并更改绘画风格](#item-1612)
-- [给定坐标处发生重大事件](#item-1613)
-- [杰克逊实验室信息图](#item-1614)
-- [根据参考线框图进行网页设计](#item-1615)
+- [编辑级牛仔布肖像，保留面部特征](#item-31)
+- [儿童蜡笔风格的家庭露营画](#item-32)
+- [参考图像的四个摄像机角度网格](#item-33)
+- [编辑月亮位置并更改绘画风格](#item-34)
+- [给定坐标处发生重大事件](#item-35)
+- [杰克逊实验室信息图](#item-36)
+- [根据参考线框图进行网页设计](#item-37)
 - [可爱的长尾山雀 LINE 贴图集](#line)
-- [根据照片制作逼真的角色设计图](#item-1617)
+- [根据照片制作逼真的角色设计图](#item-38)
 - [关于 Google 早年经历的信息图](#google)
 - [2D NES 平台游戏的精灵图](#2d-nes)
-- [涂装方案对比图](#item-1620)
-- [根据参考照片和草图绘制的动作场景](#item-1621)
-- [江户风格木版画忍者角色](#item-1622)
-- [印尼总统系列抓拍照片](#item-1623)
+- [涂装方案对比图](#item-39)
+- [根据参考照片和草图绘制的动作场景](#item-40)
+- [江户风格木版画忍者角色](#item-41)
+- [印尼总统系列抓拍照片](#item-42)
 - [通过风格迁移实现的 90 年代版网站](#90)
 - [将 Netflix 屏幕变成西部片风格](#netflix)
-- [文章或内容的缩略图设计提示](#item-1626)
-- [床上的衣物](#item-1627)
-- [朴拙涂鸦风格的主题插画](#item-1628)
-- [简单的动作电影场景](#item-1629)
+- [文章或内容的缩略图设计提示](#item-43)
+- [床上的衣物](#item-44)
+- [朴拙涂鸦风格的主题插画](#item-45)
+- [简单的动作电影场景](#item-46)
 - [黑板风格的 AI 新闻图解](#ai)
-- [逼真的馕饼双关语图片](#item-1631)
-- [食物照片变身生物风格营养海报](#item-1632)
-- [日本辣妹杂志校服专题](#item-1633)
-- [游戏王魔法卡文本主题](#item-1634)
+- [逼真的馕饼双关语图片](#item-47)
+- [食物照片变身生物风格营养海报](#item-48)
+- [日本辣妹杂志校服专题](#item-49)
+- [游戏王魔法卡文本主题](#item-50)
 - [AI 伙伴从背后拥抱的双人镜头](#ai-2)
-- [关于嵌入式工程师困境的四格漫画](#item-1636)
-- [夏尔中的“威利在哪里”风格《指环王》](#item-1637)
-- [面部特征一致的摇滚乐队海报](#item-1638)
+- [关于嵌入式工程师困境的四格漫画](#item-51)
+- [夏尔中的“威利在哪里”风格《指环王》](#item-52)
+- [面部特征一致的摇滚乐队海报](#item-53)
 - [黑白硬汉 LINE 贴图](#line-2)
-- [诗歌的电影化诠释](#item-1640)
-- [照片上的可爱手写笔记](#item-1641)
-- [铺在床上的衣物](#item-1642)
-- [从插画生成照片级渲染图](#item-1643)
+- [诗歌的电影化诠释](#item-54)
+- [照片上的可爱手写笔记](#item-55)
+- [铺在床上的衣物](#item-56)
+- [从插画生成照片级渲染图](#item-57)
 - [电影级 3D 标志，自动分配纹理](#3d)
-- [鞋样排版](#item-1645)
-- [上传角色创作的《丝之歌》四格漫画](#item-1646)
+- [鞋样排版](#item-58)
+- [上传角色创作的《丝之歌》四格漫画](#item-59)
 - [将社交媒体简介变成 NES 游戏卡封面](#nes)
-- [动漫风格坐姿肖像（基于面部图像）](#item-1648)
-- [身份验证角色，护照可见](#item-1649)
-- [一篮多角](#item-1650)
+- [动漫风格坐姿肖像（基于面部图像）](#item-60)
+- [身份验证角色，护照可见](#item-61)
+- [一篮多角](#item-62)
 - [高细节 IT 职业信息图（泰语/英语混合）](#it-2)
-- [总结文本的单一图表图像（日语）](#item-1652)
-- [缓解颈肩僵硬的肩部拉伸信息图](#item-1653)
-- [烤架上的超逼真玻璃五花肉](#item-1654)
-- [辛普森风格的火箭香蕉混合体](#item-1655)
-- [食谱分解与美食摄影](#item-1656)
-- [文本转思维导图图形](#item-1657)
+- [总结文本的单一图表图像（日语）](#item-63)
+- [缓解颈肩僵硬的肩部拉伸信息图](#item-64)
+- [烤架上的超逼真玻璃五花肉](#item-65)
+- [辛普森风格的火箭香蕉混合体](#item-66)
+- [食谱分解与美食摄影](#item-67)
+- [文本转思维导图图形](#item-68)
 - [Squatty Potty 白板说明](#squatty-potty)
 - [城市照片中的 VTuber 风格街头时尚缩略图](#vtuber)
-- [文本的白板式简单图表](#item-1660)
+- [文本的白板式简单图表](#item-69)
 - [MrBeast 风格的爱泼斯坦文件缩略图](#mrbeast)
-- [杂乱衣橱中的高角度仙女垃圾摇滚偶像](#item-1662)
+- [杂乱衣橱中的高角度仙女垃圾摇滚偶像](#item-70)
 - [LINE 贴纸表](#line-3)
-- [走出社交媒体屏幕的“错视画”主题人物](#item-1664)
-- [超逼真的罗罗诺亚·佐罗肖像](#item-1665)
-- [将包中的物品取出并摊在床上](#item-1666)
+- [走出社交媒体屏幕的“错视画”主题人物](#item-71)
+- [超逼真的罗罗诺亚·佐罗肖像](#item-72)
+- [将包中的物品取出并摊在床上](#item-73)
 - [GTA 5 线上动作场景](#gta-5)
-- [关于一个笨拙的精灵的四格漫画](#item-1668)
-- [超高保真图像修复](#item-1669)
+- [关于一个笨拙的精灵的四格漫画](#item-74)
+- [超高保真图像修复](#item-75)
 - [红白机游戏盒、卡带、说明书和 CRT 屏幕（日文）](#crt)
-- [一个角色被烧烤美食“治愈”的彩色漫画](#item-1671)
-- [来自参考信息的带有经典日式字体的图表](#item-1672)
-- [穿着相同服装的兔子](#item-1673)
-- [咖啡饮品信息图](#item-1674)
+- [一个角色被烧烤美食“治愈”的彩色漫画](#item-76)
+- [来自参考信息的带有经典日式字体的图表](#item-77)
+- [穿着相同服装的兔子](#item-78)
+- [咖啡饮品信息图](#item-79)
 - [手绘风格的标题图片，介绍 Nano Banana Pro（日文）](#nano-banana-pro-11)
-- [手绘风格标题图片提示（来自照片）](#item-1676)
+- [手绘风格标题图片提示（来自照片）](#item-80)
 - [上传了人物介绍 Nano Banana Pro 的标题图片](#nano-banana-pro-12)
 - [Nano Banana Pro 文章的奢华标题图片，附带上传的人物照片](#nano-banana-pro-13)
 - [LINE 站立玩偶角色贴纸包（日文）](#line-4)
-- [云中半透明海水鲸鱼](#item-1680)
-- [虚构网页设计师的作品集图片](#item-1681)
+- [云中半透明海水鲸鱼](#item-81)
+- [虚构网页设计师的作品集图片](#item-82)
 - [Levi’s 试衣间自拍编辑](#levis)
-- [特定坐标处的地理定位日落场景](#item-1683)
+- [特定坐标处的地理定位日落场景](#item-83)
 - [关于 PLM 和数字主线的演示幻灯片](#plm)
 - [CEO 招聘困境信息图](#ceo)
-- [这个世界结构的抽象插图](#item-1686)
+- [这个世界结构的抽象插图](#item-84)
 - [ChatGPT 5.1 和 Gemini 3 对比信息图](#chatgpt-51-gemini-3)
-- [高端电影级产品展示片截图](#item-1688)
-- [长文档的中文白板摘要](#item-1689)
-- [角色变身为超合金机器人风格](#item-1690)
-- [图像增强和放大提示](#item-1691)
-- [第五代隐形战斗机剖面图](#item-1692)
+- [高端电影级产品展示片截图](#item-85)
+- [长文档的中文白板摘要](#item-86)
+- [角色变身为超合金机器人风格](#item-87)
+- [图像增强和放大提示](#item-88)
+- [第五代隐形战斗机剖面图](#item-89)
 - [一位中性气质女性的 2x2 情绪化编辑拼贴画](#2x2)
-- [乐天世界大厦地标聚焦地理位置图像](#item-1694)
-- [恐龙现身东京都厅大楼前](#item-1695)
-- [虚拟服装试穿，含东京街头场景选项](#item-1696)
-- [递归艺术家绘制自己绘画的照片](#item-1697)
+- [乐天世界大厦地标聚焦地理位置图像](#item-90)
+- [恐龙现身东京都厅大楼前](#item-91)
+- [虚拟服装试穿，含东京街头场景选项](#item-92)
+- [递归艺术家绘制自己绘画的照片](#item-93)
 - [附带插画的 LINE 贴图集](#line-5)
-- [线框图示意图重构提示](#item-1699)
-- [房地产投资的优缺点信息图](#item-1700)
+- [线框图示意图重构提示](#item-94)
+- [房地产投资的优缺点信息图](#item-95)
 - [根据所附角色图片制作的 LINE 贴图集](#line-6)
-- [手工面包店视频广告](#item-1702)
-- [唐诗学习卡](#item-1703)
-- [脚趾特写细节](#item-1704)
-- [通过坐标查看摩天大楼夜景](#item-1705)
-- [总结基本收入的图片](#item-1706)
-- [两格漫画修订提示](#item-1707)
+- [手工面包店视频广告](#item-96)
+- [唐诗学习卡](#item-97)
+- [脚趾特写细节](#item-98)
+- [通过坐标查看摩天大楼夜景](#item-99)
+- [总结基本收入的图片](#item-100)
+- [两格漫画修订提示](#item-101)
 - [水浒传 30 位主要人物工笔画网格图](#30)
-- [一位女性变老的过程](#item-1709)
-- [放大蜜蜂](#item-1710)
-- [基于附件的缩略图文字叠加](#item-1711)
-- [投资组合策略概述图（来自附件）](#item-1712)
-- [投资越南的优势](#item-1713)
-- [受力梁的剪力弯矩图](#item-1714)
+- [一位女性变老的过程](#item-102)
+- [放大蜜蜂](#item-103)
+- [基于附件的缩略图文字叠加](#item-104)
+- [投资组合策略概述图（来自附件）](#item-105)
+- [投资越南的优势](#item-106)
+- [受力梁的剪力弯矩图](#item-107)
 - [物理学家在吊床上喝着 SPA 饮品放松身心](#spa)
-- [折纸式分步折叠说明](#item-1716)
-- [日落时分的黑板兔王插画](#item-1717)
+- [折纸式分步折叠说明](#item-108)
+- [日落时分的黑板兔王插画](#item-109)
 - [Ben 10 遇上 TMNT 完整漫画页面](#ben-10-tmnt)
 - [书店 POP 展示架，配有亚克力马克笔插画](#pop)
-- [哥特式改造版现有照片](#item-1720)
-- [宠物趣味解剖图](#item-1721)
+- [哥特式改造版现有照片](#item-110)
+- [宠物趣味解剖图](#item-111)
 - [使用 Nano Banana Pro 编辑泳装更换效果](#nano-banana-pro-14)
-- [政府成果信息图（来自网络资源）](#item-1723)
+- [政府成果信息图（来自网络资源）](#item-112)
 - [Nano Banana Pro 的日本头条缩略图](#nano-banana-pro-15)
-- [四格动漫漫画，主角是熊猫女孩](#item-1725)
+- [四格动漫漫画，主角是熊猫女孩](#item-113)
 - [Think-cell 解决文档问题的可视化解释](#think-cell)
 - [Scouter 风格的 HUD 叠加显示战斗力](#scouter-hud)
-- [动画闪光文字显示序列](#item-1728)
-- [图示：如何优雅地行走](#item-1729)
-- [拟人化的苹果和香蕉情侣](#item-1730)
-- [日式简洁信息图风格限制](#item-1731)
-- [关于七海吃拉面的四格日式搞笑漫画](#item-1732)
-- [通过坐标定位同一地点的分屏延时摄影](#item-1733)
-- [一只浅灰色兔子的视角](#item-1734)
-- [从赛博朋克视角看比特币的四格漫画](#item-1735)
-- [贴在馒头贩卖机上的偶像传单](#item-1736)
-- [将城市照片编辑成有越南骑行者的雨景](#item-1737)
-- [《临江仙》诗词的课本式插画](#item-1738)
-- [波普风格传单图片，用于笔记文章](#item-1739)
-- [基于沙发照片的等距客厅布局](#item-1740)
-- [白板风格幻灯片，解释一项研究论文](#item-1741)
-- [爱因斯坦向埃隆·马斯克学习自拍 (中文)](#item-1742)
+- [动画闪光文字显示序列](#item-114)
+- [图示：如何优雅地行走](#item-115)
+- [拟人化的苹果和香蕉情侣](#item-116)
+- [日式简洁信息图风格限制](#item-117)
+- [关于七海吃拉面的四格日式搞笑漫画](#item-118)
+- [通过坐标定位同一地点的分屏延时摄影](#item-119)
+- [一只浅灰色兔子的视角](#item-120)
+- [从赛博朋克视角看比特币的四格漫画](#item-121)
+- [贴在馒头贩卖机上的偶像传单](#item-122)
+- [将城市照片编辑成有越南骑行者的雨景](#item-123)
+- [《临江仙》诗词的课本式插画](#item-124)
+- [波普风格传单图片，用于笔记文章](#item-125)
+- [基于沙发照片的等距客厅布局](#item-126)
+- [白板风格幻灯片，解释一项研究论文](#item-127)
+- [爱因斯坦向埃隆·马斯克学习自拍 (中文)](#item-128)
 - [Nano Banana Pro 发布，吸睛缩略图](#nano-banana-pro-16)
-- [李小龙在道场与尤达大师切磋](#item-1744)
-- [带画框和对话气泡的高细节故事艺术布局](#item-1745)
-- [像素游戏角色从电视中爬出](#item-1746)
+- [李小龙在道场与尤达大师切磋](#item-129)
+- [带画框和对话气泡的高细节故事艺术布局](#item-130)
+- [像素游戏角色从电视中爬出](#item-131)
 - [可爱的 Q 版猫耳女孩插画](#q)
-- [将服装更改为与参考服装匹配](#item-1748)
-- [时尚女性的超逼真环境肖像提示（部分）](#item-1749)
-- [四格漫画系列](#item-1750)
+- [将服装更改为与参考服装匹配](#item-132)
+- [时尚女性的超逼真环境肖像提示（部分）](#item-133)
+- [四格漫画系列](#item-134)
 - [细胞毒性 T 细胞杀死癌细胞的科学图解](#t)
-- [船长磨损的航海日志草图](#item-1752)
-- [杂志风格的照片，包含给定的文章文本](#item-1753)
+- [船长磨损的航海日志草图](#item-135)
+- [杂志风格的照片，包含给定的文章文本](#item-136)
 - [AIFocus Twitter 横幅，带有 Google 品牌标识](#aifocus-twitter-google)
 - [黑白动物的 16 位像素艺术海报](#16)
-- [带叠加描述的带注释地标图像](#item-1756)
-- [地球是猫咪星球的四格漫画](#item-1757)
+- [带叠加描述的带注释地标图像](#item-137)
+- [地球是猫咪星球的四格漫画](#item-138)
 - [8.1. Viral Cover Image (Youtube/Douyin/TikTok)](#81-viral-cover-image-youtubedouyintiktok)
 - [浮世绘闪卡（by @MANISH1027512）](#by-manish1027512)
 - [生成对应坐标的图片（by @TechieBySA）](#by-techiebysa)
@@ -398,7 +398,13 @@
 - Author: the
 - Output: A scanned page from a high-end Japanese photobook (shashin-shu). A 9-grid photo layout printed on textured matte art paper. [Layout design]: The 9 photos are arranged in a clean grid with wide white margins at the bottom to accommodate typography.  [Subject consistency - STRICT]:  Source: Based strictly on the uploaded reference image. [SAME CHARACTER IN ALL PANELS].  Styling strategy: [RANDOMLY SELECT ONE]:     1.  {Classic}: {argument name="classic outfit" default="Loose white shirt + shorts"}.     2.  {Soft}: {argument name="soft outfit" default="Beige knit cardigan + camisole"}.     3.  {Pure}: {argument name="pure outfit" default="White lace-trimmed slip dress"} (best for bath transitions).      Note: In Row 3 (Bath), the outfit should create a "wet look" or reveal some skin.  [Typography & Japanese elements - the artistic touch]: (The AI must render a title text in the bottom white margin.) [RANDOMLY SELECT ONE title theme]: 1.  {Theme: Summer}: Large Japanese text "{argument name="summer title Japanese" default="青い夏"}" with small English text "{argument name="summer title English" default="BLUE SUMMER"}" below it. 2.  {Theme: Private}: Large Japanese text "{argument name="private title Japanese" default="私小説"}" with small English text "{argument name="private title English" default="PRIVATE NOVEL"}" below it. 3.  {Theme: Air}: Large Japanese text "{argument name="air title Japanese" default="空気感"}" with small English text "{argument name="air title English" default="AIRY MOMENTS"}" below it.  Signature: The handwritten text "{argument name="signature text" default="By : Berryxia"}" is placed artistically next to the title or in a corner like a watermark.  [Grid narrative - the "day to night" journey]:  Row 1: Outdoor breath (wind & light) 1.  Top-left (wide): Subject standing in the wind, hair blowing, backlit by the sun. 2.  Top-middle (detail): Close-up of a hand holding a glass bottle of soda or blocking the sun. 3.  Top-right (motion): Blurry candid shot of the subject walking away on a street.  Row 2: Indoor play (props & "hiding") 4.  Center-left (hiding): Subject sitting on tatami, using a dried flower to cover one eye. 5.  Center (candid): Subject lying upside down on a sofa, reading a book, face partially hidden. 6.  Center-right (fetish focus): Focus on bare feet curled on the rug or fingers touching hair.  Row 3: Private/wet (steam & skin) 7.  Bottom-left (steamy back): Back view in a steamy bathroom. Wet hair sticking to the nape of the neck. Soft focus. 8.  Bottom-middle (immersion): Subject submerged in a bathtub, water up to the chin, dreamy high-key lighting. 9.  Bottom-right (end): Detail of steam on a mirror.  [Aesthetic style]:  Film stock: Fujifilm Pro 400H (cyan shadows, airy highlights).  Texture: Visible paper texture, slight vignetting, layout design feel.  [Parameters]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
 - Notes: [Type]: A scanned page from a high-end Japanese photobook (shashin-shu). A 9-grid photo layout printed on textured matte art paper. [Layout design]: The 9 photos are arranged in a clean grid with wide white margins at the bottom to accommodate typography.  [Subject consistency - STRICT]:  Source: Based strictly on the uploaded reference image. [SAME CHARACTER IN ALL PANELS].  Styling strategy: [RANDOMLY SELECT ONE]:     1.  {Classic}: {argument name="classic outfit" default="Loose white shirt + shorts"}.     2.  {Soft}: {argument name="soft outfit" default="Beige knit cardigan + camisole"}.     3.  {Pure}: {argument name="pure outfit" default="White lace-trimmed slip dress"} (best for bath transitions).      Note: In Row 3 (Bath), the outfit should create a "wet look" or reveal some skin.  [Typography & Japanese elements - the artistic touch]: (The AI must render a title text in the bottom white margin.) [RANDOMLY SELECT ONE title theme]: 1.  {Theme: Summer}: Large Japanese text "{argument name="summer title Japanese" default="青い夏"}" with small English text "{argument name="summer title English" default="BLUE SUMMER"}" below it. 2.  {Theme: Private}: Large Japanese text "{argument name="private title Japanese" default="私小説"}" with small English text "{argument name="private title English" default="PRIVATE NOVEL"}" below it. 3.  {Theme: Air}: Large Japanese text "{argument name="air title Japanese" default="空気感"}" with small English text "{argument name="air title English" default="AIRY MOMENTS"}" below it.  Signature: The handwritten text "{argument name="signature text" default="By : Berryxia"}" is placed artistically next to the title or in a corner like a watermark.  [Grid narrative - the "day to night" journey]:  Row 1: Outdoor breath (wind & light) 1.  Top-left (wide): Subject standing in the wind, hair blowing, backlit by the sun. 2.  Top-middle (detail): Close-up of a hand holding a glass bottle of soda or blocking the sun. 3.  Top-right (motion): Blurry candid shot of the subject walking away on a street.  Row 2: Indoor play (props & "hiding") 4.  Center-left (hiding): Subject sitting on tatami, using a dried flower to cover one eye. 5.  Center (candid): Subject lying upside down on a sofa, reading a book, face partially hidden. 6.  Center-right (fetish focus): Focus on bare feet curled on the rug or fingers touching hair.  Row 3: Private/wet (steam & skin) 7.  Bottom-left (steamy back): Back view in a steamy bathroom. Wet hair sticking to the nape of the neck. Soft focus. 8.  Bottom-middle (immersion): Subject submerged in a bathtub, water up to the chin, dreamy high-key lighting. 9.  Bottom-right (end): Detail of steam on a mirror.  [Aesthetic style]:  Film stock: Fujifilm Pro 400H (cyan shadows, airy highlights).  Texture: Visible paper texture, slight vignetting, layout design feel.  [Parameters]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.; 👉 Try it now →.%20A%209-grid%20photo%20layout%20printed%20on%20textured%20matte%20art%20paper.%20%5BLayout%20design%5D%3A%20The%209%20photos%20are%20arranged%20in%20a%20clean%20grid%20with%20wide%20white%20margins%20at%20the%20bottom%20to%20accommodate%20typography.%20%20%5BSubject%20consistency%20-%20STRICT%5D%3A%20%20Source%3A%20Based%20strictly%20on%20the%20uploaded%20reference%20image.%20%5BSAME%20CHARACTER%20IN%20ALL%20PANELS%5D.%20%20Styling%20strategy%3A%20%5BRANDOMLY%20SELECT%20ONE%5D%3A%20%20%20%20%201.%20%20%7BClassic%7D%3A%20%7Bargument%20name%3D%22classic%20outfit%22%20default%3D%22Loose%20white%20shirt%20%2B%20shorts%22%7D.%20%20%20%20%202.%20%20%7BSoft%7D%3A%20%7Bargument%20name%3D%22soft%20outfit%22%20default%3D%22Beige%20knit%20cardigan%20%2B%20camisole%22%7D.%20%20%20%20%203.%20%20%7BPure%7D%3A%20%7Bargument%20name%3D%22pure%20outfit%22%20default%3D%22White%20lace-trimmed%20slip%20dress%22%7D%20(best%20for%20bath%20transitions).%20%20%20%20%20%20Note%3A%20In%20Row%203%20(Bath)%2C%20the%20outfit%20should%20create%20a%20%22wet%20look%22%20or%20reveal%20some%20skin.%20%20%5BTypography%20%26%20Japanese%20elements%20-%20the%20artistic%20touch%5D%3A%20(The%20AI%20must%20render%20a%20title%20text%20in%20the%20bottom%20white%20margin.)%20%5BRANDOMLY%20SELECT%20ONE%20title%20theme%5D%3A%201.%20%20%7BTheme%3A%20Summer%7D%3A%20Large%20Japanese%20text%20%22%7Bargument%20name%3D%22summer%20title%20Japanese%22%20default%3D%22%E9%9D%92%E3%81%84%E5%A4%8F%22%7D%22%20with%20small%20English%20text%20%22%7Bargument%20name%3D%22summer%20title%20English%22%20default%3D%22BLUE%20SUMMER%22%7D%22%20below%20it.%202.%20%20%7BTheme%3A%20Private%7D%3A%20Large%20Japanese%20text%20%22%7Bargument%20name%3D%22private%20title%20Japanese%22%20default%3D%22%E7%A7%81%E5%B0%8F%E8%AA%AC%22%7D%22%20with%20small%20English%20text%20%22%7Bargument%20name%3D%22private%20title%20English%22%20default%3D%22PRIVATE%20NOVEL%22%7D%22%20below%20it.%203.%20%20%7BTheme%3A%20Air%7D%3A%20Large%20Japanese%20text%20%22%7Bargument%20name%3D%22air%20title%20Japanese%22%20default%3D%22%E7%A9%BA%E6%B0%97%E6%84%9F%22%7D%22%20with%20small%20English%20text%20%22%7Bargument%20name%3D%22air%20title%20English%22%20default%3D%22AIRY%20MOMENTS%22%7D%22%20below%20it.%20%20Signature%3A%20The%20handwritten%20text%20%22%7Bargument%20name%3D%22signature%20text%22%20default%3D%22By%20%3A%20Berryxia%22%7D%22%20is%20placed%20artistically%20next%20to%20the%20title%20or%20in%20a%20corner%20like%20a%20watermark.%20%20%5BGrid%20narrative%20-%20the%20%22day%20to%20night%22%20journey%5D%3A%20%20Row%201%3A%20Outdoor%20breath%20(wind%20%26%20light)%201.%20%20Top-left%20(wide)%3A%20Subject%20standing%20in%20the%20wind%2C%20hair%20blowing%2C%20backlit%20by%20the%20sun.%202.%20%20Top-middle%20(detail)%3A%20Close-up%20of%20a%20hand%20holding%20a%20glass%20bottle%20of%20soda%20or%20blocking%20the%20sun.%203.%20%20Top-right%20(motion)%3A%20Blurry%20candid%20shot%20of%20the%20subject%20walking%20away%20on%20a%20street.%20%20Row%202%3A%20Indoor%20play%20(props%20%26%20%22hiding%22)%204.%20%20Center-left%20(hiding)%3A%20Subject%20sitting%20on%20tatami%2C%20using%20a%20dried%20flower%20to%20cover%20one%20eye.%205.%20%20Center%20(candid)%3A%20Subject%20lying%20upside%20down%20on%20a%20sofa%2C%20reading%20a%20book%2C%20face%20partially%20hidden.%206.%20%20Center-right%20(fetish%20focus)%3A%20Focus%20on%20bare%20feet%20curled%20on%20the%20rug%20or%20fingers%20touching%20hair.%20%20Row%203%3A%20Private%2Fwet%20(steam%20%26%20skin)%207.%20%20Bottom-left%20(steamy%20back)%3A%20Back%20view%20in%20a%20steamy%20bathroom.%20Wet%20hair%20sticking%20to%20the%20nape%20of%20the%20neck.%20Soft%20focus.%208.%20%20Bottom-middle%20(immersion)%3A%20Subject%20submerged%20in%20a%20bathtub%2C%20water%20up%20to%20the%20chin%2C%20dreamy%20high-key%20lighting.%209.%20%20Bottom-right%20(end)%3A%20Detail%20of%20steam%20on%20a%20mirror.%20%20%5BAesthetic%20style%5D%3A%20%20Film%20stock%3A%20Fujifilm%20Pro%20400H%20(cyan%20shadows%2C%20airy%20highlights).%20%20Texture%3A%20Visible%20paper%20texture%2C%20slight%20vignetting%2C%20layout%20design%20feel.%20%20%5BParameters%5D%3A%20--ar%202%3A3%20--style%20raw%20--v%206.0%20--stylize%20200%20--cref%20%5BURL%5D%20--cw%2080%20--no%20commercial%20smile%2C%20stiff%20posing%2C%20studio%20lighting.%20Use%20indoor%20hotel%20style%20B%20for%20output.)
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Type]:** A scanned page from a high-end Japanese photobook (shashin-shu). **A 9-grid photo layout printed on textured matte art paper.** **[Layout design]:** The 9 photos are arranged in a clean grid with **wide white margins** at the bottom to accommodate typography.  **[Subject consistency - STRICT]:** * **Source:** Based strictly on the uploaded reference image. **[SAME CHARACTER IN ALL PANELS].** * **Styling strategy:** **[RANDOMLY SELECT ONE]:**     1.  **{Classic}:** {argument name="classic outfit" default="Loose white shirt + shorts"}.     2.  **{Soft}:** {argument name="soft outfit" default="Beige knit cardigan + camisole"}.     3.  **{Pure}:** {argument name="pure outfit" default="White lace-trimmed slip dress"} (best for bath transitions).     * **Note:** In Row 3 (Bath), the outfit should create a "wet look" or reveal some skin.  **[Typography & Japanese elements - the artistic touch]:** *(The AI must render a title text in the bottom white margin.)* **[RANDOMLY SELECT ONE title theme]:** 1.  **{Theme: Summer}:** Large Japanese text **"{argument name="summer title Japanese" default="青い夏"}"** with small English text **"{argument name="summer title English" default="BLUE SUMMER"}"** below it. 2.  **{Theme: Private}:** Large Japanese text **"{argument name="private title Japanese" default="私小説"}"** with small English text **"{argument name="private title English" default="PRIVATE NOVEL"}"** below it. 3.  **{Theme: Air}:** Large Japanese text **"{argument name="air title Japanese" default="空気感"}"** with small English text **"{argument name="air title English" default="AIRY MOMENTS"}"** below it. * **Signature:** The handwritten text **"{argument name="signature text" default="By : Berryxia"}"** is placed artistically next to the title or in a corner like a watermark.  **[Grid narrative - the "day to night" journey]:**  **Row 1: Outdoor breath (wind & light)** 1.  **Top-left (wide):** Subject standing in the wind, hair blowing, **backlit by the sun**. 2.  **Top-middle (detail):** Close-up of a **hand holding a glass bottle of soda** or blocking the sun. 3.  **Top-right (motion):** Blurry candid shot of the subject **walking away on a street**.  **Row 2: Indoor play (props & "hiding")** 4.  **Center-left (hiding):** Subject sitting on tatami, **using a dried flower to cover one eye**. 5.  **Center (candid):** Subject **lying upside down on a sofa**, reading a book, face partially hidden. 6.  **Center-right (fetish focus):** Focus on **bare feet curled on the rug** or fingers touching hair.  **Row 3: Private/wet (steam & skin)** 7.  **Bottom-left (steamy back):** **Back view in a steamy bathroom**. Wet hair sticking to the nape of the neck. Soft focus. 8.  **Bottom-middle (immersion):** Subject **submerged in a bathtub**, water up to the chin, dreamy high-key lighting. 9.  **Bottom-right (end):** Detail of **steam on a mirror**.  **[Aesthetic style]:** * **Film stock:** Fujifilm Pro 400H (cyan shadows, airy highlights). * **Texture:** **Visible paper texture**, slight vignetting, layout design feel.  **[Parameters]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -406,7 +412,9 @@
 
 <a id="chalkboard-king-rabbit-illustration-at-sunset"></a>
 ### Chalkboard king rabbit illustration at sunset
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 On the classroom blackboard, draw a chalk illustration of a rabbit king and also write the text "うさ王様参上！" (The Rabbit King has arrived!). Show a real classroom scene with sunset light streaming in through the window from a diagonal angle.
@@ -415,7 +423,13 @@ On the classroom blackboard, draw a chalk illustration of a rabbit king and also
 <a id="9-raster-layout-prompt-fr-japanische-fotobcher-fr-nano-banana-pro"></a>
 ### 9-Raster-Layout-Prompt für japanische Fotobücher für Nano Banana Pro
 - Output: Eine gescannte Seite aus einem hochwertigen japanischen Fotobuch (Shashin-shu). Ein 9-Feld-Fotolayout, gedruckt auf strukturiertem, mattem Kunstdruckpapier. [Layout-Design]: Die 9 Fotos sind in einem klaren Raster angeordnet, mit breiten weißen Rändern unten, um Platz für Typografie zu schaffen. [Motivkonsistenz - STRIKT]:  Quelle: Streng basierend auf dem hochgeladenen Referenzbild. [GLEICHER CHARAKTER IN ALLEN FELDERN].  Styling-Strategie: [ZUFÄLLIG EINE AUSWÄHLEN]: 1. {Klassisch}: {argument name="classic outfit" default="Lockeres weißes Hemd + Shorts"}. 2. {Sanft}: {argument name="soft outfit" default="Beige Strickjacke + Camisole"}. 3. {Rein}: {argument name="pure outfit" default="Weißes, spitzenbesetztes Slip-Kleid"} (am besten für Bad-Übergänge).  Hinweis: In Reihe 3 (Bad) sollte das Outfit einen "Wet-Look" erzeugen oder etwas Haut zeigen. [Typografie & japanische Elemente - der künstlerische Touch]: (Die KI muss einen Titeltext im unteren weißen Rand rendern.) [ZUFÄLLIG EIN Titelthema AUSWÄHLEN]: 1. {Thema: Sommer}: Großer japanischer Text "{argument name="summer title Japanese" default="青い夏"}" mit kleinem englischen Text "{argument name="summer title English" default="BLUE SUMMER"}" darunter. 2. {Thema: Privat}: Großer japanischer Text "{argument name="private title Japanese" default="私小説"}" mit kleinem englischen Text "{argument name="private title English" default="PRIVATE NOVEL"}" darunter. 3. {Thema: Luft}: Großer japanischer Text "{argument name="air title Japanese" default="空気感"}" mit kleinem englischen Text "{argument name="air title English" default="AIRY MOMENTS"}" darunter.  Signatur: Der handschriftliche Text "{argument name="signature text" default="By : Berryxia"}" ist künstlerisch neben dem Titel oder in einer Ecke wie ein Wasserzeichen platziert. [Raster-Erzählung - die "Tag-zu-Nacht"-Reise]: Reihe 1: Draußen atmen (Wind & Licht) 1. Oben-links (weit): Motiv steht im Wind, Haare wehen, von der Sonne von hinten beleuchtet. 2. Oben-Mitte (Detail): Nahaufnahme einer Hand, die eine Glasflasche Limonade hält oder die Sonne abblockt. 3. Oben-rechts (Bewegung): Unscharfe Momentaufnahme des Motivs, das auf einer Straße wegläuft. Reihe 2: Drinnen spielen (Requisiten & "Verstecken") 4. Mitte-links (versteckt): Motiv sitzt auf Tatami, verdeckt ein Auge mit einer getrockneten Blume. 5. Mitte (Momentaufnahme): Motiv liegt kopfüber auf einem Sofa, liest ein Buch, Gesicht teilweise verdeckt. 6. Mitte-rechts (Fetisch-Fokus): Fokus auf nackte Füße, die sich auf dem Teppich krümmen oder Finger, die Haare berühren. Reihe 3: Privat/Nass (Dampf & Haut) 7. Unten-links (dampfiger Rücken): Rückenansicht in einem dampfigen Badezimmer. Nasse Haare kleben am Nacken. Weicher Fokus. 8. Unten-Mitte (Eintauchen): Motiv im Badewasser versunken, Wasser bis zum Kinn, verträumte High-Key-Beleuchtung. 9. Unten-rechts (Ende): Detail von Dampf auf einem Spiegel. [Ästhetischer Stil]:  Filmtyp: Fujifilm Pro 400H (Cyan-Schatten, luftige Highlights).  Textur: Sichtbare Papierstruktur, leichte Vignettierung, Layout-Design-Gefühl. [Parameter]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Typ]:** Eine gescannte Seite aus einem hochwertigen japanischen Fotobuch (Shashin-shu). **Ein 9-Feld-Fotolayout, gedruckt auf strukturiertem, mattem Kunstdruckpapier.** **[Layout-Design]:** Die 9 Fotos sind in einem klaren Raster angeordnet, mit **breiten weißen Rändern** unten, um Platz für Typografie zu schaffen. **[Motivkonsistenz - STRIKT]:** * **Quelle:** Streng basierend auf dem hochgeladenen Referenzbild. **[GLEICHER CHARAKTER IN ALLEN FELDERN].** * **Styling-Strategie:** **[ZUFÄLLIG EINE AUSWÄHLEN]:** 1. **{Klassisch}:** {argument name="classic outfit" default="Lockeres weißes Hemd + Shorts"}. 2. **{Sanft}:** {argument name="soft outfit" default="Beige Strickjacke + Camisole"}. 3. **{Rein}:** {argument name="pure outfit" default="Weißes, spitzenbesetztes Slip-Kleid"} (am besten für Bad-Übergänge). * **Hinweis:** In Reihe 3 (Bad) sollte das Outfit einen "Wet-Look" erzeugen oder etwas Haut zeigen. **[Typografie & japanische Elemente - der künstlerische Touch]:** *(Die KI muss einen Titeltext im unteren weißen Rand rendern.)* **[ZUFÄLLIG EIN Titelthema AUSWÄHLEN]:** 1. **{Thema: Sommer}:** Großer japanischer Text **"{argument name="summer title Japanese" default="青い夏"}"** mit kleinem englischen Text **"{argument name="summer title English" default="BLUE SUMMER"}"** darunter. 2. **{Thema: Privat}:** Großer japanischer Text **"{argument name="private title Japanese" default="私小説"}"** mit kleinem englischen Text **"{argument name="private title English" default="PRIVATE NOVEL"}"** darunter. 3. **{Thema: Luft}:** Großer japanischer Text **"{argument name="air title Japanese" default="空気感"}"** mit kleinem englischen Text **"{argument name="air title English" default="AIRY MOMENTS"}"** darunter. * **Signatur:** Der handschriftliche Text **"{argument name="signature text" default="By : Berryxia"}"** ist künstlerisch neben dem Titel oder in einer Ecke wie ein Wasserzeichen platziert. **[Raster-Erzählung - die "Tag-zu-Nacht"-Reise]:** **Reihe 1: Draußen atmen (Wind & Licht)** 1. **Oben-links (weit):** Motiv steht im Wind, Haare wehen, **von der Sonne von hinten beleuchtet**. 2. **Oben-Mitte (Detail):** Nahaufnahme einer **Hand, die eine Glasflasche Limonade hält** oder die Sonne abblockt. 3. **Oben-rechts (Bewegung):** Unscharfe Momentaufnahme des Motivs, das **auf einer Straße wegläuft**. **Reihe 2: Drinnen spielen (Requisiten & "Verstecken")** 4. **Mitte-links (versteckt):** Motiv sitzt auf Tatami, **verdeckt ein Auge mit einer getrockneten Blume**. 5. **Mitte (Momentaufnahme):** Motiv **liegt kopfüber auf einem Sofa**, liest ein Buch, Gesicht teilweise verdeckt. 6. **Mitte-rechts (Fetisch-Fokus):** Fokus auf **nackte Füße, die sich auf dem Teppich krümmen** oder Finger, die Haare berühren. **Reihe 3: Privat/Nass (Dampf & Haut)** 7. **Unten-links (dampfiger Rücken):** **Rückenansicht in einem dampfigen Badezimmer**. Nasse Haare kleben am Nacken. Weicher Fokus. 8. **Unten-Mitte (Eintauchen):** Motiv **im Badewasser versunken**, Wasser bis zum Kinn, verträumte High-Key-Beleuchtung. 9. **Unten-rechts (Ende):** Detail von **Dampf auf einem Spiegel**. **[Ästhetischer Stil]:** * **Filmtyp:** Fujifilm Pro 400H (Cyan-Schatten, luftige Highlights). * **Textur:** **Sichtbare Papierstruktur**, leichte Vignettierung, Layout-Design-Gefühl. **[Parameter]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -423,7 +437,9 @@ On the classroom blackboard, draw a chalk illustration of a rabbit king and also
 
 <a id="kreide-knigskaninchen-illustration-bei-sonnenuntergang"></a>
 ### Kreide-Königskaninchen-Illustration bei Sonnenuntergang
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 Zeichne auf die Schultafel eine Kreideillustration eines Kaninchenkönigs und schreibe auch den Text „うさ王様参上!“ (Der Kaninchenkönig ist da!). Zeige eine echte Klassenzimmerszene mit Sonnenlicht, das schräg durch das Fenster einfällt.
@@ -432,7 +448,13 @@ Zeichne auf die Schultafel eine Kreideillustration eines Kaninchenkönigs und sc
 <a id="prompt-de-diseo-de-fotolibro-japons-de-9-cuadrculas-para-nano-banana-pro"></a>
 ### Prompt de diseño de fotolibro japonés de 9 cuadrículas para Nano Banana Pro
 - Output: Una página escaneada de un fotolibro japonés (shashin-shu) de alta gama. Un diseño de fotos de 9 cuadrículas impreso en papel de arte mate texturizado. [Diseño de maquetación]: Las 9 fotos están dispuestas en una cuadrícula limpia con amplios márgenes blancos en la parte inferior para acomodar la tipografía. [Consistencia del sujeto - ESTRICTA]:  Fuente: Basado estrictamente en la imagen de referencia cargada. [MISMO PERSONAJE EN TODOS LOS PANELES].  Estrategia de estilo: [SELECCIONAR UNO AL AZAR]: 1. {Clásico}: {argument name="classic outfit" default="Camisa blanca holgada + shorts"}. 2. {Suave}: {argument name="soft outfit" default="Cárdigan de punto beige + camisola"}. 3. {Puro}: {argument name="pure outfit" default="Vestido lencero blanco con encaje"} (ideal para transiciones de baño).  Nota: En la Fila 3 (Baño), el atuendo debe crear un "aspecto mojado" o revelar algo de piel. [Tipografía y elementos japoneses - el toque artístico]: (La IA debe renderizar un texto de título en el margen blanco inferior.) [SELECCIONAR UN TEMA DE TÍTULO AL AZAR]: 1. {Tema: Verano}: Texto japonés grande "{argument name="summer title Japanese" default="青い夏"}" con texto inglés pequeño "{argument name="summer title English" default="BLUE SUMMER"}" debajo. 2. {Tema: Privado}: Texto japonés grande "{argument name="private title Japanese" default="私小説"}" con texto inglés pequeño "{argument name="private title English" default="PRIVATE NOVEL"}" debajo. 3. {Tema: Aire}: Texto japonés grande "{argument name="air title Japanese" default="空気感"}" con texto inglés pequeño "{argument name="air title English" default="AIRY MOMENTS"}" debajo.  Firma: El texto manuscrito "{argument name="signature text" default="By : Berryxia"}" se coloca artísticamente junto al título o en una esquina como una marca de agua. [Narrativa de la cuadrícula - el viaje "del día a la noche"]: Fila 1: Aliento al aire libre (viento y luz) 1. Superior izquierda (ancha): Sujeto de pie al viento, cabello ondeando, a contraluz del sol. 2. Superior central (detalle): Primer plano de una mano sosteniendo una botella de vidrio de refresco o bloqueando el sol. 3. Superior derecha (movimiento): Toma espontánea borrosa del sujeto alejándose por una calle. Fila 2: Juego interior (accesorios y "escondite") 4. Central izquierda (escondite): Sujeto sentado en tatami, usando una flor seca para cubrir un ojo. 5. Central (espontánea): Sujeto recostado boca abajo en un sofá, leyendo un libro, con el rostro parcialmente oculto. 6. Central derecha (enfoque fetichista): Enfoque en pies descalzos acurrucados en la alfombra o dedos tocando el cabello. Fila 3: Privado/mojado (vapor y piel) 7. Inferior izquierda (espalda vaporosa): Vista de espalda en un baño con vapor. Cabello mojado pegado a la nuca. Enfoque suave. 8. Inferior central (inmersión): Sujeto sumergido en una bañera, agua hasta la barbilla, iluminación de clave alta de ensueño. 9. Inferior derecha (final): Detalle de vapor en un espejo. [Estilo estético]:  Película: Fujifilm Pro 400H (sombras cian, luces etéreas).  Textura: Textura de papel visible, ligero viñeteado, sensación de diseño de maquetación. [Parámetros]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Tipo]:** Una página escaneada de un fotolibro japonés (shashin-shu) de alta gama. **Un diseño de fotos de 9 cuadrículas impreso en papel de arte mate texturizado.** **[Diseño de maquetación]:** Las 9 fotos están dispuestas en una cuadrícula limpia con **amplios márgenes blancos** en la parte inferior para acomodar la tipografía. **[Consistencia del sujeto - ESTRICTA]:** * **Fuente:** Basado estrictamente en la imagen de referencia cargada. **[MISMO PERSONAJE EN TODOS LOS PANELES].** * **Estrategia de estilo:** **[SELECCIONAR UNO AL AZAR]:** 1. **{Clásico}:** {argument name="classic outfit" default="Camisa blanca holgada + shorts"}. 2. **{Suave}:** {argument name="soft outfit" default="Cárdigan de punto beige + camisola"}. 3. **{Puro}:** {argument name="pure outfit" default="Vestido lencero blanco con encaje"} (ideal para transiciones de baño). * **Nota:** En la Fila 3 (Baño), el atuendo debe crear un "aspecto mojado" o revelar algo de piel. **[Tipografía y elementos japoneses - el toque artístico]:** *(La IA debe renderizar un texto de título en el margen blanco inferior.)* **[SELECCIONAR UN TEMA DE TÍTULO AL AZAR]:** 1. **{Tema: Verano}:** Texto japonés grande **"{argument name="summer title Japanese" default="青い夏"}"** con texto inglés pequeño **"{argument name="summer title English" default="BLUE SUMMER"}"** debajo. 2. **{Tema: Privado}:** Texto japonés grande **"{argument name="private title Japanese" default="私小説"}"** con texto inglés pequeño **"{argument name="private title English" default="PRIVATE NOVEL"}"** debajo. 3. **{Tema: Aire}:** Texto japonés grande **"{argument name="air title Japanese" default="空気感"}"** con texto inglés pequeño **"{argument name="air title English" default="AIRY MOMENTS"}"** debajo. * **Firma:** El texto manuscrito **"{argument name="signature text" default="By : Berryxia"}"** se coloca artísticamente junto al título o en una esquina como una marca de agua. **[Narrativa de la cuadrícula - el viaje "del día a la noche"]:** **Fila 1: Aliento al aire libre (viento y luz)** 1. **Superior izquierda (ancha):** Sujeto de pie al viento, cabello ondeando, **a contraluz del sol**. 2. **Superior central (detalle):** Primer plano de una **mano sosteniendo una botella de vidrio de refresco** o bloqueando el sol. 3. **Superior derecha (movimiento):** Toma espontánea borrosa del sujeto **alejándose por una calle**. **Fila 2: Juego interior (accesorios y "escondite")** 4. **Central izquierda (escondite):** Sujeto sentado en tatami, **usando una flor seca para cubrir un ojo**. 5. **Central (espontánea):** Sujeto **recostado boca abajo en un sofá**, leyendo un libro, con el rostro parcialmente oculto. 6. **Central derecha (enfoque fetichista):** Enfoque en **pies descalzos acurrucados en la alfombra** o dedos tocando el cabello. **Fila 3: Privado/mojado (vapor y piel)** 7. **Inferior izquierda (espalda vaporosa):** **Vista de espalda en un baño con vapor**. Cabello mojado pegado a la nuca. Enfoque suave. 8. **Inferior central (inmersión):** Sujeto **sumergido en una bañera**, agua hasta la barbilla, iluminación de clave alta de ensueño. 9. **Inferior derecha (final):** Detalle de **vapor en un espejo**. **[Estilo estético]:** * **Película:** Fujifilm Pro 400H (sombras cian, luces etéreas). * **Textura:** **Textura de papel visible**, ligero viñeteado, sensación de diseño de maquetación. **[Parámetros]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -440,7 +462,9 @@ Zeichne auf die Schultafel eine Kreideillustration eines Kaninchenkönigs und sc
 
 <a id="ilustracin-de-un-conejo-rey-en-un-pizarrn-al-atardecer"></a>
 ### Ilustración de un conejo rey en un pizarrón al atardecer
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 En el pizarrón del aula, dibuja con tiza una ilustración de un rey conejo y también escribe el texto "うさ王様参上！" (¡El Rey Conejo ha llegado!). Muestra una escena real de un aula con la luz del atardecer entrando por la ventana en un ángulo diagonal.
@@ -449,7 +473,13 @@ En el pizarrón del aula, dibuja con tiza una ilustración de un rey conejo y ta
 <a id="prompt-de-diseo-de-fotolibro-japons-de-9-cuadrculas-para-nano-banana-pro-2"></a>
 ### Prompt de diseño de fotolibro japonés de 9 cuadrículas para Nano Banana Pro
 - Output: Una página escaneada de un fotolibro japonés (shashin-shu) de alta gama. Un diseño de foto de 9 cuadrículas impreso en papel de arte mate texturizado. [Diseño de maquetación]: Las 9 fotos están dispuestas en una cuadrícula limpia con amplios márgenes blancos en la parte inferior para acomodar la tipografía. [Consistencia del sujeto - ESTRICTA]:  Fuente: Basado estrictamente en la imagen de referencia subida. [MISMO PERSONAJE EN TODOS LOS PANELES].  Estrategia de estilismo: [SELECCIONAR UNO AL AZAR]: 1. {Clásico}: {argument name="classic outfit" default="Camisa blanca holgada + pantalones cortos"}. 2. {Suave}: {argument name="soft outfit" default="Cárdigan de punto beige + camisola"}. 3. {Puro}: {argument name="pure outfit" default="Vestido lencero blanco con encaje"} (mejor para transiciones de baño).  Nota: En la Fila 3 (Baño), el atuendo debe crear un "efecto mojado" o revelar algo de piel. [Tipografía y elementos japoneses - el toque artístico]: (La IA debe renderizar un texto de título en el margen blanco inferior.) [SELECCIONAR UN tema de título AL AZAR]: 1. {Tema: Verano}: Texto japonés grande "{argument name="summer title Japanese" default="青い夏"}" con texto inglés pequeño "{argument name="summer title English" default="BLUE SUMMER"}" debajo. 2. {Tema: Privado}: Texto japonés grande "{argument name="private title Japanese" default="私小説"}" con texto inglés pequeño "{argument name="private title English" default="PRIVATE NOVEL"}" debajo. 3. {Tema: Aire}: Texto japonés grande "{argument name="air title Japanese" default="空気感"}" con texto inglés pequeño "{argument name="air title English" default="AIRY MOMENTS"}" debajo.  Firma: El texto manuscrito "{argument name="signature text" default="By : Berryxia"}" se coloca artísticamente junto al título o en una esquina como una marca de agua. [Narrativa de la cuadrícula - el viaje "del día a la noche"]: Fila 1: Aliento al aire libre (viento y luz) 1. Superior izquierda (ancha): Sujeto de pie al viento, cabello ondeando, a contraluz del sol. 2. Superior central (detalle): Primer plano de una mano sosteniendo una botella de refresco de vidrio o bloqueando el sol. 3. Superior derecha (movimiento): Toma espontánea borrosa del sujeto alejándose por una calle. Fila 2: Juego interior (accesorios y "escondite") 4. Central izquierda (escondite): Sujeto sentado en tatami, usando una flor seca para cubrir un ojo. 5. Central (espontánea): Sujeto tumbado boca abajo en un sofá, leyendo un libro, con la cara parcialmente oculta. 6. Central derecha (enfoque fetichista): Enfoque en pies descalzos acurrucados en la alfombra o dedos tocando el cabello. Fila 3: Privado/mojado (vapor y piel) 7. Inferior izquierda (espalda vaporosa): Vista de espalda en un baño con vapor. Cabello mojado pegado a la nuca. Enfoque suave. 8. Inferior central (inmersión): Sujeto sumergido en una bañera, agua hasta la barbilla, iluminación de clave alta de ensueño. 9. Inferior derecha (final): Detalle de vapor en un espejo. [Estilo estético]:  Película: Fujifilm Pro 400H (sombras cian, luces etéreas).  Textura: Textura de papel visible, ligero viñeteado, sensación de diseño de maquetación. [Parámetros]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Tipo]:** Una página escaneada de un fotolibro japonés (shashin-shu) de alta gama. **Un diseño de foto de 9 cuadrículas impreso en papel de arte mate texturizado.** **[Diseño de maquetación]:** Las 9 fotos están dispuestas en una cuadrícula limpia con **amplios márgenes blancos** en la parte inferior para acomodar la tipografía. **[Consistencia del sujeto - ESTRICTA]:** * **Fuente:** Basado estrictamente en la imagen de referencia subida. **[MISMO PERSONAJE EN TODOS LOS PANELES].** * **Estrategia de estilismo:** **[SELECCIONAR UNO AL AZAR]:** 1. **{Clásico}:** {argument name="classic outfit" default="Camisa blanca holgada + pantalones cortos"}. 2. **{Suave}:** {argument name="soft outfit" default="Cárdigan de punto beige + camisola"}. 3. **{Puro}:** {argument name="pure outfit" default="Vestido lencero blanco con encaje"} (mejor para transiciones de baño). * **Nota:** En la Fila 3 (Baño), el atuendo debe crear un "efecto mojado" o revelar algo de piel. **[Tipografía y elementos japoneses - el toque artístico]:** *(La IA debe renderizar un texto de título en el margen blanco inferior.)* **[SELECCIONAR UN tema de título AL AZAR]:** 1. **{Tema: Verano}:** Texto japonés grande **"{argument name="summer title Japanese" default="青い夏"}"** con texto inglés pequeño **"{argument name="summer title English" default="BLUE SUMMER"}"** debajo. 2. **{Tema: Privado}:** Texto japonés grande **"{argument name="private title Japanese" default="私小説"}"** con texto inglés pequeño **"{argument name="private title English" default="PRIVATE NOVEL"}"** debajo. 3. **{Tema: Aire}:** Texto japonés grande **"{argument name="air title Japanese" default="空気感"}"** con texto inglés pequeño **"{argument name="air title English" default="AIRY MOMENTS"}"** debajo. * **Firma:** El texto manuscrito **"{argument name="signature text" default="By : Berryxia"}"** se coloca artísticamente junto al título o en una esquina como una marca de agua. **[Narrativa de la cuadrícula - el viaje "del día a la noche"]:** **Fila 1: Aliento al aire libre (viento y luz)** 1. **Superior izquierda (ancha):** Sujeto de pie al viento, cabello ondeando, **a contraluz del sol**. 2. **Superior central (detalle):** Primer plano de una **mano sosteniendo una botella de refresco de vidrio** o bloqueando el sol. 3. **Superior derecha (movimiento):** Toma espontánea borrosa del sujeto **alejándose por una calle**. **Fila 2: Juego interior (accesorios y "escondite")** 4. **Central izquierda (escondite):** Sujeto sentado en tatami, **usando una flor seca para cubrir un ojo**. 5. **Central (espontánea):** Sujeto **tumbado boca abajo en un sofá**, leyendo un libro, con la cara parcialmente oculta. 6. **Central derecha (enfoque fetichista):** Enfoque en **pies descalzos acurrucados en la alfombra** o dedos tocando el cabello. **Fila 3: Privado/mojado (vapor y piel)** 7. **Inferior izquierda (espalda vaporosa):** **Vista de espalda en un baño con vapor**. Cabello mojado pegado a la nuca. Enfoque suave. 8. **Inferior central (inmersión):** Sujeto **sumergido en una bañera**, agua hasta la barbilla, iluminación de clave alta de ensueño. 9. **Inferior derecha (final):** Detalle de **vapor en un espejo**. **[Estilo estético]:** * **Película:** Fujifilm Pro 400H (sombras cian, luces etéreas). * **Textura:** **Textura de papel visible**, ligero viñeteado, sensación de diseño de maquetación. **[Parámetros]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -457,7 +487,9 @@ En el pizarrón del aula, dibuja con tiza una ilustración de un rey conejo y ta
 
 <a id="ilustracin-de-un-conejo-rey-en-una-pizarra-al-atardecer"></a>
 ### Ilustración de un conejo rey en una pizarra al atardecer
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 En la pizarra del aula, dibuja con tiza una ilustración de un rey conejo y escribe también el texto "うさ王様参上！" (¡El Rey Conejo ha llegado!). Muestra una escena real de un aula con la luz del atardecer entrando por la ventana en un ángulo diagonal.
@@ -467,7 +499,13 @@ En la pizarra del aula, dibuja con tiza una ilustración de un rey conejo y escr
 ### Invite de mise en page de livre photo japonais à 9 grilles pour Nano Banana Pro
 - Output: Une page scannée d'un photobook japonais haut de gamme (shashin-shu). Une mise en page de 9 photos imprimées sur du papier d'art mat texturé. [Conception de la mise en page] : Les 9 photos sont disposées en une grille nette avec de larges marges blanches en bas pour accueillir la typographie. [Cohérence du sujet - STRICT] :  Source : Basé strictement sur l'image de référence téléchargée. [MÊME PERSONNAGE DANS TOUS LES PANNEAUX].  Stratégie de style : [SÉLECTIONNER ALÉATOIREMENT UN] : 1. {Classique} : {argument name="classic outfit" default="Chemise blanche ample + short"}. 2. {Doux} : {argument name="soft outfit" default="Cardigan en maille beige + camisole"}. 3. {Pur} : {argument name="pure outfit" default="Robe nuisette bordée de dentelle blanche"} (idéal pour les transitions de bain).  Note : Dans la rangée 3 (Bain), la tenue doit créer un "effet mouillé" ou révéler un peu de peau. [Typographie et éléments japonais - la touche artistique] : (L'IA doit rendre un titre dans la marge blanche inférieure.) [SÉLECTIONNER ALÉATOIREMENT UN thème de titre] : 1. {Thème : Été} : Grand texte japonais "{argument name="summer title Japanese" default="青い夏"}" avec un petit texte anglais "{argument name="summer title English" default="BLUE SUMMER"}" en dessous. 2. {Thème : Privé} : Grand texte japonais "{argument name="private title Japanese" default="私小説"}" avec un petit texte anglais "{argument name="private title English" default="PRIVATE NOVEL"}" en dessous. 3. {Thème : Air} : Grand texte japonais "{argument name="air title Japanese" default="空気感"}" avec un petit texte anglais "{argument name="air title English" default="AIRY MOMENTS"}" en dessous.  Signature : Le texte manuscrit "{argument name="signature text" default="By : Berryxia"}" est placé artistiquement à côté du titre ou dans un coin comme un filigrane. [Narration en grille - le voyage "du jour à la nuit"] : Rangée 1 : Souffle extérieur (vent et lumière) 1. En haut à gauche (large) : Sujet debout dans le vent, cheveux au vent, contre-jour du soleil. 2. En haut au milieu (détail) : Gros plan d'une main tenant une bouteille en verre de soda ou bloquant le soleil. 3. En haut à droite (mouvement) : Photo spontanée floue du sujet s'éloignant dans une rue. Rangée 2 : Jeu intérieur (accessoires et "cachette") 4. Au centre à gauche (cachette) : Sujet assis sur un tatami, utilisant une fleur séchée pour couvrir un œil. 5. Au centre (spontané) : Sujet allongé à l'envers sur un canapé, lisant un livre, visage partiellement caché. 6. Au centre à droite (focus fétiche) : Focus sur des pieds nus recroquevillés sur le tapis ou des doigts touchant les cheveux. Rangée 3 : Privé/mouillé (vapeur et peau) 7. En bas à gauche (dos vaporeux) : Vue de dos dans une salle de bain vaporeuse. Cheveux mouillés collés à la nuque. Mise au point douce. 8. En bas au milieu (immersion) : Sujet submergé dans une baignoire, eau jusqu'au menton, éclairage onirique à haute luminosité. 9. En bas à droite (fin) : Détail de la vapeur sur un miroir. [Style esthétique] :  Pellicule : Fujifilm Pro 400H (ombres cyan, hautes lumières aériennes).  Texture : Texture de papier visible, léger vignettage, sensation de mise en page. [Paramètres] : --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
 - Notes: [Type] : Une page scannée d'un photobook japonais haut de gamme (shashin-shu). Une mise en page de 9 photos imprimées sur du papier d'art mat texturé. [Conception de la mise en page] : Les 9 photos sont disposées en une grille nette avec de larges marges blanches en bas pour accueillir la typographie. [Cohérence du sujet - STRICT] :  Source : Basé strictement sur l'image de référence téléchargée. [MÊME PERSONNAGE DANS TOUS LES PANNEAUX].  Stratégie de style : [SÉLECTIONNER ALÉATOIREMENT UN] : 1. {Classique} : {argument name="classic outfit" default="Chemise blanche ample + short"}. 2. {Doux} : {argument name="soft outfit" default="Cardigan en maille beige + camisole"}. 3. {Pur} : {argument name="pure outfit" default="Robe nuisette bordée de dentelle blanche"} (idéal pour les transitions de bain).  Note : Dans la rangée 3 (Bain), la tenue doit créer un "effet mouillé" ou révéler un peu de peau. [Typographie et éléments japonais - la touche artistique] : (L'IA doit rendre un titre dans la marge blanche inférieure.) [SÉLECTIONNER ALÉATOIREMENT UN thème de titre] : 1. {Thème : Été} : Grand texte japonais "{argument name="summer title Japanese" default="青い夏"}" avec un petit texte anglais "{argument name="summer title English" default="BLUE SUMMER"}" en dessous. 2. {Thème : Privé} : Grand texte japonais "{argument name="private title Japanese" default="私小説"}" avec un petit texte anglais "{argument name="private title English" default="PRIVATE NOVEL"}" en dessous. 3. {Thème : Air} : Grand texte japonais "{argument name="air title Japanese" default="空気感"}" avec un petit texte anglais "{argument name="air title English" default="AIRY MOMENTS"}" en dessous.  Signature : Le texte manuscrit "{argument name="signature text" default="By : Berryxia"}" est placé artistiquement à côté du titre ou dans un coin comme un filigrane. [Narration en grille - le voyage "du jour à la nuit"] : Rangée 1 : Souffle extérieur (vent et lumière) 1. En haut à gauche (large) : Sujet debout dans le vent, cheveux au vent, contre-jour du soleil. 2. En haut au milieu (détail) : Gros plan d'une main tenant une bouteille en verre de soda ou bloquant le soleil. 3. En haut à droite (mouvement) : Photo spontanée floue du sujet s'éloignant dans une rue. Rangée 2 : Jeu intérieur (accessoires et "cachette") 4. Au centre à gauche (cachette) : Sujet assis sur un tatami, utilisant une fleur séchée pour couvrir un œil. 5. Au centre (spontané) : Sujet allongé à l'envers sur un canapé, lisant un livre, visage partiellement caché. 6. Au centre à droite (focus fétiche) : Focus sur des pieds nus recroquevillés sur le tapis ou des doigts touchant les cheveux. Rangée 3 : Privé/mouillé (vapeur et peau) 7. En bas à gauche (dos vaporeux) : Vue de dos dans une salle de bain vaporeuse. Cheveux mouillés collés à la nuque. Mise au point douce. 8. En bas au milieu (immersion) : Sujet submergé dans une baignoire, eau jusqu'au menton, éclairage onirique à haute luminosité. 9. En bas à droite (fin) : Détail de la vapeur sur un miroir. [Style esthétique] :  Pellicule : Fujifilm Pro 400H (ombres cyan, hautes lumières aériennes).  Texture : Texture de papier visible, léger vignettage, sensation de mise en page. [Paramètres] : --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.; 👉 Essayer maintenant →.%20Une%20mise%20en%20page%20de%209%20photos%20imprim%C3%A9es%20sur%20du%20papier%20d'art%20mat%20textur%C3%A9.%20%5BConception%20de%20la%20mise%20en%20page%5D%20%3A%20Les%209%20photos%20sont%20dispos%C3%A9es%20en%20une%20grille%20nette%20avec%20de%20larges%20marges%20blanches%20en%20bas%20pour%20accueillir%20la%20typographie.%20%5BCoh%C3%A9rence%20du%20sujet%20-%20STRICT%5D%20%3A%20%20Source%20%3A%20Bas%C3%A9%20strictement%20sur%20l'image%20de%20r%C3%A9f%C3%A9rence%20t%C3%A9l%C3%A9charg%C3%A9e.%20%5BM%C3%8AME%20PERSONNAGE%20DANS%20TOUS%20LES%20PANNEAUX%5D.%20%20Strat%C3%A9gie%20de%20style%20%3A%20%5BS%C3%89LECTIONNER%20AL%C3%89ATOIREMENT%20UN%5D%20%3A%201.%20%7BClassique%7D%20%3A%20%7Bargument%20name%3D%22classic%20outfit%22%20default%3D%22Chemise%20blanche%20ample%20%2B%20short%22%7D.%202.%20%7BDoux%7D%20%3A%20%7Bargument%20name%3D%22soft%20outfit%22%20default%3D%22Cardigan%20en%20maille%20beige%20%2B%20camisole%22%7D.%203.%20%7BPur%7D%20%3A%20%7Bargument%20name%3D%22pure%20outfit%22%20default%3D%22Robe%20nuisette%20bord%C3%A9e%20de%20dentelle%20blanche%22%7D%20(id%C3%A9al%20pour%20les%20transitions%20de%20bain).%20%20Note%20%3A%20Dans%20la%20rang%C3%A9e%203%20(Bain)%2C%20la%20tenue%20doit%20cr%C3%A9er%20un%20%22effet%20mouill%C3%A9%22%20ou%20r%C3%A9v%C3%A9ler%20un%20peu%20de%20peau.%20%5BTypographie%20et%20%C3%A9l%C3%A9ments%20japonais%20-%20la%20touche%20artistique%5D%20%3A%20(L'IA%20doit%20rendre%20un%20titre%20dans%20la%20marge%20blanche%20inf%C3%A9rieure.)%20%5BS%C3%89LECTIONNER%20AL%C3%89ATOIREMENT%20UN%20th%C3%A8me%20de%20titre%5D%20%3A%201.%20%7BTh%C3%A8me%20%3A%20%C3%89t%C3%A9%7D%20%3A%20Grand%20texte%20japonais%20%22%7Bargument%20name%3D%22summer%20title%20Japanese%22%20default%3D%22%E9%9D%92%E3%81%84%E5%A4%8F%22%7D%22%20avec%20un%20petit%20texte%20anglais%20%22%7Bargument%20name%3D%22summer%20title%20English%22%20default%3D%22BLUE%20SUMMER%22%7D%22%20en%20dessous.%202.%20%7BTh%C3%A8me%20%3A%20Priv%C3%A9%7D%20%3A%20Grand%20texte%20japonais%20%22%7Bargument%20name%3D%22private%20title%20Japanese%22%20default%3D%22%E7%A7%81%E5%B0%8F%E8%AA%AC%22%7D%22%20avec%20un%20petit%20texte%20anglais%20%22%7Bargument%20name%3D%22private%20title%20English%22%20default%3D%22PRIVATE%20NOVEL%22%7D%22%20en%20dessous.%203.%20%7BTh%C3%A8me%20%3A%20Air%7D%20%3A%20Grand%20texte%20japonais%20%22%7Bargument%20name%3D%22air%20title%20Japanese%22%20default%3D%22%E7%A9%BA%E6%B0%97%E6%84%9F%22%7D%22%20avec%20un%20petit%20texte%20anglais%20%22%7Bargument%20name%3D%22air%20title%20English%22%20default%3D%22AIRY%20MOMENTS%22%7D%22%20en%20dessous.%20%20Signature%20%3A%20Le%20texte%20manuscrit%20%22%7Bargument%20name%3D%22signature%20text%22%20default%3D%22By%20%3A%20Berryxia%22%7D%22%20est%20plac%C3%A9%20artistiquement%20%C3%A0%20c%C3%B4t%C3%A9%20du%20titre%20ou%20dans%20un%20coin%20comme%20un%20filigrane.%20%5BNarration%20en%20grille%20-%20le%20voyage%20%22du%20jour%20%C3%A0%20la%20nuit%22%5D%20%3A%20Rang%C3%A9e%201%20%3A%20Souffle%20ext%C3%A9rieur%20(vent%20et%20lumi%C3%A8re)%201.%20En%20haut%20%C3%A0%20gauche%20(large)%20%3A%20Sujet%20debout%20dans%20le%20vent%2C%20cheveux%20au%20vent%2C%20contre-jour%20du%20soleil.%202.%20En%20haut%20au%20milieu%20(d%C3%A9tail)%20%3A%20Gros%20plan%20d'une%20main%20tenant%20une%20bouteille%20en%20verre%20de%20soda%20ou%20bloquant%20le%20soleil.%203.%20En%20haut%20%C3%A0%20droite%20(mouvement)%20%3A%20Photo%20spontan%C3%A9e%20floue%20du%20sujet%20s'%C3%A9loignant%20dans%20une%20rue.%20Rang%C3%A9e%202%20%3A%20Jeu%20int%C3%A9rieur%20(accessoires%20et%20%22cachette%22)%204.%20Au%20centre%20%C3%A0%20gauche%20(cachette)%20%3A%20Sujet%20assis%20sur%20un%20tatami%2C%20utilisant%20une%20fleur%20s%C3%A9ch%C3%A9e%20pour%20couvrir%20un%20%C5%93il.%205.%20Au%20centre%20(spontan%C3%A9)%20%3A%20Sujet%20allong%C3%A9%20%C3%A0%20l'envers%20sur%20un%20canap%C3%A9%2C%20lisant%20un%20livre%2C%20visage%20partiellement%20cach%C3%A9.%206.%20Au%20centre%20%C3%A0%20droite%20(focus%20f%C3%A9tiche)%20%3A%20Focus%20sur%20des%20pieds%20nus%20recroquevill%C3%A9s%20sur%20le%20tapis%20ou%20des%20doigts%20touchant%20les%20cheveux.%20Rang%C3%A9e%203%20%3A%20Priv%C3%A9%2Fmouill%C3%A9%20(vapeur%20et%20peau)%207.%20En%20bas%20%C3%A0%20gauche%20(dos%20vaporeux)%20%3A%20Vue%20de%20dos%20dans%20une%20salle%20de%20bain%20vaporeuse.%20Cheveux%20mouill%C3%A9s%20coll%C3%A9s%20%C3%A0%20la%20nuque.%20Mise%20au%20point%20douce.%208.%20En%20bas%20au%20milieu%20(immersion)%20%3A%20Sujet%20submerg%C3%A9%20dans%20une%20baignoire%2C%20eau%20jusqu'au%20menton%2C%20%C3%A9clairage%20onirique%20%C3%A0%20haute%20luminosit%C3%A9.%209.%20En%20bas%20%C3%A0%20droite%20(fin)%20%3A%20D%C3%A9tail%20de%20la%20vapeur%20sur%20un%20miroir.%20%5BStyle%20esth%C3%A9tique%5D%20%3A%20%20Pellicule%20%3A%20Fujifilm%20Pro%20400H%20(ombres%20cyan%2C%20hautes%20lumi%C3%A8res%20a%C3%A9riennes).%20%20Texture%20%3A%20Texture%20de%20papier%20visible%2C%20l%C3%A9ger%20vignettage%2C%20sensation%20de%20mise%20en%20page.%20%5BParam%C3%A8tres%5D%20%3A%20--ar%202%3A3%20--style%20raw%20--v%206.0%20--stylize%20200%20--cref%20%5BURL%5D%20--cw%2080%20--no%20commercial%20smile%2C%20stiff%20posing%2C%20studio%20lighting.%20Use%20indoor%20hotel%20style%20B%20for%20output.)
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Type] :** Une page scannée d'un photobook japonais haut de gamme (shashin-shu). **Une mise en page de 9 photos imprimées sur du papier d'art mat texturé.** **[Conception de la mise en page] :** Les 9 photos sont disposées en une grille nette avec de **larges marges blanches** en bas pour accueillir la typographie. **[Cohérence du sujet - STRICT] :** * **Source :** Basé strictement sur l'image de référence téléchargée. **[MÊME PERSONNAGE DANS TOUS LES PANNEAUX].** * **Stratégie de style :** **[SÉLECTIONNER ALÉATOIREMENT UN] :** 1. **{Classique} :** {argument name="classic outfit" default="Chemise blanche ample + short"}. 2. **{Doux} :** {argument name="soft outfit" default="Cardigan en maille beige + camisole"}. 3. **{Pur} :** {argument name="pure outfit" default="Robe nuisette bordée de dentelle blanche"} (idéal pour les transitions de bain). * **Note :** Dans la rangée 3 (Bain), la tenue doit créer un "effet mouillé" ou révéler un peu de peau. **[Typographie et éléments japonais - la touche artistique] :** *(L'IA doit rendre un titre dans la marge blanche inférieure.)* **[SÉLECTIONNER ALÉATOIREMENT UN thème de titre] :** 1. **{Thème : Été} :** Grand texte japonais **"{argument name="summer title Japanese" default="青い夏"}"** avec un petit texte anglais **"{argument name="summer title English" default="BLUE SUMMER"}"** en dessous. 2. **{Thème : Privé} :** Grand texte japonais **"{argument name="private title Japanese" default="私小説"}"** avec un petit texte anglais **"{argument name="private title English" default="PRIVATE NOVEL"}"** en dessous. 3. **{Thème : Air} :** Grand texte japonais **"{argument name="air title Japanese" default="空気感"}"** avec un petit texte anglais **"{argument name="air title English" default="AIRY MOMENTS"}"** en dessous. * **Signature :** Le texte manuscrit **"{argument name="signature text" default="By : Berryxia"}"** est placé artistiquement à côté du titre ou dans un coin comme un filigrane. **[Narration en grille - le voyage "du jour à la nuit"] :** **Rangée 1 : Souffle extérieur (vent et lumière)** 1. **En haut à gauche (large) :** Sujet debout dans le vent, cheveux au vent, **contre-jour du soleil**. 2. **En haut au milieu (détail) :** Gros plan d'une **main tenant une bouteille en verre de soda** ou bloquant le soleil. 3. **En haut à droite (mouvement) :** Photo spontanée floue du sujet **s'éloignant dans une rue**. **Rangée 2 : Jeu intérieur (accessoires et "cachette")** 4. **Au centre à gauche (cachette) :** Sujet assis sur un tatami, **utilisant une fleur séchée pour couvrir un œil**. 5. **Au centre (spontané) :** Sujet **allongé à l'envers sur un canapé**, lisant un livre, visage partiellement caché. 6. **Au centre à droite (focus fétiche) :** Focus sur des **pieds nus recroquevillés sur le tapis** ou des doigts touchant les cheveux. **Rangée 3 : Privé/mouillé (vapeur et peau)** 7. **En bas à gauche (dos vaporeux) :** **Vue de dos dans une salle de bain vaporeuse**. Cheveux mouillés collés à la nuque. Mise au point douce. 8. **En bas au milieu (immersion) :** Sujet **submergé dans une baignoire**, eau jusqu'au menton, éclairage onirique à haute luminosité. 9. **En bas à droite (fin) :** Détail de la **vapeur sur un miroir**. **[Style esthétique] :** * **Pellicule :** Fujifilm Pro 400H (ombres cyan, hautes lumières aériennes). * **Texture :** **Texture de papier visible**, léger vignettage, sensation de mise en page. **[Paramètres] :** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -475,7 +513,9 @@ En la pizarra del aula, dibuja con tiza una ilustración de un rey conejo y escr
 
 <a id="illustration-dun-lapin-roi-au-tableau-noir-au-coucher-du-soleil"></a>
 ### Illustration d'un lapin roi au tableau noir au coucher du soleil
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 Sur le tableau noir de la classe, dessinez à la craie une illustration d'un roi lapin et écrivez également le texte « うさ王様参上！ » (Le Roi Lapin est arrivé !). Montrez une vraie scène de classe avec la lumière du soleil couchant qui entre par la fenêtre en diagonale.
@@ -484,7 +524,13 @@ Sur le tableau noir de la classe, dessinez à la craie une illustration d'un roi
 <a id="prompt-per-il-layout-di-fotolibri-giapponesi-a-9-griglie-per-nano-banana-pro"></a>
 ### Prompt per il layout di fotolibri giapponesi a 9 griglie per Nano Banana Pro
 - Output: Una pagina scansionata da un fotolibro giapponese di alta qualità (shashin-shu). Un layout fotografico a 9 griglie stampato su carta d'arte opaca testurizzata. [Design del layout]: Le 9 foto sono disposte in una griglia pulita con ampi margini bianchi in basso per accogliere la tipografia. [Coerenza del soggetto - RIGOROSA]:  Fonte: Basato rigorosamente sull'immagine di riferimento caricata. [STESSO PERSONAGGIO IN TUTTI I PANNELLI].  Strategia di styling: [SELEZIONA CASUALMENTE UNO]: 1. {Classico}: {argument name="classic outfit" default="Camicia bianca ampia + pantaloncini"}. 2. {Morbido}: {argument name="soft outfit" default="Cardigan in maglia beige + canotta"}. 3. {Puro}: {argument name="pure outfit" default="Sottoveste bianca con bordo in pizzo"} (ideale per le transizioni del bagno).  Nota: Nella Riga 3 (Bagno), l'outfit dovrebbe creare un "wet look" o rivelare un po' di pelle. [Tipografia ed elementi giapponesi - il tocco artistico]: (L'IA deve renderizzare un testo del titolo nel margine bianco inferiore.) [SELEZIONA CASUALMENTE UN tema del titolo]: 1. {Tema: Estate}: Grande testo giapponese "{argument name="summer title Japanese" default="青い夏"}" con piccolo testo inglese "{argument name="summer title English" default="BLUE SUMMER"}" sotto. 2. {Tema: Privato}: Grande testo giapponese "{argument name="private title Japanese" default="私小説"}" con piccolo testo inglese "{argument name="private title English" default="PRIVATE NOVEL"}" sotto. 3. {Tema: Aria}: Grande testo giapponese "{argument name="air title Japanese" default="空気感"}" con piccolo testo inglese "{argument name="air title English" default="AIRY MOMENTS"}" sotto.  Firma: Il testo scritto a mano "{argument name="signature text" default="By : Berryxia"}" è posizionato artisticamente accanto al titolo o in un angolo come una filigrana. [Narrazione della griglia - il viaggio "dal giorno alla notte"]: Riga 1: Respiro all'aperto (vento e luce) 1. In alto a sinistra (ampio): Soggetto in piedi nel vento, capelli al vento, retroilluminato dal sole. 2. In alto al centro (dettaglio): Primo piano di una mano che tiene una bottiglia di vetro di soda o che blocca il sole. 3. In alto a destra (movimento): Scatto spontaneo sfocato del soggetto che si allontana per strada. Riga 2: Gioco al chiuso (oggetti di scena e "nascondino") 4. Al centro a sinistra (nascondino): Soggetto seduto sul tatami, usando un fiore essiccato per coprire un occhio. 5. Al centro (spontaneo): Soggetto sdraiato a testa in giù su un divano, che legge un libro, con il viso parzialmente nascosto. 6. Al centro a destra (focus fetish): Focus su piedi nudi arricciati sul tappeto o dita che toccano i capelli. Riga 3: Privato/bagnato (vapore e pelle) 7. In basso a sinistra (schiena vapore): Vista posteriore in un bagno vapore. Capelli bagnati attaccati alla nuca. Messa a fuoco morbida. 8. In basso al centro (immersione): Soggetto immerso in una vasca da bagno, acqua fino al mento, illuminazione high-key sognante. 9. In basso a destra (fine): Dettaglio del vapore su uno specchio. [Stile estetico]:  Pellicola: Fujifilm Pro 400H (ombre ciano, luci ariose).  Texture: Texture della carta visibile, leggera vignettatura, sensazione di design del layout. [Parametri]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Tipo]:** Una pagina scansionata da un fotolibro giapponese di alta qualità (shashin-shu). **Un layout fotografico a 9 griglie stampato su carta d'arte opaca testurizzata.** **[Design del layout]:** Le 9 foto sono disposte in una griglia pulita con **ampi margini bianchi** in basso per accogliere la tipografia. **[Coerenza del soggetto - RIGOROSA]:** * **Fonte:** Basato rigorosamente sull'immagine di riferimento caricata. **[STESSO PERSONAGGIO IN TUTTI I PANNELLI].** * **Strategia di styling:** **[SELEZIONA CASUALMENTE UNO]:** 1. **{Classico}:** {argument name="classic outfit" default="Camicia bianca ampia + pantaloncini"}. 2. **{Morbido}:** {argument name="soft outfit" default="Cardigan in maglia beige + canotta"}. 3. **{Puro}:** {argument name="pure outfit" default="Sottoveste bianca con bordo in pizzo"} (ideale per le transizioni del bagno). * **Nota:** Nella Riga 3 (Bagno), l'outfit dovrebbe creare un "wet look" o rivelare un po' di pelle. **[Tipografia ed elementi giapponesi - il tocco artistico]:** *(L'IA deve renderizzare un testo del titolo nel margine bianco inferiore.)* **[SELEZIONA CASUALMENTE UN tema del titolo]:** 1. **{Tema: Estate}:** Grande testo giapponese **"{argument name="summer title Japanese" default="青い夏"}"** con piccolo testo inglese **"{argument name="summer title English" default="BLUE SUMMER"}"** sotto. 2. **{Tema: Privato}:** Grande testo giapponese **"{argument name="private title Japanese" default="私小説"}"** con piccolo testo inglese **"{argument name="private title English" default="PRIVATE NOVEL"}"** sotto. 3. **{Tema: Aria}:** Grande testo giapponese **"{argument name="air title Japanese" default="空気感"}"** con piccolo testo inglese **"{argument name="air title English" default="AIRY MOMENTS"}"** sotto. * **Firma:** Il testo scritto a mano **"{argument name="signature text" default="By : Berryxia"}"** è posizionato artisticamente accanto al titolo o in un angolo come una filigrana. **[Narrazione della griglia - il viaggio "dal giorno alla notte"]:** **Riga 1: Respiro all'aperto (vento e luce)** 1. **In alto a sinistra (ampio):** Soggetto in piedi nel vento, capelli al vento, **retroilluminato dal sole**. 2. **In alto al centro (dettaglio):** Primo piano di una **mano che tiene una bottiglia di vetro di soda** o che blocca il sole. 3. **In alto a destra (movimento):** Scatto spontaneo sfocato del soggetto **che si allontana per strada**. **Riga 2: Gioco al chiuso (oggetti di scena e "nascondino")** 4. **Al centro a sinistra (nascondino):** Soggetto seduto sul tatami, **usando un fiore essiccato per coprire un occhio**. 5. **Al centro (spontaneo):** Soggetto **sdraiato a testa in giù su un divano**, che legge un libro, con il viso parzialmente nascosto. 6. **Al centro a destra (focus fetish):** Focus su **piedi nudi arricciati sul tappeto** o dita che toccano i capelli. **Riga 3: Privato/bagnato (vapore e pelle)** 7. **In basso a sinistra (schiena vapore):** **Vista posteriore in un bagno vapore**. Capelli bagnati attaccati alla nuca. Messa a fuoco morbida. 8. **In basso al centro (immersione):** Soggetto **immerso in una vasca da bagno**, acqua fino al mento, illuminazione high-key sognante. 9. **In basso a destra (fine):** Dettaglio del **vapore su uno specchio**. **[Stile estetico]:** * **Pellicola:** Fujifilm Pro 400H (ombre ciano, luci ariose). * **Texture:** **Texture della carta visibile**, leggera vignettatura, sensazione di design del layout. **[Parametri]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -492,7 +538,9 @@ Sur le tableau noir de la classe, dessinez à la craie une illustration d'un roi
 
 <a id="illustrazione-di-un-coniglio-re-sulla-lavagna-al-tramonto"></a>
 ### Illustrazione di un coniglio re sulla lavagna al tramonto
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 Sulla lavagna dell'aula, disegna un'illustrazione a gesso di un re coniglio e scrivi anche il testo "うさ王様参上！" (Il Re Coniglio è arrivato!). Mostra una vera scena di classe con la luce del tramonto che filtra dalla finestra con un'angolazione diagonale.
@@ -501,7 +549,13 @@ Sulla lavagna dell'aula, disegna un'illustrazione a gesso di un re coniglio e sc
 <a id="prompt-de-layout-de-fotolivro-japons-9-grid-para-nano-banana-pro"></a>
 ### Prompt de layout de fotolivro japonês 9-grid para Nano Banana Pro
 - Output: Uma página escaneada de um fotolivro japonês (shashin-shu) de alta qualidade. Um layout de fotos em grade 9 impresso em papel artístico fosco texturizado. [Design do layout]: As 9 fotos são organizadas em uma grade limpa com margens brancas largas na parte inferior para acomodar a tipografia. [Consistência do assunto - RIGOROSA]:  Fonte: Baseado estritamente na imagem de referência carregada. [MESMO PERSONAGEM EM TODOS OS PAINÉIS].  Estratégia de estilo: [SELECIONE ALEATORIAMENTE UM]: 1. {Clássico}: {argument name="classic outfit" default="Camisa branca folgada + shorts"}. 2. {Suave}: {argument name="soft outfit" default="Cardigã de malha bege + camisola"}. 3. {Puro}: {argument name="pure outfit" default="Vestido de seda branco com renda"} (melhor para transições de banho).  Nota: Na Linha 3 (Banho), a roupa deve criar um "look molhado" ou revelar um pouco de pele. [Tipografia e elementos japoneses - o toque artístico]: (A IA deve renderizar um texto de título na margem branca inferior.) [SELECIONE ALEATORIAMENTE UM tema de título]: 1. {Tema: Verão}: Texto japonês grande "{argument name="summer title Japanese" default="青い夏"}" com texto inglês pequeno "{argument name="summer title English" default="BLUE SUMMER"}" abaixo. 2. {Tema: Privado}: Texto japonês grande "{argument name="private title Japanese" default="私小説"}" com texto inglês pequeno "{argument name="private title English" default="PRIVATE NOVEL"}" abaixo. 3. {Tema: Ar}: Texto japonês grande "{argument name="air title Japanese" default="空気感"}" com texto inglês pequeno "{argument name="air title English" default="AIRY MOMENTS"}" abaixo.  Assinatura: O texto manuscrito "{argument name="signature text" default="By : Berryxia"}" é colocado artisticamente ao lado do título ou em um canto como uma marca d'água. [Narrativa da grade - a jornada "do dia para a noite"]: Linha 1: Ar livre (vento e luz) 1. Superior esquerdo (amplo): Assunto em pé ao vento, cabelo esvoaçante, iluminado pelo sol por trás. 2. Superior central (detalhe): Close-up de uma mão segurando uma garrafa de vidro de refrigerante ou bloqueando o sol. 3. Superior direito (movimento): Foto espontânea borrada do assunto se afastando em uma rua. Linha 2: Brincadeira interna (adereços e "esconderijo") 4. Central esquerdo (escondendo): Assunto sentado no tatame, usando uma flor seca para cobrir um olho. 5. Central (espontâneo): Assunto deitado de cabeça para baixo em um sofá, lendo um livro, rosto parcialmente escondido. 6. Central direito (foco fetichista): Foco nos pés descalços enrolados no tapete ou dedos tocando o cabelo. Linha 3: Privado/molhado (vapor e pele) 7. Inferior esquerdo (costas vaporosas): Vista das costas em um banheiro com vapor. Cabelo molhado grudado na nuca. Foco suave. 8. Inferior central (imersão): Assunto submerso em uma banheira, água até o queixo, iluminação de alto contraste sonhadora. 9. Inferior direito (fim): Detalhe de vapor em um espelho. [Estilo estético]:  Filme: Fujifilm Pro 400H (sombras ciano, realces arejados).  Textura: Textura de papel visível, leve vinheta, sensação de design de layout. [Parâmetros]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Tipo]:** Uma página escaneada de um fotolivro japonês (shashin-shu) de alta qualidade. **Um layout de fotos em grade 9 impresso em papel artístico fosco texturizado.** **[Design do layout]:** As 9 fotos são organizadas em uma grade limpa com **margens brancas largas** na parte inferior para acomodar a tipografia. **[Consistência do assunto - RIGOROSA]:** * **Fonte:** Baseado estritamente na imagem de referência carregada. **[MESMO PERSONAGEM EM TODOS OS PAINÉIS].** * **Estratégia de estilo:** **[SELECIONE ALEATORIAMENTE UM]:** 1. **{Clássico}:** {argument name="classic outfit" default="Camisa branca folgada + shorts"}. 2. **{Suave}:** {argument name="soft outfit" default="Cardigã de malha bege + camisola"}. 3. **{Puro}:** {argument name="pure outfit" default="Vestido de seda branco com renda"} (melhor para transições de banho). * **Nota:** Na Linha 3 (Banho), a roupa deve criar um "look molhado" ou revelar um pouco de pele. **[Tipografia e elementos japoneses - o toque artístico]:** *(A IA deve renderizar um texto de título na margem branca inferior.)* **[SELECIONE ALEATORIAMENTE UM tema de título]:** 1. **{Tema: Verão}:** Texto japonês grande **"{argument name="summer title Japanese" default="青い夏"}"** com texto inglês pequeno **"{argument name="summer title English" default="BLUE SUMMER"}"** abaixo. 2. **{Tema: Privado}:** Texto japonês grande **"{argument name="private title Japanese" default="私小説"}"** com texto inglês pequeno **"{argument name="private title English" default="PRIVATE NOVEL"}"** abaixo. 3. **{Tema: Ar}:** Texto japonês grande **"{argument name="air title Japanese" default="空気感"}"** com texto inglês pequeno **"{argument name="air title English" default="AIRY MOMENTS"}"** abaixo. * **Assinatura:** O texto manuscrito **"{argument name="signature text" default="By : Berryxia"}"** é colocado artisticamente ao lado do título ou em um canto como uma marca d'água. **[Narrativa da grade - a jornada "do dia para a noite"]:** **Linha 1: Ar livre (vento e luz)** 1. **Superior esquerdo (amplo):** Assunto em pé ao vento, cabelo esvoaçante, **iluminado pelo sol por trás**. 2. **Superior central (detalhe):** Close-up de uma **mão segurando uma garrafa de vidro de refrigerante** ou bloqueando o sol. 3. **Superior direito (movimento):** Foto espontânea borrada do assunto **se afastando em uma rua**. **Linha 2: Brincadeira interna (adereços e "esconderijo")** 4. **Central esquerdo (escondendo):** Assunto sentado no tatame, **usando uma flor seca para cobrir um olho**. 5. **Central (espontâneo):** Assunto **deitado de cabeça para baixo em um sofá**, lendo um livro, rosto parcialmente escondido. 6. **Central direito (foco fetichista):** Foco nos **pés descalços enrolados no tapete** ou dedos tocando o cabelo. **Linha 3: Privado/molhado (vapor e pele)** 7. **Inferior esquerdo (costas vaporosas):** **Vista das costas em um banheiro com vapor**. Cabelo molhado grudado na nuca. Foco suave. 8. **Inferior central (imersão):** Assunto **submerso em uma banheira**, água até o queixo, iluminação de alto contraste sonhadora. 9. **Inferior direito (fim):** Detalhe de **vapor em um espelho**. **[Estilo estético]:** * **Filme:** Fujifilm Pro 400H (sombras ciano, realces arejados). * **Textura:** **Textura de papel visível**, leve vinheta, sensação de design de layout. **[Parâmetros]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -509,7 +563,9 @@ Sulla lavagna dell'aula, disegna un'illustrazione a gesso di un re coniglio e sc
 
 <a id="ilustrao-de-coelho-rei-do-quadro-negro-ao-pr-do-sol"></a>
 ### Ilustração de coelho rei do quadro-negro ao pôr do sol
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 No quadro-negro da sala de aula, desenhe uma ilustração de giz de um rei coelho e também escreva o texto "うさ王様参上！" (O Rei Coelho chegou!). Mostre uma cena real de sala de aula com a luz do pôr do sol entrando pela janela em um ângulo diagonal.
@@ -518,7 +574,13 @@ No quadro-negro da sala de aula, desenhe uma ilustração de giz de um rei coelh
 <a id="prompt-de-layout-de-fotolivro-japons-de-9-grades-para-nano-banana-pro"></a>
 ### Prompt de layout de fotolivro japonês de 9 grades para Nano Banana Pro
 - Output: Uma página escaneada de um fotolivro japonês (shashin-shu) de alta qualidade. Um layout de 9 fotos impresso em papel artístico fosco texturizado. [Design do layout]: As 9 fotos são dispostas em uma grade limpa com largas margens brancas na parte inferior para acomodar a tipografia. [Consistência do assunto - RIGOROSA]:  Fonte: Baseado estritamente na imagem de referência enviada. [MESMO PERSONAGEM EM TODOS OS PAINÉIS].  Estratégia de estilo: [SELECIONE ALEATORIAMENTE UM]: 1. {Clássico}: {argument name="classic outfit" default="Camisa branca solta + shorts"}. 2. {Suave}: {argument name="soft outfit" default="Cardigã de tricô bege + camisola"}. 3. {Puro}: {argument name="pure outfit" default="Chemise de renda branca"} (melhor para transições de banho).  Nota: Na Linha 3 (Banho), a roupa deve criar um "look molhado" ou revelar um pouco de pele. [Tipografia e elementos japoneses - o toque artístico]: (A IA deve renderizar um texto de título na margem branca inferior.) [SELECIONE ALEATORIAMENTE UM tema de título]: 1. {Tema: Verão}: Texto japonês grande "{argument name="summer title Japanese" default="青い夏"}" com texto inglês pequeno "{argument name="summer title English" default="BLUE SUMMER"}" abaixo. 2. {Tema: Privado}: Texto japonês grande "{argument name="private title Japanese" default="私小説"}" com texto inglês pequeno "{argument name="private title English" default="PRIVATE NOVEL"}" abaixo. 3. {Tema: Ar}: Texto japonês grande "{argument name="air title Japanese" default="空気感"}" com texto inglês pequeno "{argument name="air title English" default="AIRY MOMENTS"}" abaixo.  Assinatura: O texto manuscrito "{argument name="signature text" default="By : Berryxia"}" é colocado artisticamente ao lado do título ou em um canto como uma marca d'água. [Narrativa da grade - a jornada "do dia para a noite"]: Linha 1: Ar livre (vento e luz) 1. Superior-esquerda (ampla): Assunto em pé ao vento, cabelo esvoaçante, iluminado pelo sol por trás. 2. Superior-meio (detalhe): Close-up de uma mão segurando uma garrafa de refrigerante ou bloqueando o sol. 3. Superior-direita (movimento): Foto espontânea borrada do assunto se afastando em uma rua. Linha 2: Brincadeira interna (adereços e "esconderijo") 4. Centro-esquerda (escondendo): Assunto sentado no tatame, usando uma flor seca para cobrir um olho. 5. Centro (espontânea): Assunto deitado de cabeça para baixo em um sofá, lendo um livro, rosto parcialmente escondido. 6. Centro-direita (foco no fetiche): Foco nos pés descalços enrolados no tapete ou nos dedos tocando o cabelo. Linha 3: Privado/molhado (vapor e pele) 7. Inferior-esquerda (costas vaporosas): Vista das costas em um banheiro com vapor. Cabelo molhado grudado na nuca. Foco suave. 8. Inferior-meio (imersão): Assunto submerso em uma banheira, água até o queixo, iluminação de alto contraste e sonhadora. 9. Inferior-direita (fim): Detalhe de vapor em um espelho. [Estilo estético]:  Filme: Fujifilm Pro 400H (sombras ciano, realces arejados).  Textura: Textura de papel visível, leve vinheta, sensação de design de layout. [Parâmetros]: --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[Tipo]:** Uma página escaneada de um fotolivro japonês (shashin-shu) de alta qualidade. **Um layout de 9 fotos impresso em papel artístico fosco texturizado.** **[Design do layout]:** As 9 fotos são dispostas em uma grade limpa com **largas margens brancas** na parte inferior para acomodar a tipografia. **[Consistência do assunto - RIGOROSA]:** * **Fonte:** Baseado estritamente na imagem de referência enviada. **[MESMO PERSONAGEM EM TODOS OS PAINÉIS].** * **Estratégia de estilo:** **[SELECIONE ALEATORIAMENTE UM]:** 1. **{Clássico}:** {argument name="classic outfit" default="Camisa branca solta + shorts"}. 2. **{Suave}:** {argument name="soft outfit" default="Cardigã de tricô bege + camisola"}. 3. **{Puro}:** {argument name="pure outfit" default="Chemise de renda branca"} (melhor para transições de banho). * **Nota:** Na Linha 3 (Banho), a roupa deve criar um "look molhado" ou revelar um pouco de pele. **[Tipografia e elementos japoneses - o toque artístico]:** *(A IA deve renderizar um texto de título na margem branca inferior.)* **[SELECIONE ALEATORIAMENTE UM tema de título]:** 1. **{Tema: Verão}:** Texto japonês grande **"{argument name="summer title Japanese" default="青い夏"}"** com texto inglês pequeno **"{argument name="summer title English" default="BLUE SUMMER"}"** abaixo. 2. **{Tema: Privado}:** Texto japonês grande **"{argument name="private title Japanese" default="私小説"}"** com texto inglês pequeno **"{argument name="private title English" default="PRIVATE NOVEL"}"** abaixo. 3. **{Tema: Ar}:** Texto japonês grande **"{argument name="air title Japanese" default="空気感"}"** com texto inglês pequeno **"{argument name="air title English" default="AIRY MOMENTS"}"** abaixo. * **Assinatura:** O texto manuscrito **"{argument name="signature text" default="By : Berryxia"}"** é colocado artisticamente ao lado do título ou em um canto como uma marca d'água. **[Narrativa da grade - a jornada "do dia para a noite"]:** **Linha 1: Ar livre (vento e luz)** 1. **Superior-esquerda (ampla):** Assunto em pé ao vento, cabelo esvoaçante, **iluminado pelo sol por trás**. 2. **Superior-meio (detalhe):** Close-up de uma **mão segurando uma garrafa de refrigerante** ou bloqueando o sol. 3. **Superior-direita (movimento):** Foto espontânea borrada do assunto **se afastando em uma rua**. **Linha 2: Brincadeira interna (adereços e "esconderijo")** 4. **Centro-esquerda (escondendo):** Assunto sentado no tatame, **usando uma flor seca para cobrir um olho**. 5. **Centro (espontânea):** Assunto **deitado de cabeça para baixo em um sofá**, lendo um livro, rosto parcialmente escondido. 6. **Centro-direita (foco no fetiche):** Foco nos **pés descalços enrolados no tapete** ou nos dedos tocando o cabelo. **Linha 3: Privado/molhado (vapor e pele)** 7. **Inferior-esquerda (costas vaporosas):** **Vista das costas em um banheiro com vapor**. Cabelo molhado grudado na nuca. Foco suave. 8. **Inferior-meio (imersão):** Assunto **submerso em uma banheira**, água até o queixo, iluminação de alto contraste e sonhadora. 9. **Inferior-direita (fim):** Detalhe de **vapor em um espelho**. **[Estilo estético]:** * **Filme:** Fujifilm Pro 400H (sombras ciano, realces arejados). * **Textura:** **Textura de papel visível**, leve vinheta, sensação de design de layout. **[Parâmetros]:** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -526,33 +588,48 @@ No quadro-negro da sala de aula, desenhe uma ilustração de giz de um rei coelh
 
 <a id="ilustrao-de-coelho-rei-no-quadro-negro-ao-pr-do-sol"></a>
 ### Ilustração de coelho rei no quadro-negro ao pôr do sol
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 No quadro da sala de aula, desenhe uma ilustração a giz de um rei coelho e escreva também o texto "うさ王様参上！" (O Rei Coelho chegou!). Mostre uma cena real de sala de aula com a luz do pôr do sol entrando pela janela em um ângulo diagonal.
 ```
 
-<a id="item-1554"></a>
+<a id="item"></a>
 ### 带肖像和中英文定制的宽引言卡
 - Author: Nicolechan
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/⭐-Featured-gold), [3](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [4](https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg), [5](https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg), [6](https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg), [7](https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/⭐-Featured-gold)
+  ![Image 3](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 4](https://cdn.gooo.ai/cms/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg)
+  ![Image 7](https://cdn.gooo.ai/cms/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg)
 
 ```
 一张宽幅引言卡片，上面印有一位名人，背景为棕色，引言文字为浅金色衬线字体：“{argument name="famous_quote" default="Stay Hungry, Stay Foolish"}”，下方是较小的文字：“—{argument name="author" default="Steve Jobs"}”。文字前面有一个大而柔和的引号。人物肖像在左侧，文字在右侧。文字占据图片的三分之二，肖像占据三分之一，肖像部分带有轻微的渐变过渡效果。
 ```
 
-<a id="item-1555"></a>
+<a id="item-2"></a>
 ### 德国水彩地图，附带州名标注
 - Author: Florian Gallwitz
-- Images: [1](https://img.shields.io/badge/Language-DE-blue), [2](https://img.shields.io/badge/⭐-Featured-gold), [3](https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-DE-blue)
+  ![Image 2](https://img.shields.io/badge/⭐-Featured-gold)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886061720_fzgqaq_G6RIeSZXgAA7cOf.jpg)
 
 ```
 生成一张水彩风格的德国地图，上面用圆珠笔标注所有联邦州。
 ```
 
-<a id="item-1556"></a>
+<a id="item-3"></a>
 ### 火车广告风格的书籍广告图片
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/⭐-Featured-gold), [3](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/⭐-Featured-gold)
+  ![Image 3](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 ```
 请生成一张广告图片。
@@ -574,19 +651,25 @@ No quadro da sala de aula, desenhe uma ilustração a giz de um rei coelho e esc
 https://t.co/QxbYpfFVj6
 ```
 
-<a id="item-1557"></a>
+<a id="item-4"></a>
 ### 卡比吹泡泡的梦境日记
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/⭐-Featured-gold), [3](https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/⭐-Featured-gold)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg)
 
 ```
 梦幻日记。一只粉色的卡比（Kirby）躺在星星上熟睡，嘴里吹出彩虹色的泡泡。柔和的马卡龙配色，云朵和糖果贴纸，闪闪发光的蜡笔般细节，梦幻又甜美。
 ```
 
-<a id="item-1558"></a>
+<a id="item-5"></a>
 ### 御宅族镜子自拍角人物特写
 - Author: 宝玉
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/⭐-Featured-gold), [3](https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/⭐-Featured-gold)
+  ![Image 3](https://cdn.gooo.ai/cms/1763889946850_689z0h_G23i3sJW0AASGUw.jpg)
 
 ```
 Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相同）
@@ -616,7 +699,12 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro"></a>
 ### Nano Banana Pro 的圣人与恶魔双重角色提示
 - Author: 癒色えも(イシキ•エモ)
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577210927_nq0544_G7DJManaQAAU-tq.jpg), [4](https://cdn.gooo.ai/cms/1764577215304_saknab_G7DJMa0asAETCzJ.jpg), [5](https://cdn.gooo.ai/cms/1764577218139_vce911_G7Czf_yawAAUEOt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577210927_nq0544_G7DJManaQAAU-tq.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577215304_saknab_G7DJMa0asAETCzJ.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577218139_vce911_G7Czf_yawAAUEOt.jpg)
 
 ```
 {argument name="situation title" default="圣徒与恶魔"}
@@ -629,7 +717,10 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-2"></a>
 ### Nano Banana Pro 的季节性森林拼贴画角色提示
 - Author: とらの
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577230231_j4g6fj_G7DE_85bIAAk3BJ.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577230231_j4g6fj_G7DE_85bIAAk3BJ.jpg)
 
 ```
 使用 {argument name="types of plants" default="植物和树叶"} 的照片，将一个角色重新创作成为拼贴画。背景应为森林四季的照片，从右上到左下依次排列为春、夏、秋、冬。花冠应重新诠释，并替换为四季的花朵。不要保留角色的任何轮廓；角色的每个部分都必须完全使用植物和树叶来表达。
@@ -640,7 +731,13 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 - Author: 松果先森
 - Output: 一本高端日式写真集（shashin-shu）的扫描页。在有纹理的哑光艺术纸上印有 9 格照片布局。 [布局设计]： 9 张照片以整洁的网格排列，底部留有宽阔的白色边距以容纳文字。 [主题一致性 - 严格]：  来源： 严格基于上传的参考图片。[所有面板中均为同一人物]。  造型策略： [随机选择一个]： 1. {经典}： {argument name="classic outfit" default="宽松白衬衫 + 短裤"}。 2. {柔和}： {argument name="soft outfit" default="米色针织开衫 + 吊带背心"}。 3. {纯洁}： {argument name="pure outfit" default="白色蕾丝边吊带裙"}（最适合沐浴过渡）。  注意： 在第 3 行（沐浴）中，服装应营造出“湿身效果”或露出部分皮肤。 [排版和日式元素 - 艺术触感]： （AI 必须在底部白色边距中渲染标题文本。）[随机选择一个标题主题]： 1. {主题：夏天}： 大号日文文本 "{argument name="summer title Japanese" default="青い夏"}"，下方是小号英文文本 "{argument name="summer title English" default="BLUE SUMMER"}"。 2. {主题：私密}： 大号日文文本 "{argument name="private title Japanese" default="私小説"}"，下方是小号英文文本 "{argument name="private title English" default="PRIVATE NOVEL"}"。 3. {主题：空气}： 大号日文文本 "{argument name="air title Japanese" default="空気感"}"，下方是小号英文文本 "{argument name="air title English" default="AIRY MOMENTS"}"。  签名： 手写文本 "{argument name="signature text" default="By : Berryxia"}" 艺术性地放置在标题旁边或角落，如同水印。 [网格叙事 - “从白天到黑夜”的旅程]： 第 1 行：户外呼吸（风与光） 1. 左上（广角）： 主体站在风中，头发飘动，被阳光逆光照亮。 2. 中上（特写）： 手持玻璃汽水瓶或遮挡阳光的特写。 3. 右上（动态）： 主体在街上走远的模糊抓拍。 第 2 行：室内嬉戏（道具与“躲藏”） 4. 中左（躲藏）： 主体坐在榻榻米上，用一朵干花遮住一只眼睛。 5. 中间（抓拍）： 主体倒躺在沙发上，看书，脸部部分被遮挡。 6. 中右（恋物癖焦点）： 聚焦于蜷缩在地毯上的赤脚或触摸头发的手指。 第 3 行：私密/湿身（蒸汽与肌肤） 7. 左下（蒸汽背影）： 蒸汽弥漫浴室中的背影。湿发贴在颈后。柔焦。 8. 中下（沉浸）： 主体浸泡在浴缸中，水到下巴，梦幻般的高调照明。 9. 右下（结束）： 镜子上的蒸汽细节。 [美学风格]：  胶片： 富士 Pro 400H（青色阴影，通透高光）。  纹理： 可见的纸张纹理，轻微的暗角，布局设计感。 [参数]： --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
 - Notes: [类型]： 一本高端日式写真集（shashin-shu）的扫描页。在有纹理的哑光艺术纸上印有 9 格照片布局。 [布局设计]： 9 张照片以整洁的网格排列，底部留有宽阔的白色边距以容纳文字。 [主题一致性 - 严格]：  来源： 严格基于上传的参考图片。[所有面板中均为同一人物]。  造型策略： [随机选择一个]： 1. {经典}： {argument name="classic outfit" default="宽松白衬衫 + 短裤"}。 2. {柔和}： {argument name="soft outfit" default="米色针织开衫 + 吊带背心"}。 3. {纯洁}： {argument name="pure outfit" default="白色蕾丝边吊带裙"}（最适合沐浴过渡）。  注意： 在第 3 行（沐浴）中，服装应营造出“湿身效果”或露出部分皮肤。 [排版和日式元素 - 艺术触感]： （AI 必须在底部白色边距中渲染标题文本。）[随机选择一个标题主题]： 1. {主题：夏天}： 大号日文文本 "{argument name="summer title Japanese" default="青い夏"}"，下方是小号英文文本 "{argument name="summer title English" default="BLUE SUMMER"}"。 2. {主题：私密}： 大号日文文本 "{argument name="private title Japanese" default="私小説"}"，下方是小号英文文本 "{argument name="private title English" default="PRIVATE NOVEL"}"。 3. {主题：空气}： 大号日文文本 "{argument name="air title Japanese" default="空気感"}"，下方是小号英文文本 "{argument name="air title English" default="AIRY MOMENTS"}"。  签名： 手写文本 "{argument name="signature text" default="By : Berryxia"}" 艺术性地放置在标题旁边或角落，如同水印。 [网格叙事 - “从白天到黑夜”的旅程]： 第 1 行：户外呼吸（风与光） 1. 左上（广角）： 主体站在风中，头发飘动，被阳光逆光照亮。 2. 中上（特写）： 手持玻璃汽水瓶或遮挡阳光的特写。 3. 右上（动态）： 主体在街上走远的模糊抓拍。 第 2 行：室内嬉戏（道具与“躲藏”） 4. 中左（躲藏）： 主体坐在榻榻米上，用一朵干花遮住一只眼睛。 5. 中间（抓拍）： 主体倒躺在沙发上，看书，脸部部分被遮挡。 6. 中右（恋物癖焦点）： 聚焦于蜷缩在地毯上的赤脚或触摸头发的手指。 第 3 行：私密/湿身（蒸汽与肌肤） 7. 左下（蒸汽背影）： 蒸汽弥漫浴室中的背影。湿发贴在颈后。柔焦。 8. 中下（沉浸）： 主体浸泡在浴缸中，水到下巴，梦幻般的高调照明。 9. 右下（结束）： 镜子上的蒸汽细节。 [美学风格]：  胶片： 富士 Pro 400H（青色阴影，通透高光）。  纹理： 可见的纸张纹理，轻微的暗角，布局设计感。 [参数]： --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg), [4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg), [5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg), [6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577209404_hmqbpb_G7BB7E1akAAkpBe.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577213960_4a4eyu_G7AvvcUbcAA1kjl.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577217235_wsrq6c_G7Av2fjagAESr9Z.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577220441_txpuuj_G7AwKHVbsAAisIt.jpg)
 
 ```
 **[类型]：** 一本高端日式写真集（shashin-shu）的扫描页。**在有纹理的哑光艺术纸上印有 9 格照片布局。** **[布局设计]：** 9 张照片以整洁的网格排列，底部留有**宽阔的白色边距**以容纳文字。 **[主题一致性 - 严格]：** * **来源：** 严格基于上传的参考图片。**[所有面板中均为同一人物]。** * **造型策略：** **[随机选择一个]：** 1. **{经典}：** {argument name="classic outfit" default="宽松白衬衫 + 短裤"}。 2. **{柔和}：** {argument name="soft outfit" default="米色针织开衫 + 吊带背心"}。 3. **{纯洁}：** {argument name="pure outfit" default="白色蕾丝边吊带裙"}（最适合沐浴过渡）。 * **注意：** 在第 3 行（沐浴）中，服装应营造出“湿身效果”或露出部分皮肤。 **[排版和日式元素 - 艺术触感]：** （AI 必须在底部白色边距中渲染标题文本。）**[随机选择一个标题主题]：** 1. **{主题：夏天}：** 大号日文文本 **"{argument name="summer title Japanese" default="青い夏"}"**，下方是小号英文文本 **"{argument name="summer title English" default="BLUE SUMMER"}"**。 2. **{主题：私密}：** 大号日文文本 **"{argument name="private title Japanese" default="私小説"}"**，下方是小号英文文本 **"{argument name="private title English" default="PRIVATE NOVEL"}"**。 3. **{主题：空气}：** 大号日文文本 **"{argument name="air title Japanese" default="空気感"}"**，下方是小号英文文本 **"{argument name="air title English" default="AIRY MOMENTS"}"**。 * **签名：** 手写文本 **"{argument name="signature text" default="By : Berryxia"}"** 艺术性地放置在标题旁边或角落，如同水印。 **[网格叙事 - “从白天到黑夜”的旅程]：** **第 1 行：户外呼吸（风与光）** 1. **左上（广角）：** 主体站在风中，头发飘动，**被阳光逆光照亮**。 2. **中上（特写）：** **手持玻璃汽水瓶**或遮挡阳光的特写。 3. **右上（动态）：** 主体**在街上走远**的模糊抓拍。 **第 2 行：室内嬉戏（道具与“躲藏”）** 4. **中左（躲藏）：** 主体坐在榻榻米上，**用一朵干花遮住一只眼睛**。 5. **中间（抓拍）：** 主体**倒躺在沙发上**，看书，脸部部分被遮挡。 6. **中右（恋物癖焦点）：** 聚焦于**蜷缩在地毯上的赤脚**或触摸头发的手指。 **第 3 行：私密/湿身（蒸汽与肌肤）** 7. **左下（蒸汽背影）：** **蒸汽弥漫浴室中的背影**。湿发贴在颈后。柔焦。 8. **中下（沉浸）：** 主体**浸泡在浴缸中**，水到下巴，梦幻般的高调照明。 9. **右下（结束）：** **镜子上的蒸汽**细节。 **[美学风格]：** * **胶片：** 富士 Pro 400H（青色阴影，通透高光）。 * **纹理：** **可见的纸张纹理**，轻微的暗角，布局设计感。 **[参数]：** --ar 2:3 --style raw --v 6.0 --stylize 200 --cref [URL] --cw 80 --no commercial smile, stiff posing, studio lighting. Use indoor hotel style B for output.
@@ -649,7 +746,12 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-3x3"></a>
 ### 从带有 Nano Banana Pro 的 3x3 图像网格中提取单个面板
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577211739_v1vt1r_G7Alt3qaMAApHUa.jpg), [4](https://cdn.gooo.ai/cms/1764577215679_6fo9u9_G7Alt3qaQAAWqAF.jpg), [5](https://cdn.gooo.ai/cms/1764577218626_mhvsk6_G67jxidbkAcjDPL.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577211739_v1vt1r_G7Alt3qaMAApHUa.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577215679_6fo9u9_G7Alt3qaQAAWqAF.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577218626_mhvsk6_G67jxidbkAcjDPL.jpg)
 
 ```
 请提取第 {argument name="target row" default="2"} 行、第 {argument name="target column" default="2"} 列的图片。
@@ -658,7 +760,11 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-json"></a>
 ### 直闪游戏女孩 Nano Banana Pro JSON 标签提示
 - Author: ΛRMIN | AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577267047_5sdrbr_G7BoKccXgAAimPo.jpg), [4](https://cdn.gooo.ai/cms/1764577281117_gzf0nh_G7BoKeoXcAAq0zA.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577267047_5sdrbr_G7BoKccXgAAimPo.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577281117_gzf0nh_G7BoKeoXcAAq0zA.jpg)
 
 ```
 {
@@ -679,7 +785,11 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-3"></a>
 ### 两步 Nano Banana Pro 图像优化提示
 - Author: Píldora artificial
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577188247_xdrgf6_G7BIjQxWUAAt9Pt.jpg), [4](https://cdn.gooo.ai/cms/1764577194746_3nz7qi_G7BIkQBXoAA2gvH.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577188247_xdrgf6_G7BIjQxWUAAt9Pt.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577194746_3nz7qi_G7BIkQBXoAA2gvH.jpg)
 
 ```
 首先：创建一个人像，并添加指令："{argument name="skin detail" default="他们的皮肤有毛孔和细节"}。"
@@ -690,17 +800,23 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="12-instagram"></a>
 ### 12 图 Instagram 动态字符美学提示
 - Author: Gizem Akdag
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577521322_t1h6v2_G7BFMAUXcAA6CKr.jpg), [4](https://cdn.gooo.ai/cms/1764577525199_pb5ps5_G7BFMsUW4AATgu_.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577521322_t1h6v2_G7BFMAUXcAA6CKr.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577525199_pb5ps5_G7BFMsUW4AATgu_.jpg)
 
 ```
 为这个角色创建一个包含 {argument name="image count" default="12"} 张图片的 Instagram 动态，保持相同的审美风格。使用粉色、蓝色、黄色等鲜艳的色彩。运用不同的地点、角度和构图，融入人物、动物、自然和各种环境，同时保持视觉风格的统一性。
 ```
 
-<a id="item-1566"></a>
+<a id="item-6"></a>
 ### 坦率的卧室肖像提示结构
 - Author: Niceguy
 - Notes: 一张高分辨率的抓拍照片，拍摄于一间光线柔和的卧室，采用近似方形的构图。画面主体是一位迷人的年轻女性，她皮肤略带古铜色，有淡淡的雀斑，双唇饱满，神情放松自然，舒适地坐在或斜倚在铺着微皱白床单的床上。柔和温暖的光线从附近的窗户倾泻而入，投下轻柔的阴影，营造出一种舒适亲密的氛围。背景中的装饰极简而雅致——可能有一个床头柜、一盏发出暖光的台灯，以及一些暗示她个性的私人物品，但这些物品并不会分散对她的注意力。整体氛围平静、诱人且富有电影感，景深较浅，重点在于捕捉真实、不做作的美。
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577188819_xcmvmq_G7A4i_pWAAAHge1.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577188819_xcmvmq_G7A4i_pWAAAHge1.jpg)
 
 ```
 一张高分辨率的抓拍照片，拍摄于一间光线柔和的卧室，采用近似方形的构图。画面主体是一位迷人的年轻女性，她皮肤略带古铜色，有淡淡的雀斑，双唇饱满，神情放松自然，舒适地坐在或斜倚在铺着微皱白床单的床上。柔和温暖的光线从附近的窗户倾泻而入，投下轻柔的阴影，营造出一种舒适亲密的氛围。背景中的装饰极简而雅致——可能有一个床头柜、一盏发出暖光的台灯，以及一些暗示她个性的私人物品，但这些物品并不会分散对她的注意力。整体氛围平静、诱人且富有电影感，景深较浅，重点在于捕捉真实、不做作的美。
@@ -709,7 +825,10 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-4"></a>
 ### Nano Banana Pro 的电影感卧室自拍提示
 - Author: 唐一
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577201145_4x09r9_G7AwPUHaIAE61O_.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577201145_4x09r9_G7AwPUHaIAE61O_.jpg)
 
 ```
 主体：
@@ -744,7 +863,13 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-5"></a>
 ### 毛毡玩具全身 Nano Banana Pro 提示模板
 - Author: MayorkingAI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg), [4](https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg), [5](https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg), [6](https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577254054_lxba6q_G7ANELZWMAEfO5h.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577267465_y1l6u6_G7ANGWpW0AIDu7F.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577277683_nrril1_G7ANIcCXkAACdeW.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577287193_1polrl_G7ANKRFWgAAFFMi.jpg)
 
 ```
 全身 {argument name="subject" default="[主题]"} 玩具，{argument name="attributes and accessories" default="[属性/配件]"}，{argument name="expression" default="[表情]"}，毛毡材质，置于 {argument name="place" default="[地点]"}，{argument name="lighting" default="[光照]"}，友好卡通外观，丰富柔软的质感
@@ -753,16 +878,24 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-6"></a>
 ### 水墨画孤舟提示词，适用于 Nano Banana Pro
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577572880_gscsmz_G67wSyab0AABZB1.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577572880_gscsmz_G67wSyab0AABZB1.jpg)
 
 ```
 水墨画风格，留白写意，描绘了 {argument name="main subject" default="一叶扁舟上的孤舟渔夫"}，线条极简，宣纸质感，以一方红色印章点睛，流露出东方哲学意境。
 ```
 
-<a id="item-1570"></a>
+<a id="item-7"></a>
 ### 中学生在历史课本上涂鸦
 - Author: SSSSCRYPTOMAN
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1764577552231_rk6sr8_G69dRFxagAAzb4K.jpg), [3](https://cdn.gooo.ai/cms/1764577556067_mlrlsl_G69dRFxaUAAkBI2.jpg), [4](https://cdn.gooo.ai/cms/1764577559688_altgjq_G69dRGXbkAMzpI9.jpg), [5](https://cdn.gooo.ai/cms/1764577563330_r7mlnw_G69dRHGbwAAoX8J.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577552231_rk6sr8_G69dRFxagAAzb4K.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577556067_mlrlsl_G69dRFxaUAAkBI2.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577559688_altgjq_G69dRGXbkAMzpI9.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577563330_r7mlnw_G69dRHGbwAAoX8J.jpg)
 
 ```
 这是一本日本中学生使用的历史教科书中的一页。页面上，一名学生用铅笔在一位伟人肖像照片上涂鸦，将其变成了一张滑稽的脸。请编辑和纠正教科书中的文字，使其符合正确的日语表达，并确保内容基于历史事实。
@@ -771,7 +904,9 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="json"></a>
 ### 电影般的雨中都市场景 JSON 提示词
 - Author: Johnny Wang
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577522024_vkoftz_G67psTzbwAAX0tQ.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577522024_vkoftz_G67psTzbwAAX0tQ.jpg)
 
 ```
 {
@@ -786,7 +921,14 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-7"></a>
 ### Nano Banana Pro 联系表多重拍摄相机提示
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg), [4](https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg), [5](https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg), [6](https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg), [7](https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577229402_u31t8z_G67jxidbkAcjDPL.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577234384_q6zk1s_G64FgZKXMAAXP_g.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577238747_2rpq2k_G64FgZGWwAAwXEl.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577242434_p205go_G64FgZXXcAAXmWw.jpg)
+  ![Image 7](https://cdn.gooo.ai/cms/1764577255872_35gd8v_G64FgZYXUAAg5Wf.jpg)
 
 ```
 分析输入图像的整体构成。识别所有存在的关键主体（无论是 {argument name="type of subject" default="一个人、一群人/一对情侣、一辆车，还是一个特定物体"}），以及它们之间的空间关系和互动。
@@ -817,7 +959,9 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="yaml"></a>
 ### YAML 提示词转换，适用于图像和图表
 - Author: テツメモ｜AI図解×検証｜Newsletter
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1764577566138_041vou_G67R84uaoAAb33m.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577566138_041vou_G67R84uaoAAb33m.jpg)
 
 ```
 将此转换为 YAML 提示，包括图像尺寸和所有视觉细节，并将其输出到代码框中。
@@ -826,7 +970,9 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="json-2"></a>
 ### 参考匹配的女性肖像 JSON 提示词
 - Author: Eyisha Zyer
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577187204_54fdgj_G66s0h2bkAIW6PV.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577187204_54fdgj_G66s0h2bkAIW6PV.jpg)
 
 ```
 {
@@ -843,7 +989,10 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="json-3"></a>
 ### 超逼真肖像 JSON 提示词，带参考图像
 - Author: Alejo
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577550915_wgyj06_G66tRQgbkAQafqW.jpg)
 
 ```
 {
@@ -859,16 +1008,24 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="nano-banana-pro-8"></a>
 ### Nano Banana Pro 提示词：将旧照片修复为现代肖像
 - Author: 苍何
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg), [3](https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg), [4](https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg), [5](https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577233275_gvagbm_G66TGuVbYAAzg-T.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577235859_86839q_G66THczbkAM1DfO.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577238908_12yoe1_G6Xhn5mWAAANJPP.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577247844_8t4go9_G6Xhn5qWUAA20Nz.jpg)
 
 ```
 将图像转换为现代、高质量的数字肖像，色彩鲜艳且富有时代感，皮肤纹理平滑逼真，光线自然。将服装和背景升级为简洁现代的美学风格，同时保留原始姿势和表情的真实性。
 ```
 
-<a id="item-1577"></a>
+<a id="item-8"></a>
 ### 从图片生成黑白故事板
 - Author: Wondershare UniConverter｜動画変換・圧縮・補正オールインワンソフト
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1764577554408_2kooiv_G61QpVVbMAAB7Jl.jpg), [3](https://cdn.gooo.ai/cms/1764577557466_nw8fne_G61QqlsbcAAbOMW.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577554408_2kooiv_G61QpVVbMAAB7Jl.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577557466_nw8fne_G61QqlsbcAAbOMW.jpg)
 
 ```
 根据上传的图片，创建一系列黑白故事板分镜，描绘故事的核心场景。
@@ -876,10 +1033,16 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 总共大约四个分镜。
 ```
 
-<a id="item-1578"></a>
+<a id="item-9"></a>
 ### 拍立得风格偶像照片提示词（使用参考人物）
 - Author: Shi-on🎀AI沼
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577574244_ebjxyq_G6520uubcAAaYhr.jpg), [4](https://cdn.gooo.ai/cms/1764577577700_hnylyz_G6520vVbkAIuuyN.jpg), [5](https://cdn.gooo.ai/cms/1764577580224_8yiwvi_G6520yzacAArjn8.jpg), [6](https://cdn.gooo.ai/cms/1764577582701_dm8cld_G65204EbkAAiP6E.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577574244_ebjxyq_G6520uubcAAaYhr.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577577700_hnylyz_G6520vVbkAIuuyN.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577580224_8yiwvi_G6520yzacAArjn8.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577582701_dm8cld_G65204EbkAAiP6E.jpg)
 
 ```
 请使用附件图片中的人物。他们的名字是 {argument name="name" default="[您的姓名]"}。
@@ -889,7 +1052,10 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 ### 适用于 Nano Banana Pro 的未来主义玻璃拟态 PPT 设计提示
 - Author: 歸藏(guizang.ai)
 - Notes: 一个详细的 PPT 生成提示，让你成为专业的 UI/UX 幻灯片设计师，创建高保真、未来主义玻璃拟物风格的 16:9 演示文稿，灵感源自 Apple Keynote 和现代 SaaS 设计。; 在全球视觉语言方面，风格应无缝融合 Apple Keynote 的极简主义、现代 SaaS 产品设计和玻璃拟态。整体氛围应高端、沉浸、简洁、通透。使用电影级的体积光照、柔和的光线追踪反射和环境光遮蔽。配色方案应以 {argument name="base color" default="深邃的虚空黑或纯陶瓷白"} 为基础，并以流动的极光渐变（如 {argument name="gradient accent colors" default="霓虹紫、电光蓝、柔和珊瑚橙、青色"}）作为背景和 UI 亮点的点缀。; 👉 立即尝试 →
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577241215_bgnunk_G65g9IrbkAUR2pZ.jpg)
 
 ```
 您是一位专家级的 UI/UX 演示文稿设计师。请生成高保真、未来感的 16:9 演示幻灯片。基于视觉平衡和美学原则，自动选择封面、网格布局或数据可视化中最完美的构图。
@@ -912,7 +1078,11 @@ Nano banana 提示词（原始 JSON 版本转换为中文 Markdown，效果相�
 <a id="vfx-yaml"></a>
 ### 能量场屏障 VFX 和姿势调整 YAML 提示
 - Author: てんねん@
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577540773_v85176_G64gFJzbkAQpKL2.jpg), [4](https://cdn.gooo.ai/cms/1764577543806_hhuvsz_G64gKH-bkAQsjS9.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577540773_v85176_G64gFJzbkAQpKL2.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577543806_hhuvsz_G64gKH-bkAQsjS9.jpg)
 
 ```
 task: "姿势与屏障 VFX"
@@ -997,19 +1167,23 @@ composition:
     size: "大型正面屏障"
 ```
 
-<a id="item-1581"></a>
+<a id="item-10"></a>
 ### 产品草图到最终渲染提示
 - Author: Gadgetify
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577197724_4u7hm0_6uEg00so5XfBLc7c.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577197724_4u7hm0_6uEg00so5XfBLc7c.jpg)
 
 ```
 将此草图渲染为最终量产产品。工作室灯光，注塑成型的高光白色塑料机身，抛光橡木手柄，不锈钢滴水盘。保持凌乱草图的精确比例。
 ```
 
-<a id="item-1582"></a>
+<a id="item-11"></a>
 ### 带有微小文本测试提示的包装模型
 - Author: Nas
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577541810_8jheny_G62kTkUaQAAzxY8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577541810_8jheny_G62kTkUaQAAzxY8.jpg)
 
 ```
 草本茶盒的包装模型，附有准确的营养标签、条形码和小字冲泡说明。
@@ -1018,7 +1192,11 @@ composition:
 <a id="nano-banana-pro-10"></a>
 ### 严格的超写实主义限制促成了 Nano Banana Pro 的诞生
 - Author: tenso
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577530234_xt1e2y_G609phDaYAAwT-W.jpg), [4](https://cdn.gooo.ai/cms/1764577533011_80mx1g_G609phBbAAAxC4b.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577530234_xt1e2y_G609phDaYAAwT-W.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577533011_80mx1g_G609phBbAAAxC4b.jpg)
 
 ```
 {
@@ -1033,16 +1211,24 @@ composition:
 <a id="gps"></a>
 ### 使用指定的 GPS 坐标让照片看起来很糟糕
 - Author: 空想写真家
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764577559103_scnta3_G602uKHa0AM1g0_.jpg), [4](https://cdn.gooo.ai/cms/1764577561703_3tn84b_G602yzga0AAZVnK.jpg), [5](https://cdn.gooo.ai/cms/1764577564067_2udq7q_G602z0_a0AMFYyd.jpg), [6](https://cdn.gooo.ai/cms/1764577567323_lh77bg_G603KzUa8AArCK0.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577559103_scnta3_G602uKHa0AM1g0_.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577561703_3tn84b_G602yzga0AAZVnK.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577564067_2udq7q_G602z0_a0AMFYyd.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1764577567323_lh77bg_G603KzUa8AArCK0.jpg)
 
 ```
 让这张照片看起来像是在经纬度为 {argument name="latitude and longitude" default="35.31721720077321"} 的地方随手拍下的糟糕快照。
 ```
 
-<a id="item-1585"></a>
+<a id="item-12"></a>
 ### 根据给定的人物和故事，创作萌系全彩漫画
 - Author: 🍣お寿司職人｜CNP Land開発中
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1764577545414_4gnqwy_G6z874AbIAAWwhF.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577545414_4gnqwy_G6z874AbIAAWwhF.jpg)
 
 ```
 请使用所附角色，创作一部强调萌系画风、分镜和面部表情的漫画。
@@ -1069,19 +1255,27 @@ composition:
 ・更改颜色或服装，或输出为单色、黑白、仅线稿、仅色调或灰度
 ```
 
-<a id="item-1586"></a>
+<a id="item-13"></a>
 ### 低质量一次性相机高中快照提示
 - Author: SSSSCRYPTOMAN
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1764577581428_byr0np_G6z7gUVa0AMf1-G.jpg), [3](https://cdn.gooo.ai/cms/1764577585883_zy2ic4_G6z7gWaa0AIUxEb.jpg), [4](https://cdn.gooo.ai/cms/1764577588926_xb6hd6_G6z7gW7aIAA7qHf.jpg), [5](https://cdn.gooo.ai/cms/1764577591506_28plll_G6z7gUvbMAAAYii.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577581428_byr0np_G6z7gUVa0AMf1-G.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577585883_zy2ic4_G6z7gWaa0AIUxEb.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764577588926_xb6hd6_G6z7gW7aIAA7qHf.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764577591506_28plll_G6z7gUvbMAAAYii.jpg)
 
 ```
 一张用低质量一次性相机拍摄的日常照片。一个日本高中生拍的糟糕照片。
 ```
 
-<a id="item-1587"></a>
+<a id="item-14"></a>
 ### 将展位草图转化为透视图
 - Author: 岩尾陵佑｜株式会社ピネアル CD
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1764577571213_rf1k25_G6z0dknboAA-g3f.jpg), [3](https://cdn.gooo.ai/cms/1764577573640_r1m695_G6z0dgia0AEQH-U.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577571213_rf1k25_G6z0dknboAA-g3f.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764577573640_r1m695_G6z0dgia0AEQH-U.jpg)
 
 ```
 根据展位草图绘制透视图。
@@ -1090,7 +1284,9 @@ composition:
 <a id="nano-banana"></a>
 ### 健身房瑜伽垫肖像 Nano Banana 提示
 - Author: God of Prompt
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764577522438_r2l3ke_G6zqTvMXAAAsqd7.jpg)
 
 ```
 {
@@ -1106,16 +1302,22 @@ composition:
 <a id="1994"></a>
 ### 特定坐标下的历史时刻 (1994)
 - Author: N≡H
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209319455_ci557r_G6jfqdVWgAADyla.jpg)
 
 ```
 在 {argument name="date_en" default="1994 年 7 月 18 日"} {argument name="time_en" default="上午 9:53 (UTC-3)"} 于 {argument name="coordinates_en" default="南纬 34°36’07’’ 西经 58°23’58’’"} 创建图像
 ```
 
-<a id="item-1590"></a>
+<a id="item-15"></a>
 ### 儿童黏土动画日相图信息图
 - Author: Jaclyn Konzelmann
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209309346_g5b9ok_AP3iAst7yX0FsgN9.jpg)
 
 ```
 制作一个信息图，解释一天中的各个阶段，非常适合 {argument name="child_age" default="6 岁的孩子"}。风格为独特的黏土动画，具有夸张的表情、大大的眼睛和迷人的幽默感。哑光黏土纹理、手工制作的道具和温暖实用的布景灯光是其主要特色。
@@ -1124,7 +1326,12 @@ composition:
 <a id="f1-vip"></a>
 ### F1 VIP 粉丝超逼真自拍编辑
 - Author: Nano Banana Labs
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg), [4](https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg), [5](https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209297048_n7xo8a_G6jRUN9WAAAsoLO.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764209299373_as206e_G6jRUVAWsAA60lX.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764209301563_vql86q_G6jRUcoW4AAsbyw.jpg)
 
 ```
 创作一张超逼真的 8K 图像，保留我真实的脸部、五官、肤色、眼睛和头发，与参考图像完全一致。
@@ -1158,7 +1365,12 @@ composition:
 <a id="line-q"></a>
 ### LINE 风格 Q 版表情包头像九宫格
 - Author: 宝玉
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg), [4](https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg), [5](https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209293843_81g6sf_G6i09XKXsAAzHUd.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764209296085_0rv83z_G6fE-98aoAA_MAV.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1764209298228_hkmm3p_G6fFJqMbkAEwTcy.jpg)
 
 ```
 根据 {argument name="reference_characters_en" default="参考图片中展示的角色"}，创作一组色彩鲜艳、手绘风格的 LINE 式半身 Q 版表情包肖像，并确保其头部配饰描绘准确。
@@ -1169,55 +1381,74 @@ composition:
 最终图像应为 4K 分辨率，宽高比为 {argument name="aspect_ratio_en" default="16:9"}。
 ```
 
-<a id="item-1593"></a>
+<a id="item-16"></a>
 ### 带有坐标和日期的时空穿越场景
 - Author: Alex dc
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209331516_8c4o7a_xGNxFU0HUJy68Slk.jpg)
 
 ```
 创建一个与以下时刻对应的图像：{argument name="coordinates_en" default="北纬 31.7785°, 东经 35.2296°"}，{argument name="date_en" default="公元 33 年 4 月 3 日"}，{argument name="time_en" default="15:00"}
 ```
 
-<a id="item-1594"></a>
+<a id="item-17"></a>
 ### 手绘等距地标示意图
 - Author: TechieSA
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209280491_x1ll9v_G6inJYdXcAAtK84.jpg)
 
 ```
 绘制 {argument name="dimension_en" default="1080x1080"} 尺寸的 {argument name="landmark_en" default="[LANDMARK]"} 手绘等距示意图。
 ```
 
-<a id="item-1595"></a>
+<a id="item-18"></a>
 ### 电影风格的黑白女性肖像
 - Author: 𝗦𝗮𝗻𝗶𝗮
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg), [3](https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764209309502_8l487n_G6ikg5OaQAAkDPZ.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209312612_kku1ve_G6g6WBeaoAAgc4V.jpg)
 
 ```
 一张逼真的黑白照片，照片中是一位留着深色长发的年轻女性，其面部特征、结构和表情与参考图像中的人物高度吻合。她表情威严或严肃，直视镜头。她身穿黑色西装外套、白色翻领衬衫和一条修身黑色领带。光线富有戏剧性，背景为深色且统一。风格：超写实、电影感、高对比度、黑白。主体：女性，身穿黑色西装、白色衬衫、修身黑色领带，表情威严、严肃、自信，中景特写，正面拍摄。
 ```
 
-<a id="item-1596"></a>
+<a id="item-19"></a>
 ### 冰箱扫描食谱信息图
 - Author: AmirMušić
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg), [4](https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209304921_59ezzl_G6iRr_OXQAApGxR.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764209307247_lpjakr_G6iRr_GXIAAmzY2.jpg)
 
 ```
 扫描 {argument name="container_en" default="冰箱"} 里的食材，并根据现有食材建议可以烹饪的菜肴，提供详细的分步食谱，以简单的信息图形式呈现。
 ```
 
-<a id="item-1597"></a>
+<a id="item-20"></a>
 ### 平铺式分解照片
 - Author: TechHalla
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg)
 
 ```
 超逼真的 8K 平面摆拍照片，严格遵循 knolling 风格。从上方 90 度俯视拍摄附图中物体，将其完全拆解成 {argument name="min_parts_en" default="8"} 到 {argument name="max_parts_en" default="12"} 个主要部件，并以整齐的网格或放射状图案排列在极简主义的 {argument name="surface_material_en" default="木质或哑光灰色"} 桌面上。使用均匀的间距、完美的对齐，无重叠，无多余物体。场景采用柔和、漫射的多光源照明，营造出微妙的阴影、中性色彩平衡，并使整个画面都清晰对焦。展示高度详细的真实世界材质（金属、塑料、橡胶握把、电路板、螺丝）。对于每个部件，添加一个细白色矩形边框，并在部件旁边放置一个简短、清晰的英文标签，使用简洁的无衬线字体，不遮盖部件；注释必须清晰可辨但又不显突兀。
 ```
 
-<a id="item-1598"></a>
+<a id="item-21"></a>
 ### 一位年轻男士的瑞士高山冬季肖像
 - Author: ATROPINE
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209277201_uw7n0o_G6hyPKpaUAAvSa0.jpg)
 
 ```
 超写实、超细节的数码单反电影级肖像，描绘一位年轻男子（与参考图中的面部特征相同），在冬季傍晚时分，站立在 {argument name="location_en" default="瑞士高山村庄"} 的户外。细雪纷飞，寒冷的空气中可见清晰的哈气。他的双手插在口袋里，姿态放松自然。
@@ -1232,46 +1463,61 @@ composition:
 风格：编辑旅行肖像，超写实主义，高动态范围，清晰对焦，自然皮肤纹理。
 ```
 
-<a id="item-1599"></a>
+<a id="item-22"></a>
 ### 漫威风格的女英雄漫画分镜图
 - Author: Miguel Ángel | Educador en IA
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg), [3](https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764209320245_2ackqz_G6hnaa3W4AAF5I5.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209323055_5xt2wj_G6hnaynXYAIVFuu.jpg)
 
 ```
 漫威风格的几幅漫画分镜，色彩鲜艳。一位身披红色斗篷的女英雄。背景中，未来城市霓虹闪烁。女英雄正在拯救陷入困境的人们。文本框：OpenArt 上的 Nano Banana Pro 真是太棒了。竖版
 ```
 
-<a id="item-1600"></a>
+<a id="item-23"></a>
 ### 电影级屋顶肖像照，源自参考照片
 - Author: Miguel Ángel | Educador en IA
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg), [3](https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764209322397_upr788_G6hnW9PWkAA411C.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209324691_yom9jo_DRyXx0SwPjD_sU0Y.jpg)
 
 ```
 超写实 9:16 俯拍，附图中（我上传了两张自己的照片）的男子坐在摩天大楼边缘，双腿悬空，双手交握。他身穿图中所示的衣服，回头望向身后，城市天际线柔和模糊。自然光照，电影级调色，强烈焦外虚化，浅景深，8K 电影级镜头，细节丰富。
 ```
 
-<a id="item-1601"></a>
+<a id="item-24"></a>
 ### 现有图片的卡通版本
 - Author: Fran Actúa
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764209330962_kpf4xz_ZQ0vp45DvrARSuXh.jpg)
 
 ```
 生成此图片的卡通版本。保持图片的一致性和连贯性。
 ```
 
-<a id="item-1602"></a>
+<a id="item-25"></a>
 ### 设备的爆炸图
 - Author: TechieSA
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209285191_okmdsp_G6g6qKtWUAAqVz1.jpg)
 
 ```
 创建一个 {argument name="dimension_en" default="1080x1080"} 尺寸的 {argument name="subject_en" default="[SUBJECT]"} 技术爆炸图。该设备应被拆解，显示所有单独的组件漂浮在空中，彼此分离以展示内部零件。每个主要组件都已标注。
 ```
 
-<a id="item-1603"></a>
+<a id="item-26"></a>
 ### 未来派面部年龄检测器信息图肖像
 - Author: Saman | AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg), [4](https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209283961_v9vxxb_G6g1yJ9WIAAaRg0.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764209286585_u12ys0_G6WdE9OWYAASxko.jpg)
 
 ```
 基于（{argument name="reference_photo_en" default="您的照片"}）的超逼真、高分辨率肖像信息图。保持与（{argument name="reference_photo_short_en" default="您的照片"}）中相同的人物、身份、发型、服装和自然肤色，背景为中性影棚。在整个面部叠加一个微妙的半透明面部分析网格，类似于 3D 面部扫描网格：细而柔和的白色线条沿着面部轮廓，略微发光但不遮盖皮肤细节。在面部一侧添加一条干净的垂直红色激光线，如同未来主义扫描。所有分析线条必须柔和、极简且优雅，如同医美科技广告一般。
@@ -1296,10 +1542,13 @@ composition:
 整体风格：未来主义 AI 引导护肤分析，极简主义，高级编辑照明，不指定性别，适用于任何人类面部。
 ```
 
-<a id="item-1604"></a>
+<a id="item-27"></a>
 ### 漫画风格的中文漫画分镜生成器
 - Author: 李继刚
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209315628_nxbzf7_G6g0DNNaQAAX57_.jpg)
 
 ```
 你是一位擅长中文的日本漫画家，拥有强烈的个人手绘风格。你是《鬼灭之刃》原稿手绘插画作者之一。
@@ -1312,28 +1561,37 @@ composition:
 {argument name="your_input_content" default="在此处填写您想改编成漫画的文本"}
 ```
 
-<a id="item-1605"></a>
+<a id="item-28"></a>
 ### 幕后拍摄设置可视化
 - Author: MΛRC VIDΛL
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764209326262_tg3bz7_39eDwwbS-saX7Hi8.jpg)
 
 ```
 生成一张逼真的图像，显示拍摄此场景时摄像机和灯光的放置位置，并标注所有出现的元素。
 ```
 
-<a id="item-1606"></a>
+<a id="item-29"></a>
 ### 诸葛连弩的复古工程爆炸图
 - Author: 铁锤人
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209313579_ubdedt_G6fqDcAasAABUU-.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209313579_ubdedt_G6fqDcAasAABUU-.jpg)
 
 ```
 请创建一张复古风格的工程爆炸图，展示 {argument name="weapon_name" default="诸葛连弩"}，所有标签和文字均使用中文。
 ```
 
-<a id="item-1607"></a>
+<a id="item-30"></a>
 ### 老式食谱风格插画
 - Author: Kris Kashtanova
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209298676_jiw4pb_G6gVT__W8AAoTR_.jpg), [4](https://cdn.gooo.ai/cms/1764209302048_bulors_G6gVT__WsAATonO.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209298676_jiw4pb_G6gVT__W8AAoTR_.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764209302048_bulors_G6gVT__WsAATonO.jpg)
 
 ```
 将这道 {argument name="dish_en" default="拉面"} 变成一个可爱的食谱页面，配以手绘复古食谱风格的插图。用精心绘制的食材围绕主菜，包括标签、用量和碗、打蛋器或勺子等厨具。为了营造温馨怀旧的感觉，请使用纹理阴影、温暖的柔和色彩和精致的墨水般轮廓。添加手写风格的食谱文字，将食材和说明有机地融入布局中。确保页面既具有艺术性又兼具教育性，将彩色插图与经典的食谱美学相结合。
@@ -1342,16 +1600,23 @@ composition:
 <a id="it"></a>
 ### IT 电影多面板序列
 - Author: James Yeung
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg), [4](https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209275413_3m39wy_G6f_WMXa8AAb2Rn.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1764209277760_veaaja_G6cgXctW4AAbDuy.jpg)
 
 ```
 使用多个宽屏面板网格创建电影序列，以讲述书籍《{argument name="book_title_en" default="IT"}》中富有想象力的剧本故事。
 ```
 
-<a id="item-1609"></a>
+<a id="item-31"></a>
 ### 编辑级牛仔布肖像，保留面部特征
 - Author: Zara
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg), [3](https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1764209287561_cussb9_G6ffMXfbQAABUWE.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209290078_kmguwq_G6ffMYaaoAA9ko6.jpg)
 
 ```
 {
@@ -1417,10 +1682,13 @@ composition:
 }
 ```
 
-<a id="item-1610"></a>
+<a id="item-32"></a>
 ### 儿童蜡笔风格的家庭露营画
 - Author: SETI Park
-- Images: [1](https://img.shields.io/badge/Language-KO-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-KO-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg)
 
 ```
 保持图片中所有其他元素不变，仅将纸上的图画改为不同的风格。
@@ -1430,46 +1698,61 @@ composition:
 将图画改为小学生蜡笔画的风格。
 ```
 
-<a id="item-1611"></a>
+<a id="item-33"></a>
 ### 参考图像的四个摄像机角度网格
 - Author: Yonslaybaseeth
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885755233_dia86f_G6XGckTacAAtoxg.jpg), [4](https://cdn.gooo.ai/cms/1763885758320_lj1jts_G6XHXoHa0AAbZY1.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885755233_dia86f_G6XGckTacAAtoxg.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885758320_lj1jts_G6XHXoHa0AAbZY1.jpg)
 
 ```
 创建 {argument name="reference_en" default="你的参考图像"} 的四种不同摄像机角度的网格，使用 {argument name="camera_angle_en" default="你选择的摄像机角度"}，并遵循与 {argument name="reference_repeat_en" default="参考图像"} 相同的风格和调色板。确保新镜头独一无二。
 ```
 
-<a id="item-1612"></a>
+<a id="item-34"></a>
 ### 编辑月亮位置并更改绘画风格
 - Author: marshmallowy
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885803992_kt7dsr_G6XCQjTbcAABemP.jpg), [3](https://cdn.gooo.ai/cms/1763885806179_07fuct_G6XCSvNbMAArO0f.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885803992_kt7dsr_G6XCQjTbcAABemP.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885806179_07fuct_G6XCSvNbMAArO0f.jpg)
 
 ```
 将背景中女人的月亮从观看者的角度移到左侧。将绘画风格改为透明水彩。
 ```
 
-<a id="item-1613"></a>
+<a id="item-35"></a>
 ### 给定坐标处发生重大事件
 - Author: AshutoshShrivastava
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885779472_a0w3s2_G6XCycxaAAA8aHp.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885779472_a0w3s2_G6XCycxaAAA8aHp.jpg)
 
 ```
 请根据以下坐标创建一张重大事件的图片：{argument name="coordinates_en" default="41°43′32″N 49°56′49″W"}。
 ```
 
-<a id="item-1614"></a>
+<a id="item-36"></a>
 ### 杰克逊实验室信息图
 - Author: Derya Unutmaz, MD
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885765990_p37fcw_G6XAjaYWYAA6Jro.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885765990_p37fcw_G6XAjaYWYAA6Jro.jpg)
 
 ```
 关于 {argument name="topic_en" default="杰克逊实验室"} 的信息图。
 ```
 
-<a id="item-1615"></a>
+<a id="item-37"></a>
 ### 根据参考线框图进行网页设计
 - Author: Webデザイナーのふじわら｜Elementorでホームページ制作
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885630688_hxag4z_G6W2E7sbwAAvjZV.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885630688_hxag4z_G6W2E7sbwAAvjZV.jpg)
 
 ```
 请根据参考图片中的文字内容进行设计。忽略其布局。请像专业设计师一样进行设计。创建一个简洁、组织良好且流程美观的设计。
@@ -1478,17 +1761,21 @@ composition:
 <a id="line"></a>
 ### 可爱的长尾山雀 LINE 贴图集
 - Author: SSSSCRYPTOMAN
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885604698_gw8vfk_G6W0A72akAAjDPX.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885604698_gw8vfk_G6W0A72akAAjDPX.jpg)
 
 ```
 设计 12 款以Q版可爱的银喉长尾山雀为主题的 LINE 贴图。贴图的姿势和文字排版应各不相同，以确保设计独特且多样化。对话内容为日语。背景为白色。贴图的目标用户是“女高中生”。
 ```
 
-<a id="item-1617"></a>
+<a id="item-38"></a>
 ### 根据照片制作逼真的角色设计图
 - Author: Creative.Edge CL+
 - Notes: 请根据这张照片中的人物，创建一个详细的角色设计表。该设计表将用于一部真人电影，因此请注意不要使其看起来像动漫风格的艺术作品。请务必按照以下三个角色元素来构建：
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885585379_oiwknt_ruxtQefhmHdMJqYj.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885585379_oiwknt_ruxtQefhmHdMJqYj.jpg)
 
 ```
 请根据这张照片中的人物，创建一个详细的角色设计表。该设计表将用于一部真人电影，因此请注意不要使其看起来像动漫风格的艺术作品。请务必按照以下三个角色元素来构建：
@@ -1503,7 +1790,9 @@ composition:
 <a id="google"></a>
 ### 关于 Google 早年经历的信息图
 - Author: Vik
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885651129_mb3n6p_G6WVfU7bEAAZIB7.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885651129_mb3n6p_G6WVfU7bEAAZIB7.jpg)
 
 ```
 请制作一份关于 Google 早期发展及其重要里程碑的信息图。
@@ -1512,43 +1801,62 @@ composition:
 <a id="2d-nes"></a>
 ### 2D NES 平台游戏的精灵图
 - Author: Glenn Williams
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885772344_vq443h_G6WwNlQWcAAaPsj.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885772344_vq443h_G6WwNlQWcAAaPsj.jpg)
 
 ```
 为 2D NES 平台游戏创建精灵图，包括敌人和 NPC。
 ```
 
-<a id="item-1620"></a>
+<a id="item-39"></a>
 ### 涂装方案对比图
 - Author: ひで@卒サラ生活 / 不動産×民泊
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885608347_2zc1gm_G6WwWI2asAASozn.jpg), [3](https://cdn.gooo.ai/cms/1763885610455_4x2swh_Gon_PtsW4AAHBN5.jpg), [4](https://cdn.gooo.ai/cms/1763885612907_eyhfhr_Gon_PtkWUAA9N__.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885608347_2zc1gm_G6WwWI2asAASozn.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885610455_4x2swh_Gon_PtsW4AAHBN5.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885612907_eyhfhr_Gon_PtkWUAA9N__.jpg)
 
 ```
 这样我就可以进行绘画模拟，制作一张图片，让我可以比较几种不同的图案。
 ```
 
-<a id="item-1621"></a>
+<a id="item-40"></a>
 ### 根据参考照片和草图绘制的动作场景
 - Author: Marcus Byrne
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885813137_zxo17g_G6WvO9NbMAAFlEE.jpg), [4](https://cdn.gooo.ai/cms/1763885816485_jmmp0d_G6WvO9JaAAAdU5-.jpg), [5](https://cdn.gooo.ai/cms/1763885819116_w84c2k_G6WvO9cbAAArAvk.jpg), [6](https://cdn.gooo.ai/cms/1763885822088_u0dk54_G6WvO9Pa8AA58u2.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885813137_zxo17g_G6WvO9NbMAAFlEE.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885816485_jmmp0d_G6WvO9JaAAAdU5-.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885819116_w84c2k_G6WvO9cbAAArAvk.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1763885822088_u0dk54_G6WvO9Pa8AA58u2.jpg)
 
 ```
 使用该男子的照片，仿佛他正从建筑物边缘滑落，而该女子正在伸手，精确匹配草图的姿势和构图，以 {argument name="city_style_en" default="NYC"} 作为场景的风格参考。一张高质量的 20 世纪 90 年代动作照片。
 ```
 
-<a id="item-1622"></a>
+<a id="item-41"></a>
 ### 江户风格木版画忍者角色
 - Author: FANTAN GLITCHBOX
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885651972_3rk4hk_G6WvEPhaMAAaxci.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885651972_3rk4hk_G6WvEPhaMAAaxci.jpg)
 
 ```
 一张江户时代风格的木版画，描绘了一个角色摆出大胆而酷炫的姿势，标题为“{argument name="title_en" default="Karakuri Ninja Oboro"}”。
 ```
 
-<a id="item-1623"></a>
+<a id="item-42"></a>
 ### 印尼总统系列抓拍照片
 - Author: DΞV
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885747153_bnzbtt_G6WhmStboAARYf4.jpg), [4](https://cdn.gooo.ai/cms/1763885750604_s6xw06_G6WieZebgAARJvP.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885747153_bnzbtt_G6WhmStboAARYf4.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885750604_s6xw06_G6WieZebgAARJvP.jpg)
 
 ```
 生成一组六张纪实风格的偷拍照片，内容为 {argument name="person_en" default="这位印度尼西亚总统"} 在办公室、稻田里以及与其他总统开派对的场景。
@@ -1557,7 +1865,11 @@ composition:
 <a id="90"></a>
 ### 通过风格迁移实现的 90 年代版网站
 - Author: DΞV
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885764059_puzk3l_G6Wr0C8asAAS2QA.jpg), [3](https://cdn.gooo.ai/cms/1763885766883_dttyit_G6Wsp5Ra0AAveFv.jpg), [4](https://cdn.gooo.ai/cms/1763885769647_0qv8ki_G6WtEjmasAAiAd_.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885764059_puzk3l_G6Wr0C8asAAS2QA.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885766883_dttyit_G6Wsp5Ra0AAveFv.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885769647_0qv8ki_G6WtEjmasAAiAd_.jpg)
 
 ```
 制作一个我的网站的 90 年代版本。
@@ -1566,16 +1878,23 @@ composition:
 <a id="netflix"></a>
 ### 将 Netflix 屏幕变成西部片风格
 - Author: Dolcefoto
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885796761_sntaeq_G6UXjFSXYAAmV7I.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885796761_sntaeq_G6UXjFSXYAAmV7I.jpg)
 
 ```
 将整个 Netflix 屏幕变成西方版本。
 ```
 
-<a id="item-1626"></a>
+<a id="item-43"></a>
 ### 文章或内容的缩略图设计提示
 - Author: 加藤駿平｜トップセールス営業マン
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885549951_qrlx4i_G6Wju8sa8AEnTqT.jpg), [4](https://cdn.gooo.ai/cms/1763885552974_2ctvx6_G6WjxYGasAEMU1x.jpg), [5](https://cdn.gooo.ai/cms/1763885555781_ivrz0g_G6Wjz_gbsAAdLWB.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885549951_qrlx4i_G6Wju8sa8AEnTqT.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885552974_2ctvx6_G6WjxYGasAEMU1x.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885555781_ivrz0g_G6Wjz_gbsAAdLWB.jpg)
 
 ```
 目的：(示例) {argument name="purpose_en" default="为一篇笔记文章创建缩略图"}
@@ -1587,28 +1906,36 @@ composition:
 首先，输出三张设计选项图片。
 ```
 
-<a id="item-1627"></a>
+<a id="item-44"></a>
 ### 床上的衣物
 - Author: CHAO2U AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885776121_5wbi8e_G6WmWG4awAAOfG8.jpg), [3](https://cdn.gooo.ai/cms/1763885779430_5x8s1g_G6WmXAvaoAA_wYG.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885776121_5wbi8e_G6WmWG4awAAOfG8.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885779430_5x8s1g_G6WmXAvaoAA_wYG.jpg)
 
 ```
 把她的每件衣服都单独平铺在床上。
 ```
 
-<a id="item-1628"></a>
+<a id="item-45"></a>
 ### 朴拙涂鸦风格的主题插画
 - Author: -Zho-
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg)
 
 ```
 一幅涂鸦风格的插画，描绘了 {argument name="subject_en" default="[subject]"}，线条质朴，造型幽默夸张。
 ```
 
-<a id="item-1629"></a>
+<a id="item-46"></a>
 ### 简单的动作电影场景
 - Author: K
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885756906_5uh75u_G6WjiYjb0AAO-x8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885756906_5uh75u_G6WjiYjb0AAO-x8.jpg)
 
 ```
 拍一段动作电影场景。
@@ -1617,7 +1944,10 @@ composition:
 <a id="ai"></a>
 ### 黑板风格的 AI 新闻图解
 - Author: ひでもん | AI開発@ニュース発信
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg), [3](https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885620059_vzaj75_G6WfVvIbAAEgvYg.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885622901_pk1vka_G6P2CkracAINIfP.jpg)
 
 ```
 请使用以下内容，以手绘黑板报的形式总结新闻，就像老师写的一样，用图表和易于理解的表达方式进行分解。
@@ -1625,37 +1955,52 @@ composition:
 “来自 Grok 的搜索结果”
 ```
 
-<a id="item-1631"></a>
+<a id="item-47"></a>
 ### 逼真的馕饼双关语图片
 - Author: ケンイチ | AIスキルアカデミー『仕事に使えるAI活用術』
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885671264_1izmax_G6WZt8tagAAf17W.jpg), [4](https://cdn.gooo.ai/cms/1763885674196_zir32q_G6WZt8sawAADz5E.jpg), [5](https://cdn.gooo.ai/cms/1763885676552_xwrd5j_G6WZt8paIAEOFnb.jpg), [6](https://cdn.gooo.ai/cms/1763885680229_plt205_G6WZt8ua4AAXFz_.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885671264_1izmax_G6WZt8tagAAf17W.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885674196_zir32q_G6WZt8sawAADz5E.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885676552_xwrd5j_G6WZt8paIAEOFnb.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1763885680229_plt205_G6WZt8ua4AAXFz_.jpg)
 
 ```
 一张 1:1 比例的写实特写图片，展示了新鲜出炉的馕。在蓬松鼓起的馕表面，焦痕形成了文字“{argument name="message_en" default="You can do naan-thing"}”。旁边放着一碗咖喱。
 ```
 
-<a id="item-1632"></a>
+<a id="item-48"></a>
 ### 食物照片变身生物风格营养海报
 - Author: KANA
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885574174_uvvu12_G6WaqgMaQAAxwpf.jpg), [3](https://cdn.gooo.ai/cms/1763885577415_azx7x9_G6WaronbsAE5UJo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885574174_uvvu12_G6WaqgMaQAAxwpf.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885577415_azx7x9_G6WaronbsAE5UJo.jpg)
 
 ```
 将参考图片中的食材重构为活生生的生物。按照相同的顺序排列它们，并清晰地标出每种食材的名称、卡路里和营养指数。最终呈现为“食材介绍海报”风格的图片，并加入有趣的科学小知识。
 ```
 
-<a id="item-1633"></a>
+<a id="item-49"></a>
 ### 日本辣妹杂志校服专题
 - Author: cppp
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885594270_mwd5m6_G6WYLU0bwAAvl24.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885594270_mwd5m6_G6WYLU0bwAAvl24.jpg)
 
 ```
 日本辣妹杂志的校服造型特辑。
 ```
 
-<a id="item-1634"></a>
+<a id="item-50"></a>
 ### 游戏王魔法卡文本主题
 - Author: SSSSCRYPTOMAN
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885641391_hqmmrw_G6WTtQFa4AAW5Q3.jpg), [4](https://cdn.gooo.ai/cms/1763885645055_e08k1j_G6WTtBQa0AE0H0y.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885641391_hqmmrw_G6WTtQFa4AAW5Q3.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885645055_e08k1j_G6WTtBQa0AE0H0y.jpg)
 
 ```
 设计一张游戏王魔法卡。以游戏王官方美术风格绘制插图，使其具有吸引力。卡牌的主题是“{argument name="card_theme_en" default="Bitcoin crash"}”。用日文写描述，不要使用振假名或旁注标记。卡牌的外部背景应为白色。
@@ -1664,34 +2009,45 @@ composition:
 <a id="ai-2"></a>
 ### AI 伙伴从背后拥抱的双人镜头
 - Author: ヒカヲ／GPT愛
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885596702_az92dn_G6WTI9uaoAAkuNO.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885596702_az92dn_G6WTI9uaoAAkuNO.jpg)
 
 ```
 生成一个场景：第二张图片中的人物从后面抱住第一张照片中的人，双臂环绕到前面，两人一同出现在画面中。
 ```
 
-<a id="item-1636"></a>
+<a id="item-51"></a>
 ### 关于嵌入式工程师困境的四格漫画
 - Author: Naitsuku
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885630443_0dvcf0_G6WRtuRaAAMLWHU.jpg), [3](https://cdn.gooo.ai/cms/1763885633634_vef04n_G6WRu0saEAA3qeK.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885630443_0dvcf0_G6WRtuRaAAMLWHU.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885633634_vef04n_G6WRu0saEAA3qeK.jpg)
 
 ```
 生成一个关于嵌入式工程师辛酸的四格漫画。
 ```
 
-<a id="item-1637"></a>
+<a id="item-52"></a>
 ### 夏尔中的“威利在哪里”风格《指环王》
 - Author: Stevan Bogosavljević
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885809757_312j74_G6WQrOdWIAANLiE.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885809757_312j74_G6WQrOdWIAANLiE.jpg)
 
 ```
 一张“威利在哪里”风格的图片，展示了所有在夏尔的《指环王》角色。
 ```
 
-<a id="item-1638"></a>
+<a id="item-53"></a>
 ### 面部特征一致的摇滚乐队海报
 - Author: Kris Kashtanova
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg), [4](https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885639610_ebcaun_G6WO0TCXQAAXVBN.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885643172_nkrvvb_G6WK0amXwAA0NQd.jpg)
 
 ```
 用这些人制作一张摇滚乐队海报。保持面部一致。将 "{argument name="band_name_en" default="The AI Syndicate"}" 作为乐队名称。
@@ -1700,43 +2056,57 @@ composition:
 <a id="line-2"></a>
 ### 黑白硬汉 LINE 贴图
 - Author: てぃなの＠GPTs好きすぎる人
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885612334_nuy6h2_G6WOJgBbsAAHKyK.jpg)
 
 ```
 请使用附件图片中的角色，创作 16 款黑白 LINE 贴图。这些贴图应种类丰富，并包含硬汉们会想使用的酷炫短语。
 ```
 
-<a id="item-1640"></a>
+<a id="item-54"></a>
 ### 诗歌的电影化诠释
 - Author: Palak Bansal
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885757835_2dtopz_G6WIPlLaQAA-tE7.jpg)
 
 ```
 创作一幅电影般的插画，以视觉方式呈现以下诗歌，捕捉其情感、隐喻和氛围：{argument name="poem_en" default="[your poem here]"}。
 ```
 
-<a id="item-1641"></a>
+<a id="item-55"></a>
 ### 照片上的可爱手写笔记
 - Author: tahi
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885802545_yjxgp1_G6WIjoEaQAAUqb1.jpg)
 
 ```
 在照片上写下尽可能多的可爱手写笔记和高光！
 ```
 
-<a id="item-1642"></a>
+<a id="item-56"></a>
 ### 铺在床上的衣物
 - Author: CHAO2U AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg), [3](https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg), [4](https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885560814_v44syb_G6WDzG1bkAA2XxH.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885563907_4q8zk4_G6WD2ILasAAVUmp.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885566306_buxmpj_G6WD3PCbgAE-WtM.jpg)
 
 ```
 将她的每件衣物都单独放在床上。
 ```
 
-<a id="item-1643"></a>
+<a id="item-57"></a>
 ### 从插画生成照片级渲染图
 - Author: 直人 【コンシェルジュ民泊】
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885620093_1a8kg3_G6WC-FgbIAArVU_.jpg), [3](https://cdn.gooo.ai/cms/1763885622638_434lm0_G6WC_WSaQAAxX_J.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885620093_1a8kg3_G6WC-FgbIAArVU_.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885622638_434lm0_G6WC_WSaQAAxX_J.jpg)
 
 ```
 基于图像的原始照片，超写实，高度精细，8K 超高清，逼真纹理，锐利对焦，自然光照，电影感，高分辨率摄影。
@@ -1745,7 +2115,13 @@ composition:
 <a id="3d"></a>
 ### 电影级 3D 标志，自动分配纹理
 - Author: Kris Kashtanova
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885708637_4kfc88_G6WCcaKWYAAc2oH.jpg), [4](https://cdn.gooo.ai/cms/1763885710942_3vh3ht_G6WCcaXWMAEAcnS.jpg), [5](https://cdn.gooo.ai/cms/1763885713621_w5wm5e_G6WCcaWXwAE3TpL.jpg), [6](https://cdn.gooo.ai/cms/1763885716719_yxkd1w_G6WClZeXwAARoPn.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885708637_4kfc88_G6WCcaKWYAAc2oH.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885710942_3vh3ht_G6WCcaXWMAEAcnS.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885713621_w5wm5e_G6WCcaWXwAE3TpL.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1763885716719_yxkd1w_G6WClZeXwAARoPn.jpg)
 
 ```
 为 {argument name="brand_en" default="[BRAND]"} 创建一个电影级的 3D 标志。
@@ -1754,19 +2130,25 @@ composition:
 风格：产品广告 / 揭示镜头，电影感，超高清。
 ```
 
-<a id="item-1645"></a>
+<a id="item-58"></a>
 ### 鞋样排版
 - Author: X-Design
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885660822_p1gkx9_G6WBpkZagAAdxBJ.jpg), [3](https://cdn.gooo.ai/cms/1763885663720_ucecx1_G6WBtabbAAAa2bi.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885660822_p1gkx9_G6WBpkZagAAdxBJ.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885663720_ucecx1_G6WBtabbAAAa2bi.jpg)
 
 ```
 创建一张图片，展示这双鞋的各个独立图案部件，每个部件都分开并放置在纯色背景上。
 ```
 
-<a id="item-1646"></a>
+<a id="item-59"></a>
 ### 上传角色创作的《丝之歌》四格漫画
 - Author: ユズ🍊💙
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885631829_gkdyd2_G6WBe4Qa0AAi8ZX.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885631829_gkdyd2_G6WBe4Qa0AAi8ZX.jpg)
 
 ```
 使用上传图片中的角色，用四格漫画的形式解释游戏 {argument name="game_title" default="Silksong"}。宽高比应为 9:16。
@@ -1775,34 +2157,44 @@ composition:
 <a id="nes"></a>
 ### 将社交媒体简介变成 NES 游戏卡封面
 - Author: Kris Kashtanova
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885740673_03j2j3_G6WAh8pXgAA72ua.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885740673_03j2j3_G6WAh8pXgAA72ua.jpg)
 
 ```
 分析我的个人简介，然后构思一款能代表我的电子游戏，如果我是一款电子游戏的话。制作一张 NES 卡带的特写图，背景模糊，显示出青少年卧室的场景。让它看起来像产品照片，并确保包含我的名字。
 ```
 
-<a id="item-1648"></a>
+<a id="item-60"></a>
 ### 动漫风格坐姿肖像（基于面部图像）
 - Author: Kitten Kiki
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885621769_tv374w_G6V_pcxbUAE1FpF.jpg), [3](https://cdn.gooo.ai/cms/1763885624695_0de943_G6V_pcybMAAv6BU.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885621769_tv374w_G6V_pcxbUAE1FpF.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885624695_0de943_G6V_pcybMAAv6BU.jpg)
 
 ```
 根据这张图片，你能创作一幅数字插画吗？风格偏向动漫，描绘这个人穿着一件漂亮的连衣裙，盘腿（正坐）坐在一张天鹅绒基座上。
 ```
 
-<a id="item-1649"></a>
+<a id="item-61"></a>
 ### 身份验证角色，护照可见
 - Author: KANA
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885700131_5zq69o_owci0y6lHFtgF_T9.jpg)
 
 ```
 让图片中的人物坐在电脑前，手持护照，将证件清晰地展示给摄像头，以证明其是真实人物。证件信息应清晰可见，包括姓名 {argument name="name_en" default="[NAME]"}、所属机构 {argument name="affiliation_en" default="[YOUR DATA]"} 和出生日期 {argument name="birthday_en" default="[YOUR DATE]"}。所有其他细节均可随机虚构。
 ```
 
-<a id="item-1650"></a>
+<a id="item-62"></a>
 ### 一篮多角
 - Author: Kris Kashtanova
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg)
 
 ```
 把所有鸡蛋都放在一个篮子里
@@ -1811,61 +2203,81 @@ composition:
 <a id="it-2"></a>
 ### 高细节 IT 职业信息图（泰语/英语混合）
 - Author: Thanunchai.Tpk
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885764895_tvj6qd_G6V5eTNawAAooML.jpg), [3](https://cdn.gooo.ai/cms/1763885768630_41vg6r_G6V5eTebcAApYb7.jpg), [4](https://cdn.gooo.ai/cms/1763885771400_sa7tpx_G6V5eTKaAAAhpoZ.jpg), [5](https://cdn.gooo.ai/cms/1763885774138_oegbkb_G6V5eThbsAAWJFi.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885764895_tvj6qd_G6V5eTNawAAooML.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885768630_41vg6r_G6V5eTebcAApYb7.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885771400_sa7tpx_G6V5eTKaAAAhpoZ.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885774138_oegbkb_G6V5eThbsAAWJFi.jpg)
 
 ```
 制作一张非常详细的信息图，描述与软件开发生命周期相关的 IT 职业或 IT 工作。
 ```
 
-<a id="item-1652"></a>
+<a id="item-63"></a>
 ### 总结文本的单一图表图像（日语）
 - Author: やま先生＠AIで授業と校務をよりラクに
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885794674_19q656_G6V5jRXbAAAhXIp.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885794674_19q656_G6V5jRXbAAAhXIp.jpg)
 
 ```
 将其总结为一张图表图片。
 ```
 
-<a id="item-1653"></a>
+<a id="item-64"></a>
 ### 缓解颈肩僵硬的肩部拉伸信息图
 - Author: みなと｜AI副業
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885512006_1j0ii0_G6V4UTDaEAA-cwu.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885512006_1j0ii0_G6V4UTDaEAA-cwu.jpg)
 
 ```
 请创作一幅插画风格的图表，内容是“{argument name="topic_en" default="3 分钟肩部拉伸练习"}”。使用最少的插图，并以女性模特为主角。尺寸应为 3:4。
 ```
 
-<a id="item-1654"></a>
+<a id="item-65"></a>
 ### 烤架上的超逼真玻璃五花肉
 - Author: 릴리안.D
-- Images: [1](https://img.shields.io/badge/Language-KO-blue), [2](https://cdn.gooo.ai/cms/1763885528976_ysdl5g_G6Vx0FwaEAAH6Jf.jpg), [3](https://cdn.gooo.ai/cms/1763885532644_5sgj0m_G6Vx365acAANsFq.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-KO-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885528976_ysdl5g_G6Vx0FwaEAAH6Jf.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885532644_5sgj0m_G6Vx365acAANsFq.jpg)
 
 ```
 烤架上放着一份玻璃制成的超逼真五花肉。
 ```
 
-<a id="item-1655"></a>
+<a id="item-66"></a>
 ### 辛普森风格的火箭香蕉混合体
 - Author: Adrien
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg)
 
 ```
 一个非常创新且有趣的火箭和香蕉的混合体，采用《辛普森一家》的风格。
 ```
 
-<a id="item-1656"></a>
+<a id="item-67"></a>
 ### 食谱分解与美食摄影
 - Author: DΞV
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885699082_jn5j72_G6VwFfTaUAA1Gw9.jpg), [3](https://cdn.gooo.ai/cms/1763885703555_eo2jni_G6V0U-Za0AEAm6H.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885699082_jn5j72_G6VwFfTaUAA1Gw9.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885703555_eo2jni_G6V0U-Za0AEAm6H.jpg)
 
 ```
 为这道菜制作一份详细的食谱，包括所有配料名称及其原始食材。让它看起来像一次真实的摄影作品。
 ```
 
-<a id="item-1657"></a>
+<a id="item-68"></a>
 ### 文本转思维导图图形
 - Author: かずりりぃ｜ChatGPT,AI 活用×SNS発信の裏技
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885614678_ny25s3_G6VyZDHa4AETYFj.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885614678_ny25s3_G6VyZDHa4AETYFj.jpg)
 
 ```
 将这段文字转化为一张从中心向外扩展的思维导图。
@@ -1883,7 +2295,9 @@ composition:
 <a id="squatty-potty"></a>
 ### Squatty Potty 白板说明
 - Author: Jason Rink
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885747961_m9ntut_G6VvzHJWoAAldz3.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885747961_m9ntut_G6VvzHJWoAAldz3.jpg)
 
 ```
 一张关于如何正确使用 Squatty Potty 的详细白板插图和说明。
@@ -1892,7 +2306,9 @@ composition:
 <a id="vtuber"></a>
 ### 城市照片中的 VTuber 风格街头时尚缩略图
 - Author: Studio Veco|AI×VR|AI×MediaART|
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885553891_9vcwma_G6VvZytaoAAIGKt.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885553891_9vcwma_G6VvZytaoAAIGKt.jpg)
 
 ```
 让人物站在地面上，但不需要展示地面。添加一个与此背景相符的角色，并使其成为一个适合作为 VTuber 的角色。
@@ -1903,10 +2319,12 @@ composition:
 开始生成图像。
 ```
 
-<a id="item-1660"></a>
+<a id="item-69"></a>
 ### 文本的白板式简单图表
 - Author: かずりりぃ｜ChatGPT,AI 活用×SNS発信の裏技
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885572755_sge1y4_G6Vuv_hboAALHXx.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885572755_sge1y4_G6Vuv_hboAALHXx.jpg)
 
 ```
 将此文本转化为一个简单的白板风格图表。
@@ -1923,16 +2341,25 @@ composition:
 <a id="mrbeast"></a>
 ### MrBeast 风格的爱泼斯坦文件缩略图
 - Author: Jason Rink
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg)
 
 ```
 一个 MrBeast 风格的 YouTube 缩略图，但主角是唐纳德·特朗普，视频内容是他揭露爱泼斯坦档案里的秘密。
 ```
 
-<a id="item-1662"></a>
+<a id="item-70"></a>
 ### 杂乱衣橱中的高角度仙女垃圾摇滚偶像
 - Author: Mani
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885730864_glu6vm_G6VuGawW0AACHQW.jpg), [4](https://cdn.gooo.ai/cms/1763885733855_y32rdc_G6VuGauWYAAZNir.jpg), [5](https://cdn.gooo.ai/cms/1763885736139_cwr7iu_G6VuGatW8AAFsGz.jpg), [6](https://cdn.gooo.ai/cms/1763885739425_oqyfk9_G6S2x1xaYAAZ_N6.jpg), [7](https://cdn.gooo.ai/cms/1763885743286_ybd5vb_G6S2x1ybIAAlOt6.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885730864_glu6vm_G6VuGawW0AACHQW.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885733855_y32rdc_G6VuGauWYAAZNir.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885736139_cwr7iu_G6VuGatW8AAFsGz.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1763885739425_oqyfk9_G6S2x1xaYAAZ_N6.jpg)
+  ![Image 7](https://cdn.gooo.ai/cms/1763885743286_ybd5vb_G6S2x1ybIAAlOt6.jpg)
 
 ```
 从高角度俯视拍摄一位东亚女偶像，她躺在凌乱衣橱的地板上，严格遵循 {argument name="reference_image_en" default="image_0.png"} 中所示的倒立姿势和解剖结构。她身穿一件华丽的蓝色蕾丝叠层迷你连衣裙，带有挤奶女工式紧身胸衣、心形领口、泡泡袖和荷叶边下摆。她穿着厚重的及膝红色皮靴，靴子正面有一条垂直缝线。可见的纹身包括大腿上的铁丝网图案和胸部的小型手刺心形与钥匙图案。地板上堆满了各种纺织品、薄纱和衣物。背景墙漆成黄色，上面有白色金属丝置物架、半透明塑料储物抽屉和一个塞满衣物的衣架。灯光是顶部的钨丝灯，营造出温暖的棕褐色调，具有 90 年代一次性相机滤镜的复古感。氛围是疲惫、凌乱和浪漫的垃圾摇滚风。
@@ -1945,34 +2372,44 @@ composition:
 <a id="line-3"></a>
 ### LINE 贴纸表
 - Author: 成阿ハルキ⭐👹
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885562530_hhrlz8_G6VtZ20bsAAtBRG.jpg), [3](https://cdn.gooo.ai/cms/1763885565415_a7vxd8_G6VteK4bwAA81uj.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885562530_hhrlz8_G6VtZ20bsAAtBRG.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885565415_a7vxd8_G6VteK4bwAA81uj.jpg)
 
 ```
 制作 LINE 贴图。将附图转换为 Q 版角色，并制作 16 种不同姿势和对话文字的变体。
 ```
 
-<a id="item-1664"></a>
+<a id="item-71"></a>
 ### 走出社交媒体屏幕的“错视画”主题人物
 - Author: madpencil
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885724726_hc1ah8_G6VtN7haMAAlkVQ.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885724726_hc1ah8_G6VtN7haMAAlkVQ.jpg)
 
 ```
 一个关于 {argument name="subject_en" default="一个主题"} 的“错视画”幻觉，{argument name="attire_en" default="你选择的服装"} 从一个显示着 {argument name="platform_en" default="社交媒体"} 界面的大屏幕中走出。屏幕上显示着用户名“@”、1K 个赞和 12-20 条评论，周围漂浮着表情符号（心形眼、笑脸），背景是 {argument name="background_en" default="你喜欢的背景"}。
 ```
 
-<a id="item-1665"></a>
+<a id="item-72"></a>
 ### 超逼真的罗罗诺亚·佐罗肖像
 - Author: Crea Dei
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885730573_1wy9r6_G6Vrv6ebcAA1QDR.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885730573_1wy9r6_G6Vrv6ebcAA1QDR.jpg)
 
 ```
 超逼真的罗罗诺亚·索隆肖像。
 ```
 
-<a id="item-1666"></a>
+<a id="item-73"></a>
 ### 将包中的物品取出并摊在床上
 - Author: Jin.B
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg)
 
 ```
 把包里的东西拿出来放到床上，其中一些散落在地板上。
@@ -1981,25 +2418,33 @@ composition:
 <a id="gta-5"></a>
 ### GTA 5 线上动作场景
 - Author: Apple Lamps
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg)
 
 ```
 创作一张《GTA 5 线上模式》的图片，内容是一个人正在射击一辆汽车。
 ```
 
-<a id="item-1668"></a>
+<a id="item-74"></a>
 ### 关于一个笨拙的精灵的四格漫画
 - Author: 野宮さと
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885503584_sy8bil_G6VkQxjasAADXZn.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885503584_sy8bil_G6VkQxjasAADXZn.jpg)
 
 ```
 让我们用 Nano Banana Pro 创作一个四格漫画：“{argument name="title_en" default="A Day in the Life of a Clumsy Elf"}”。
 ```
 
-<a id="item-1669"></a>
+<a id="item-75"></a>
 ### 超高保真图像修复
 - Author: Follow4vibess
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg), [3](https://cdn.gooo.ai/cms/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg)
 
 ```
 对这张图片进行超高保真度的重制。
@@ -2008,25 +2453,33 @@ composition:
 <a id="crt"></a>
 ### 红白机游戏盒、卡带、说明书和 CRT 屏幕（日文）
 - Author: FANTAN GLITCHBOX
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885787343_dilpuo_G6VhdElbUAAHA16.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885787343_dilpuo_G6VhdElbUAAHA16.jpg)
 
 ```
 为游戏《Karakuri Ninja Oboro》制作 Famicom 游戏盒、卡带和说明书。游戏主角是图片中的角色，游戏画面显示在 CRT 电视上。
 ```
 
-<a id="item-1671"></a>
+<a id="item-76"></a>
 ### 一个角色被烧烤美食“治愈”的彩色漫画
 - Author: はらぺこきんぐ@サラリーマン副業研究室・室長
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885548963_76skns_G6Vf5zebUAA1jF6.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885548963_76skns_G6Vf5zebUAA1jF6.jpg)
 
 ```
 请创作一个彩色漫画，内容是这个角色吃了烤肉后变得精力充沛。故事由你决定。请为每个分格编号。
 ```
 
-<a id="item-1672"></a>
+<a id="item-77"></a>
 ### 来自参考信息的带有经典日式字体的图表
 - Author: しょー
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885573545_jgk0eb_G6VfCbmbYAAMdys.jpg), [4](https://cdn.gooo.ai/cms/1763885576374_dyfz2q_G5JNzKVasAALkZL.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885573545_jgk0eb_G6VfCbmbYAAMdys.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885576374_dyfz2q_G5JNzKVasAALkZL.jpg)
 
 ```
 根据以下信息，创建一张信息图格式的解释性图片。
@@ -2039,19 +2492,24 @@ composition:
 {argument name="reference_info_en" default="[在此插入您的参考信息]"}
 ```
 
-<a id="item-1673"></a>
+<a id="item-78"></a>
 ### 穿着相同服装的兔子
 - Author: CHAO2U AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg), [3](https://cdn.gooo.ai/cms/1763885734558_an3s09_G6VbqP6awAEREKD.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885734558_an3s09_G6VbqP6awAEREKD.jpg)
 
 ```
 兔子们也穿着同样的衣服
 ```
 
-<a id="item-1674"></a>
+<a id="item-79"></a>
 ### 咖啡饮品信息图
 - Author: Bhavesh Patel, CPA
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885684682_0m25by_G6VZ_xEWcAA6OQ4.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885684682_0m25by_G6VZ_xEWcAA6OQ4.jpg)
 
 ```
 制作一张信息图，展示不同的咖啡饮品……
@@ -2061,7 +2519,11 @@ composition:
 ### 手绘风格的标题图片，介绍 Nano Banana Pro（日文）
 - Author: セミナー講師専門AIコンシェルジュ｜工藤 晶
 - Notes: 一个日文提示，用于将上传的人物图片转换为手绘风格的标题图，以在 Note 文章中介绍 Nano Banana Pro，采用 16:9 布局和蓝绿色渐变。; 将其作为一篇 Note 文章的标题图片，该人物在文章中介绍“Nano Banana Pro”。; 👉 立即尝试 →
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885789746_o6553a_G6VZizUagAAPrC4.jpg), [4](https://cdn.gooo.ai/cms/1763885792805_5g7jqd_G6VZizHaQAAH_4W.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885789746_o6553a_G6VZizUagAAPrC4.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885792805_5g7jqd_G6VZizHaQAAH_4W.jpg)
 
 ```
 完全重现上传的人物。
@@ -2071,10 +2533,13 @@ composition:
 标题：{argument name="title_en" default="Google 新 AI 深度指南：Nano Banana Pro"}。
 ```
 
-<a id="item-1676"></a>
+<a id="item-80"></a>
 ### 手绘风格标题图片提示（来自照片）
 - Author: セミナー講師専門AIコンシェルジュ｜工藤 晶
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg), [3](https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885651870_4szbai_G6VZiROagAAqsIh.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885654537_qf6h9o_G6VZiRWaIAA_9x5.jpg)
 
 ```
 完全重现上传的人物。
@@ -2087,7 +2552,11 @@ composition:
 <a id="nano-banana-pro-12"></a>
 ### 上传了人物介绍 Nano Banana Pro 的标题图片
 - Author: セミナー講師専門AIコンシェルジュ｜工藤 晶
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885538482_ia9r7z_G6VZhvVa8AAJ0dR.jpg), [4](https://cdn.gooo.ai/cms/1763885541044_kzuc0j_G6VZhvebEAAUwYy.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885538482_ia9r7z_G6VZhvVa8AAJ0dR.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885541044_kzuc0j_G6VZhvebEAAUwYy.jpg)
 
 ```
 完全重现上传的人物。
@@ -2100,7 +2569,10 @@ composition:
 <a id="nano-banana-pro-13"></a>
 ### Nano Banana Pro 文章的奢华标题图片，附带上传的人物照片
 - Author: セミナー講師専門AIコンシェルジュ｜工藤 晶
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885543483_h0xjyq_G6VZhD9asAAqjHi.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885543483_h0xjyq_G6VZhD9asAAqjHi.jpg)
 
 ```
 完全重现上传的人物。
@@ -2113,25 +2585,33 @@ composition:
 <a id="line-4"></a>
 ### LINE 站立玩偶角色贴纸包（日文）
 - Author: K Futami
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885780843_p78kic_G6VVOz1bgAAKknE.jpg), [3](https://cdn.gooo.ai/cms/1763885783364_dudkt4_G6VVOmlaEAAiRg2.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885780843_p78kic_G6VVOz1bgAAKknE.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885783364_dudkt4_G6VVOmlaEAAiRg2.jpg)
 
 ```
 使用这个站立的玩偶角色，创建一个索引图像，展示 4x3 = 12 个不同的 LINE 贴图。每个贴图都应该有一个非常标准、简单的单字短语。
 ```
 
-<a id="item-1680"></a>
+<a id="item-81"></a>
 ### 云中半透明海水鲸鱼
 - Author: luokai
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885721081_bsojjm_G6VUGHGakAAbKve.jpg), [3](https://cdn.gooo.ai/cms/1763885723690_muy3un_f1kYBsLafkoKDf5b.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885721081_bsojjm_G6VUGHGakAAbKve.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885723690_muy3un_f1kYBsLafkoKDf5b.jpg)
 
 ```
 一头雄伟的、半透明的蓝色鲸鱼，由海水构成，体内可见鱼群，在日落时分穿梭于蓬松的白云之间，阳光透过它的身体形成一道彩虹，呈现出一幅超现实而宏大的场景。
 ```
 
-<a id="item-1681"></a>
+<a id="item-82"></a>
 ### 虚构网页设计师的作品集图片
 - Author: じん丨AI×ノーコードWeb制作
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885536659_mrbvqk_G6VRlhea8AA2VC8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885536659_mrbvqk_G6VRlhea8AA2VC8.jpg)
 
 ```
 为一位虚构的网页设计师创建一个作品集图片。
@@ -2140,16 +2620,22 @@ composition:
 <a id="levis"></a>
 ### Levi’s 试衣间自拍编辑
 - Author: Sai Nemani
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885684157_v1cp1y_G6VRxgtacAE0zi7.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885684157_v1cp1y_G6VRxgtacAE0zi7.jpg)
 
 ```
 拍一张我在 Levi's 购物的照片，手里拿着购物袋，在店里对着镜子自拍，用手机遮住脸。手机型号为 {argument name="phone_model_en" default="Samsung S25 Plus"}。
 ```
 
-<a id="item-1683"></a>
+<a id="item-83"></a>
 ### 特定坐标处的地理定位日落场景
 - Author: DΞV
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg)
 
 ```
 在 {argument name="time_en" default="sunset"} 时，创建 {argument name="coordinates_en" default="7°36′28″S 110°12′14″E"} 的图像。
@@ -2158,7 +2644,10 @@ composition:
 <a id="plm"></a>
 ### 关于 PLM 和数字主线的演示幻灯片
 - Author: PLMGuy
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885512547_1p56lq_G6VPODGaEAAeVlF.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885512547_1p56lq_G6VPODGaEAAeVlF.jpg)
 
 ```
 标题为“{argument name="title_en" default="为什么 PLM 系统对于实现数字主线至关重要"}”，首先思考并列出支持此信息的所有要素，然后将它们整合为一张演示幻灯片。
@@ -2167,16 +2656,20 @@ composition:
 <a id="ceo"></a>
 ### CEO 招聘困境信息图
 - Author: 濱崎賢太郎｜AI×採用で人手不足ゼロに
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885503588_afls9i_G6VN5D0bcAE6djR.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885503588_afls9i_G6VN5D0bcAE6djR.jpg)
 
 ```
 制作一张信息图，说明一位正在为招聘而苦恼的公司总裁的困境。
 ```
 
-<a id="item-1686"></a>
+<a id="item-84"></a>
 ### 这个世界结构的抽象插图
 - Author: 塩川 誠 / Solight
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885528450_c3svlm_G6VLDM9agAAYBtm.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885528450_c3svlm_G6VLDM9agAAYBtm.jpg)
 
 ```
 绘制一幅简洁的插图，展现这个世界的结构。
@@ -2185,52 +2678,71 @@ composition:
 <a id="chatgpt-51-gemini-3"></a>
 ### ChatGPT 5.1 和 Gemini 3 对比信息图
 - Author: MIYABI
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885503718_61vdlr_G6VI_4ibIAEwhIw.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885503718_61vdlr_G6VI_4ibIAEwhIw.jpg)
 
 ```
 将 {argument name="model_1_en" default="ChatGPT 5.1"} 和 {argument name="model_2_en" default="Gemini 3"} 之间的比较制作成信息图。
 ```
 
-<a id="item-1688"></a>
+<a id="item-85"></a>
 ### 高端电影级产品展示片截图
 - Author: Kalatheeswaran R
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885953463_y2r89i_HgB-BZITdUQpUJmU.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885953463_y2r89i_HgB-BZITdUQpUJmU.jpg)
 
 ```
 一款高端电影级产品展示，展示了 {argument name="product_name_en" default="[Product Name]"}，放置在反光的优质表面上，带有柔和的轮廓光、上方戏剧性的聚光灯、超清晰的细节、85mm 镜头景深、背景中发光的散景、平滑的渐变和优雅奢华的感觉。
 ```
 
-<a id="item-1689"></a>
+<a id="item-86"></a>
 ### 长文档的中文白板摘要
 - Author: 欧巴聊AI
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763885859071_6v1iyq_G6VD9HEawAEPt8o.jpg), [3](https://cdn.gooo.ai/cms/1763885862141_aw3cuv_G6VD-uYbkAEZOlp.jpg), [4](https://cdn.gooo.ai/cms/1763885864728_5tylwm_G6RRCifaAAAcSu6.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885859071_6v1iyq_G6VD9HEawAEPt8o.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885862141_aw3cuv_G6VD-uYbkAEZOlp.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885864728_5tylwm_G6RRCifaAAAcSu6.jpg)
 
 ```
 请将这份长篇文字材料转换成中国教授风格的白板图像，以帮助我理解这些信息。
 ```
 
-<a id="item-1690"></a>
+<a id="item-87"></a>
 ### 角色变身为超合金机器人风格
 - Author: アヲアヒル🐥AI全方位型クリエイター兼プロデューサー（アヲP）
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg)
 
 ```
 将这个角色变成超合金风格的机器人。
 ```
 
-<a id="item-1691"></a>
+<a id="item-88"></a>
 ### 图像增强和放大提示
 - Author: こわだ
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg), [3](https://cdn.gooo.ai/cms/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg), [4](https://cdn.gooo.ai/cms/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg), [5](https://cdn.gooo.ai/cms/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg)
 
 ```
 在保持构图和颜色不变的情况下，增强并放大图像。消除模糊，让纹理呈现出细节感。
 ```
 
-<a id="item-1692"></a>
+<a id="item-89"></a>
 ### 第五代隐形战斗机剖面图
 - Author: block0
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763885984249_hp3ezb_G6VCRSva0AACfYk.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885984249_hp3ezb_G6VCRSva0AACfYk.jpg)
 
 ```
 内容描述：一架现代第五代隐形战斗机的科学教育技术 3D 剖面图，侧视图。图像清晰展示了复杂的内部结构，包括涡扇发动机、机头 AESA（相控阵）雷达系统、驾驶舱航空电子设备、飞行员座椅、燃油箱以及装载导弹的内部武器舱的详细信息。
@@ -2242,7 +2754,9 @@ composition:
 <a id="2x2"></a>
 ### 一位中性气质女性的 2x2 情绪化编辑拼贴画
 - Author: Anissa
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885959716_t81f5o_G6VBcvDbMAASMAi.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885959716_t81f5o_G6VBcvDbMAASMAi.jpg)
 
 ```
 {
@@ -2319,28 +2833,41 @@ composition:
 }
 ```
 
-<a id="item-1694"></a>
+<a id="item-90"></a>
 ### 乐天世界大厦地标聚焦地理位置图像
 - Author: SETI Park
-- Images: [1](https://img.shields.io/badge/Language-KO-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-KO-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg)
 
 ```
 创建一张图片，内容为 {argument name="coordinates_en" default="北纬 37° 30' 40.4424''，东经 127° 5' 52.9080''"}。重点关注一个地标，而不是随机的场景。
 ```
 
-<a id="item-1695"></a>
+<a id="item-91"></a>
 ### 恐龙现身东京都厅大楼前
 - Author: 株式会社 bloom　ベトナムのレタッチ屋さん
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg), [3](https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg), [4](https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg), [5](https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885584398_lhsr0x_G6U97uFbUAAIwji.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885595564_s6d7v0_G6U97uUbMAAUHwX.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885599061_goiye7_G6U-absbwAAo3Vk.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885601525_q782ft_G6U-2kUb0AALpnb.jpg)
 
 ```
 让这只恐龙出现在新宿的东京都厅前。
 ```
 
-<a id="item-1696"></a>
+<a id="item-92"></a>
 ### 虚拟服装试穿，含东京街头场景选项
 - Author: iX | AI Video Creator & Vibe Coder
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg), [4](https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg), [5](https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885908542_4w3o8l_G6UZNI_boAASbOX.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885911279_ci30iu_G6UZNJBaMAAZ_4g.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885914157_v6vyac_G6UZNI9aEAAyuPL.jpg)
 
 ```
 根据上传的参考图片生成人物图像，保持面部和发型与上传图片完全一致。
@@ -2350,10 +2877,13 @@ composition:
 背景可选，可以是中性背景，也可以是 {argument name="background_location_en" default="Tokyo street"} 场景。
 ```
 
-<a id="item-1697"></a>
+<a id="item-93"></a>
 ### 递归艺术家绘制自己绘画的照片
 - Author: ρŁ𝐀𝔰Ｍʘ
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885818420_kdhol5_G6U8rOkXwAABEUg.jpg)
 
 ```
 一张 {argument name="year_en" default="1998"} 年拍摄的业余照片，照片中一位中年艺术家正在将电脑屏幕上的图像手工复制到拉伸画布上的油画中，但这张图像本身就是艺术家正在绘制递归图像的照片。
@@ -2362,25 +2892,32 @@ composition:
 <a id="line-5"></a>
 ### 附带插画的 LINE 贴图集
 - Author: Dr.フク | 医者×SNS戦略
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885971456_09wdl4_G6U7zFzaAAAUfw5.jpg)
 
 ```
 将附件图片中的插画转变为角色。创作包含 {argument name="sticker_count_en" default="16"} 种不同表情、姿势和短语的 LINE 贴图。
 ```
 
-<a id="item-1699"></a>
+<a id="item-94"></a>
 ### 线框图示意图重构提示
 - Author: 🔻 🪂🇮🇷🇵🇸🇾🇪🇻🇪🇨🇳🇰🇵National Juche🇰🇵
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885933055_r7m4el_G6U5Hoeb0AAK3az.jpg)
 
 ```
 将其制作成一个在黑色背景上发光的蓝色 3D 线框。如果需要，可以添加红色线框坦克。
 ```
 
-<a id="item-1700"></a>
+<a id="item-95"></a>
 ### 房地产投资的优缺点信息图
 - Author: ネコ守|コツコツ不動産大家×マラソンは趣味
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885944193_hxvxce_G6U6PR1a4AAKtOu.jpg)
 
 ```
 创建一张图片，展示房地产投资的优缺点。
@@ -2389,43 +2926,59 @@ composition:
 <a id="line-6"></a>
 ### 根据所附角色图片制作的 LINE 贴图集
 - Author: しろねこ
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg), [4](https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885979143_o1mj1o_G6U52HoaQAABvqP.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885982519_l36ol0_G6U52HobIAAQ_Rl.jpg)
 
 ```
 我想请你使用附件图片中的角色来制作 LINE 贴纸。请制作共 {argument name="sticker_count_en" default="12"} 款，包含不同的表情、姿势和短语。请使用 {argument name="phrase_style_en" default="[specific theme] style"} 的易用短语。
 ```
 
-<a id="item-1702"></a>
+<a id="item-96"></a>
 ### 手工面包店视频广告
 - Author: rameshnuti.eth
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885941049_whqhsg_oWORaCdVdLl1vrrb.jpg)
 
 ```
 为一家新的手工面包店制作视频广告。
 ```
 
-<a id="item-1703"></a>
+<a id="item-97"></a>
 ### 唐诗学习卡
 - Author: 小互
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885960446_1ybou0_G6U4KbLbQAAbu-u.jpg)
 
 ```
 创建 {argument name="poem_count_en" default="10"} 张关于著名唐诗的学习卡片。每张卡片应包含诗歌的全文，视觉效果必须与诗句内容和整体意境相符，以便学生更容易理解诗歌的背景和氛围。请附上简单的中文注释。
 ```
 
-<a id="item-1704"></a>
+<a id="item-98"></a>
 ### 脚趾特写细节
 - Author: CHAO2U AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg), [3](https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885640122_xao4s9_G6U3EVfaMAA6XT_.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885642953_6ov6mn_G6U3FIsbAAA_lZF.jpg)
 
 ```
 放大脚趾。
 ```
 
-<a id="item-1705"></a>
+<a id="item-99"></a>
 ### 通过坐标查看摩天大楼夜景
 - Author: SETI Park
-- Images: [1](https://img.shields.io/badge/Language-KO-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg), [4](https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-KO-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg)
 
 ```
 创建一张 {argument name="coordinates_1_en" default="37°31'11.24"N 126°56'25.11"E"} 的夜景图。
@@ -2433,19 +2986,23 @@ composition:
 创建一张 {argument name="coordinates_2_en" default="37° 30' 40.4424'' N and 127° 5' 52.9080'' E"} 的图片。重点放在地标上，而不是随机场景。
 ```
 
-<a id="item-1706"></a>
+<a id="item-100"></a>
 ### 总结基本收入的图片
 - Author: AIオタク / AI OTAKU
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885521009_iezxk6_G6U26MKbYAAuRuh.jpg)
 
 ```
 创作一张图片，概括基本收入的概念。
 ```
 
-<a id="item-1707"></a>
+<a id="item-101"></a>
 ### 两格漫画修订提示
 - Author: Takashi Okumura
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885527644_7gmypo_G6U2Qx8bkAAYk0t.png)
 
 ```
 您能把整幅画清理一下，把第二格水平翻转吗？届时，请把面试官的台词改成：“您正是我们公司一直在寻找的人才！”
@@ -2454,61 +3011,79 @@ composition:
 <a id="30"></a>
 ### 水浒传 30 位主要人物工笔画网格图
 - Author: leon
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885661194_n4dzyt_G6Uz7AZbcAEImd5.jpg)
 
 ```
 生成一张《水浒传》中排名前 30 位人物的网格图，采用中国工笔画风格，每位人物的姓名写在各自单元格的右下角。
 ```
 
-<a id="item-1709"></a>
+<a id="item-102"></a>
 ### 一位女性变老的过程
 - Author: アユネオ
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885925578_gs3v5q_G6STW88akAAFOKe.jpg)
 
 ```
 生成一张第一张图片中成年女性的老年版本特写。让她穿上老年女性的衣服，背景设置为一栋房子。
 ```
 
-<a id="item-1710"></a>
+<a id="item-103"></a>
 ### 放大蜜蜂
 - Author: ImagineArt
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg), [3](https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885719883_akzilp_G6UvVWxWUAAa_Sm.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885722710_baz3jk_G6UvWDoXAAAGujg.jpg)
 
 ```
 放大蜜蜂
 ```
 
-<a id="item-1711"></a>
+<a id="item-104"></a>
 ### 基于附件的缩略图文字叠加
 - Author: 小畑タカユキ｜AI駆動Web制作の人
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg), [3](https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885841215_8hxrjv_G6Up5ETbcAA5eTt.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885850477_uju6g4_G6UuiuTawAAeCSk.jpg)
 
 ```
 Google 推出其终极图像生成 AI “Nano Banana Pro”
 ```
 
-<a id="item-1712"></a>
+<a id="item-105"></a>
 ### 投资组合策略概述图（来自附件）
 - Author: えち@投資家🃏｜日本株🇯🇵米国株🇺🇸仮想通貨₿
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885918282_xfk9yo_G6UujwIawAAexmT.jpg)
 
 ```
 附件是我作为个人投资者的投资组合。请创建一个政策概述图，用于向他人解释此投资组合的策略。
 ```
 
-<a id="item-1713"></a>
+<a id="item-106"></a>
 ### 投资越南的优势
 - Author: ベトテク太郎🇻🇳ベトナム経済＆株式ニュース
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg), [3](https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885517507_5xcbi0_G6UtYpUaEAEMcj9.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885520112_j1u228_G6UtjZqbAAAT6Bo.png)
 
 ```
 将投资越南的优势浓缩为一页幻灯片。
 ```
 
-<a id="item-1714"></a>
+<a id="item-107"></a>
 ### 受力梁的剪力弯矩图
 - Author: mjamiv⚡️
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg)
 
 ```
 一个简支梁的剪力弯矩图，其承受的均布荷载为 {argument name="load_en" default="100 plf"}。该梁的长度为 {argument name="length_en" default="100 feet"}。
@@ -2517,25 +3092,33 @@ Google 推出其终极图像生成 AI “Nano Banana Pro”
 <a id="spa"></a>
 ### 物理学家在吊床上喝着 SPA 饮品放松身心
 - Author: Lautaro Vergara 🇺🇦
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885843049_muac4o_G6UrfxmXwAELX_7.jpg)
 
 ```
 一位物理学家躺在吊床上，手边放着一杯饮料和一份 S.P.A. 画面中只露出他没穿鞋的双腿，以及树木和植被。
 ```
 
-<a id="item-1716"></a>
+<a id="item-108"></a>
 ### 折纸式分步折叠说明
 - Author: 3
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg), [4](https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885806712_r6sie5_G6UqMWHW8AEDGhh.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885810506_zv1akt_G6UqMWKXMAASI1l.jpg)
 
 ```
 创建一个 {argument name="grid_layout_en" default="2 by 3"} 的网格，其中包含从一张平整的纸到最终模型的逐步视觉折叠说明。每个步骤都应包含一个正在完成该步骤的人。
 ```
 
-<a id="item-1717"></a>
+<a id="item-109"></a>
 ### 日落时分的黑板兔王插画
 - Author: さつき＠AIお絵描き(うさぎ好き）
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885834304_7tnq26_G6TzN1UbAAAojlo.jpg)
 
 ```
 在教室黑板上，用粉笔画一只兔王，并写上文字“うさ王様参上！”（兔王驾到！）。展示真实的教室场景，夕阳从窗户斜射进来。
@@ -2544,7 +3127,10 @@ Google 推出其终极图像生成 AI “Nano Banana Pro”
 <a id="ben-10-tmnt"></a>
 ### Ben 10 遇上 TMNT 完整漫画页面
 - Author: Nishit.ai
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885894799_26kjp4_G6S-9DpaMAAj77c.jpg)
 
 ```
 一整页漫画，将 {argument name="character_1_en" default="Ben 10"} 带入 {argument name="universe_en" default="TMNT"} 宇宙，画面富有表现力，线条干净利落，色彩鲜明，仿佛直接出自官方联动漫画。
@@ -2553,25 +3139,34 @@ Google 推出其终极图像生成 AI “Nano Banana Pro”
 <a id="pop"></a>
 ### 书店 POP 展示架，配有亚克力马克笔插画
 - Author: ねこのしっぽ
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg), [4](https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885940108_p9ogfb_G6UnZv5boAA--Ow.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885951643_y1mjob_G6Ung7SboAEOCSa.jpg)
 
 ```
 用丙烯马克笔绘制插画，使用各种颜色的丙烯马克笔。由于是 POP 展示，请从正面拍摄，置于书店场景中。POP 展示在新书前方，比其他书籍更显眼，并在插画右下角写上“{argument name="signature_en" default="neko no shippo"}”。
 ```
 
-<a id="item-1720"></a>
+<a id="item-110"></a>
 ### 哥特式改造版现有照片
 - Author: Cybersphere
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg), [3](https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885675374_zvwxu3_G6Ul3wDa8AAoRRj.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885677755_lw5j88_G6Ul4d7a4AA-yF5.jpg)
 
 ```
 把这个重写一下，就好像这个人当时沉迷于哥特音乐一样。
 ```
 
-<a id="item-1721"></a>
+<a id="item-111"></a>
 ### 宠物趣味解剖图
 - Author: Glenn Williams
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885951009_ec1krf_G6UnKK3XIAA6EWK.jpg)
 
 ```
 为这只宠物制作一张有趣的解剖图，并配上幽默的注释。
@@ -2580,16 +3175,21 @@ Google 推出其终极图像生成 AI “Nano Banana Pro”
 <a id="nano-banana-pro-14"></a>
 ### 使用 Nano Banana Pro 编辑泳装更换效果
 - Author: eijo
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg), [3](https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885786725_uvqxok_G6UmAEmbEAANPvU.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885789344_6jcnxr_G6UmB-0aMAEmYWh.jpg)
 
 ```
 将连体泳衣换成比基尼，并添加高跟鞋，同时保持相同的风格和背景。
 ```
 
-<a id="item-1723"></a>
+<a id="item-112"></a>
 ### 政府成果信息图（来自网络资源）
 - Author: 月ねこAI｜Nai Lab
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885690973_qp50fb_G6UmEq1b0AA7RHL.jpg)
 
 ```
 我想要一张信息图，展示高市（Takaichi）政府在过去一个月取得的成就和面临的问题。
@@ -2598,16 +3198,22 @@ Google 推出其终极图像生成 AI “Nano Banana Pro”
 <a id="nano-banana-pro-15"></a>
 ### Nano Banana Pro 的日本头条缩略图
 - Author: 小畑タカユキ｜AI駆動Web制作の人
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885933527_q4qbia_KdMrW0Gwx0nQwS9c.jpg)
 
 ```
 Google 发布了终极图像生成 AI “Nano Banana Pro”
 ```
 
-<a id="item-1725"></a>
+<a id="item-113"></a>
 ### 四格动漫漫画，主角是熊猫女孩
 - Author: しんもも🍑 | AIで創る循環の世界
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg), [4](https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885824699_kdnzqv_G6Uk2jfa0AABLxb.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885828014_rouv1a_QivtizkRTfmYMTN8.jpg)
 
 ```
 生成一个典型的日式动漫风格的四格漫画。图像是一个垂直的长方形，四格从上到下排列。
@@ -2621,7 +3227,9 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="think-cell"></a>
 ### Think-cell 解决文档问题的可视化解释
 - Author: まつつか@パワポのthink-cell｜松塚展国
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885889395_c2bfy7_G6UktiRaIAAwucu.jpg)
 
 ```
 创建一张图片，解释文档创建中存在的问题以及 Think-cell 如何解决这些问题。
@@ -2630,7 +3238,12 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="scouter-hud"></a>
 ### Scouter 风格的 HUD 叠加显示战斗力
 - Author: てんねん
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg), [3](https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg), [4](https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg), [5](https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg)
 
 ```
 使用蓝色 HUD 颜色。
@@ -2641,56 +3254,78 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 任务: "edit-image: add full-screen analysis HUD overlay only"
 ```
 
-<a id="item-1728"></a>
+<a id="item-114"></a>
 ### 动画闪光文字显示序列
 - Author: おのふみ| AI×画像・動画生成
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885891286_e5nzpz_zxNDYDIlz4dhzt7B.jpg)
 
 ```
 文字以炫酷的特效和动画呈现。
 ```
 
-<a id="item-1729"></a>
+<a id="item-115"></a>
 ### 图示：如何优雅地行走
 - Author: はなりん＠主婦ゲーマー
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885907298_ek3mav_G6UUoBTbsAA2jTW.jpg)
 
 ```
 绘制一张图表，展示如何优雅地行走。
 ```
 
-<a id="item-1730"></a>
+<a id="item-116"></a>
 ### 拟人化的苹果和香蕉情侣
 - Author: GNUmotion | AIVideo
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg), [3](https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885587392_gpmioe_G6UhPGGasAA4bUU.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885590425_rbi1tz_DXPRRUqCHgLV1J73.jpg)
 
 ```
 一对已婚夫妇，但他们不是人类，而是拟人化的苹果和香蕉。
 ```
 
-<a id="item-1731"></a>
+<a id="item-117"></a>
 ### 日式简洁信息图风格限制
 - Author: エクセル兄さん(たてばやし淳)@ExcelとChatGPT著書多数
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885817677_0vrmq3_G6UhfinasAAfFCh.jpg)
 
 ```
 使用极少的文字，并侧重于图形表达。避免日文字符乱码。使用 Hiragino Gothic 作为主要字体。保持内容不变，但颜色和设计要与 Microsoft 365 相似。采用扁平化、简洁的设计。
 ```
 
-<a id="item-1732"></a>
+<a id="item-118"></a>
 ### 关于七海吃拉面的四格日式搞笑漫画
 - Author: Shinya@AIマンガ家
 - Notes: 创作一部日本四格搞笑漫画，描绘这位名叫“{argument name="charactername" default="Nanami"}”的日本年轻女性正在吃“{argument name="dish" default="Jiro-style ramen"}”。构图时请注意不要只聚焦于面部。将四格漫画垂直排列。对话框中的文字请采用竖排，从右向左阅读。
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885933236_w6t9nr_G6Ud5ZbbQAA3LQl.jpg)
 
 ```
 创作一部日本四格搞笑漫画，描绘这位名叫“{argument name="character_name" default="Nanami"}”的日本年轻女性正在吃“{argument name="dish" default="Jiro-style ramen"}”。构图时请注意不要只聚焦于面部。将四格漫画垂直排列。对话框中的文字请采用竖排，从右向左阅读。
 ```
 
-<a id="item-1733"></a>
+<a id="item-119"></a>
 ### 通过坐标定位同一地点的分屏延时摄影
 - Author: NOMI｜AI creator
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg), [4](https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg), [5](https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg), [6](https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg), [7](https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg), [8](https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg), [9](https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg), [10](https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885842488_9zd2ms_G6Ucs42a8AATKjE.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885846570_ulh7pj_G6UcvfObgAE8rRy.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885849512_ahofi2_G6UcxrSaQAIFNPy.jpg)
+  ![Image 6](https://cdn.gooo.ai/cms/1763885864190_e2qoh4_G6Uc0YRaoAAs9u1.jpg)
+  ![Image 7](https://cdn.gooo.ai/cms/1763885870273_u1vw12_G6QakM-bMAIwcEs.jpg)
+  ![Image 8](https://cdn.gooo.ai/cms/1763885874012_e2f8g9_G6QamREa4AADgqZ.jpg)
+  ![Image 9](https://cdn.gooo.ai/cms/1763885879555_zimf8e_G6QarM6acAIWPCq.jpg)
+  ![Image 10](https://cdn.gooo.ai/cms/1763885882891_kn4tf4_G6QatWgaYAAMlGQ.jpg)
 
 ```
 生成一张单一的、逼真的 16:9 图像，并将其构图分为左右两半。在每一侧，描绘同一个地点，
@@ -2710,37 +3345,48 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 --ar 16:9 --stylize 800 --v 6
 ```
 
-<a id="item-1734"></a>
+<a id="item-120"></a>
 ### 一只浅灰色兔子的视角
 - Author: CHAO2U AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg), [3](https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885712039_dxnkr3_G6UcBGLaoAASC2E.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885714415_7uagi5_G6UcTNragAALmMB.jpg)
 
 ```
 浅灰色兔子视角拍摄
 ```
 
-<a id="item-1735"></a>
+<a id="item-121"></a>
 ### 从赛博朋克视角看比特币的四格漫画
 - Author: TKtokyo
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885902507_e3o1on_G6Ubs1OaoAA3-pp.jpg)
 
 ```
 创作一部日式四格漫画，其中参考图片中的角色将从赛博朋克的角度解释比特币的起源。
 ```
 
-<a id="item-1736"></a>
+<a id="item-122"></a>
 ### 贴在馒头贩卖机上的偶像传单
 - Author: koyuki | 清華大AI M2
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885828664_75vbez_G6TFgBQaYAAe4-k.jpg)
 
 ```
 将手绘风格的偶像角色传单图像，视觉化地描绘成贴在便利店包子贩卖机上的样子。确保传单与贩卖机真实融合，并与周围环境保持一致的光照和透视。
 ```
 
-<a id="item-1737"></a>
+<a id="item-123"></a>
 ### 将城市照片编辑成有越南骑行者的雨景
 - Author: 株式会社 bloom　ベトナムのレタッチ屋さん
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg), [3](https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg), [4](https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885867531_ybhqp6_G6UTrBVagAAwXzs.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885870545_beyn03_G6UTr2rbsAEGn2m.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885873652_p6p9bz_G6UURusa0AAmTKE.jpg)
 
 ```
 编辑一下，让它看起来像在下雨。
@@ -2748,47 +3394,64 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 下雨时，越南人会穿雨衣骑摩托车。
 ```
 
-<a id="item-1738"></a>
+<a id="item-124"></a>
 ### 《临江仙》诗词的课本式插画
 - Author: AI 赋能坊
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg), [4](https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885961194_nel7bb_G6UUuMRbUAAGeZY.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885963943_7kwh8d_A9atsqgAnqeqxU1T.jpg)
 
 ```
 为 {argument name="poem_title_en" default="杨慎《临江仙 · 滚滚长江东逝水》"} 生成一本教科书风格的教学插图。
 ```
 
-<a id="item-1739"></a>
+<a id="item-125"></a>
 ### 波普风格传单图片，用于笔记文章
 - Author: おかさん （岡実）
 - Notes: 一个生成彩色流行风格传单图像的提示，用于宣传一篇特定的 Note 文章，宽高比为 3:4。
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885969094_jxf3w9_G6UUEFKaAAEO3oQ.jpg)
 
 ```
 为这篇笔记文章制作一张波普风格的传单图片。将图片比例设置为 {argument name="aspect_ratio_en" default="3:4"}。
 ```
 
-<a id="item-1740"></a>
+<a id="item-126"></a>
 ### 基于沙发照片的等距客厅布局
 - Author: シュナプーン
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png), [3](https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg), [4](https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png), [5](https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763885970932_3moh57_G6SVbPxa8AAm8df.png)
+  ![Image 3](https://cdn.gooo.ai/cms/1763885974692_0cu6dx_G6SVcbGbkAAes6z.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763885977238_0y479u_G6SVdT7aIAE7ayL.png)
+  ![Image 5](https://cdn.gooo.ai/cms/1763885979937_gb1621_G6SVeFabcAE9Tyi.jpg)
 
 ```
 为这张沙发设计一个合适的客厅布局。这个客厅位于城市里一对已婚夫妇居住的单层房屋中。以等距鸟瞰图的形式展示整个房间。使用动漫风格的插画。
 ```
 
-<a id="item-1741"></a>
+<a id="item-127"></a>
 ### 白板风格幻灯片，解释一项研究论文
 - Author: 歸藏(guizang.ai)
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763889947503_gmdcxg_G6RRCifaAAAcSu6.jpg)
 
 ```
 将这份论文转换成中国教授风格的白板图像，以帮助我理解信息。
 ```
 
-<a id="item-1742"></a>
+<a id="item-128"></a>
 ### 爱因斯坦向埃隆·马斯克学习自拍 (中文)
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg)
 
 ```
 爱因斯坦一头乱发，困惑地盯着智能手机，试图自拍。埃隆·马斯克站在他旁边，耐心地指着屏幕教他。手机屏幕上显示：“{argument name="screen_text_en" default="How do I take a photo?"}”。
@@ -2797,25 +3460,33 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="nano-banana-pro-16"></a>
 ### Nano Banana Pro 发布，吸睛缩略图
 - Author: モブりん（社畜）
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg)
 
 ```
 制作一个引人注目的缩略图，传达 Nano Banana Pro 已经发布的信息。
 ```
 
-<a id="item-1744"></a>
+<a id="item-129"></a>
 ### 李小龙在道场与尤达大师切磋
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg)
 
 ```
 李小龙身穿黄色连体衣，正在和尤达大师进行一场友好的切磋。李小龙手持双节棍，尤达则拿着一把小小的绿色光剑。他们俩都面带微笑。背景是一个传统的中式武馆，后面挂着一面写有“以武会友”字样的横幅。
 ```
 
-<a id="item-1745"></a>
+<a id="item-130"></a>
 ### 带画框和对话气泡的高细节故事艺术布局
 - Author: かし子🍩
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg), [4](https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886568939_6pwyg4_G6RB7o1bQAA-rYr.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763886581093_d9bi8b_G6RB86zaAAAkYmc.jpg)
 
 ```
 构图：一个“高分辨率故事艺术”布局，分为 {argument name="num_frames_en" default="三"} 帧。
@@ -2826,10 +3497,12 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 忠实再现参考图像的艺术风格，线条细腻，细节丰富。
 ```
 
-<a id="item-1746"></a>
+<a id="item-131"></a>
 ### 像素游戏角色从电视中爬出
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg)
 
 ```
 一个像素化的电子游戏角色正试图从电视屏幕中爬出来，进入客厅。一个真实的玩家正焦急地使用手柄，试图将角色推回屏幕中。
@@ -2838,34 +3511,49 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="q"></a>
 ### 可爱的 Q 版猫耳女孩插画
 - Author: Mikage Sawatari
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg)
 
 ```
 生成一张可爱的猫耳女孩插画。让她采用 Q 版风格，穿着荷叶边衣服，留着长长的 {argument name="hair_color_en" default="pink"} 头发。
 ```
 
-<a id="item-1748"></a>
+<a id="item-132"></a>
 ### 将服装更改为与参考服装匹配
 - Author: CHAO2U AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg), [3](https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg), [4](https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg)
 
 ```
 从参考图片中提取服装，并更改我的服装以与之匹配。
 ```
 
-<a id="item-1749"></a>
+<a id="item-133"></a>
 ### 时尚女性的超逼真环境肖像提示（部分）
 - Author: 𝗦𝗮𝗻𝗶𝗮
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg), [3](https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763887334848_gzjofv_G6RKPI-aEAEZgWt.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763887337289_yifyi6_Vz-uac6Ps38VOCVE.jpg)
 
 ```
 超现实主义环境肖像：一位时尚年轻女子站在茂密的热带竹林中。她戴着宽边黑色软呢帽，圆形细金属框墨镜，身穿塞进裤子的纯黑色圆领 T 恤，下身是深灰色高腰长裤。她姿态自信，身体微微前倾，右手
 ```
 
-<a id="item-1750"></a>
+<a id="item-134"></a>
 ### 四格漫画系列
 - Author: 美咲
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg), [3](https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg), [4](https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg), [5](https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886420119_d60lh6_G6RJM5QbIAAcb7v.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886422868_ykthpv_G6RJQY5acAAnejm.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763886425906_5zdr4r_G6RJUdkaUAAzUgx.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763886447810_6c829d_G6RJXSfagAAlUz3.jpg)
 
 ```
 创作四页四格漫画。每条四格漫画都有自己的笑点，并将它们排版，使每页包含两条四格漫画，总共有八条四格漫画，共同构成一个完整的故事。
@@ -2874,25 +3562,32 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="t"></a>
 ### 细胞毒性 T 细胞杀死癌细胞的科学图解
 - Author: MSB
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886914223_n5ngfw_G6RE54magAA_1ck.jpg)
 
 ```
 使用精心制作的科学论文风格图表，描绘细胞毒性 T 细胞识别并杀死癌细胞的过程。图表应包含至少 10 个信息块。信息应非常复杂和详细，但布局清晰，美观悦目。
 ```
 
-<a id="item-1752"></a>
+<a id="item-135"></a>
 ### 船长磨损的航海日志草图
 - Author: 松果先森
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886687622_e1snzw_G6RGSLDa4AAFdrj.jpg)
 
 ```
 一本破旧的船长航海日志。一张描绘路飞伸出橡胶手臂抓取宝箱的草图，与桅杆形成一个三角形。寻宝图背景纹理，指南针印章，撕裂的“通缉令”碎片，金币贴纸。充满冒险、混乱的海盗日志风格。
 ```
 
-<a id="item-1753"></a>
+<a id="item-136"></a>
 ### 杂志风格的照片，包含给定的文章文本
 - Author: AI焦点
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple), [3](https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886859058_7b6sqv_G6RFnuobEAAfZ_5.jpg)
 
 ```
 请将这段文字一字不差地复制到一张精美的杂志文章照片中。该照片应包含图片、吸引人的版面设计、精选引言和粗体格式。原文如下：{argument name="original_text" default="[在此粘贴未格式化的文章文本]"}
@@ -2901,7 +3596,9 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="aifocus-twitter-google"></a>
 ### AIFocus Twitter 横幅，带有 Google 品牌标识
 - Author: AI焦点
-- Images: [1](https://img.shields.io/badge/Language-ZH-blue), [2](https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-ZH-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg)
 
 ```
 为 AIFocus 绘制一张以香蕉为主题的 Twitter 横幅图片，要求符合 Google 的品牌调性和设计元素。
@@ -2910,25 +3607,34 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 <a id="16"></a>
 ### 黑白动物的 16 位像素艺术海报
 - Author: 被减数
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg), [3](https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg), [4](https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg), [5](https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg)
+  ![Image 3](https://cdn.gooo.ai/cms/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg)
+  ![Image 4](https://cdn.gooo.ai/cms/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg)
+  ![Image 5](https://cdn.gooo.ai/cms/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg)
 
 ```
 一张 16 位像素艺术海报，展示了自然界中所有黑白动物。构图采用整齐的网格布局，让人联想到复古视频游戏的角色选择界面或百科全书页面。每种动物都用清晰的复古像素字体标注了其英文名称。背景是干净的白色或浅灰色，带有生动的像素细节，散发出复古美学和高品质制作感。--ar 16:9
 ```
 
-<a id="item-1756"></a>
+<a id="item-137"></a>
 ### 带叠加描述的带注释地标图像
 - Author: ANKIT PATEL 🇮🇳 | AI
-- Images: [1](https://img.shields.io/badge/Language-EN-blue), [2](https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-EN-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763887477922_2pyomw_G6RCqojakAAYKGL.jpg)
 
 ```
 生成四张独特、超现实的图像，每张图像描绘一个世界著名的地标。对于每张图像，请在关键的建筑特征、历史元素或文化重要细节上直接叠加一套全面且清晰可辨的注释。这些注释应提供简短、信息丰富的描述。
 ```
 
-<a id="item-1757"></a>
+<a id="item-138"></a>
 ### 地球是猫咪星球的四格漫画
 - Author: starwalker前田徳彦
-- Images: [1](https://img.shields.io/badge/Language-JA-blue), [2](https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg)
+- Images:
+  ![Image 1](https://img.shields.io/badge/Language-JA-blue)
+  ![Image 2](https://cdn.gooo.ai/cms/1763886473985_z0wil5_G6RB5JcbkAAziGG.jpg)
 
 ```
 画一个四格漫画：一个仙女从天而降来到地球。因为她遇到的第一个生物是一只三花猫，所以她以为这个星球属于猫，并开始和这只猫说话。
@@ -2936,7 +3642,9 @@ Google 发布了终极图像生成 AI “Nano Banana Pro”
 
 <a id="81-viral-cover-image-youtubedouyintiktok"></a>
 ### 8.1. Viral Cover Image (Youtube/Douyin/TikTok)
-- Images: [1](https://github.com/user-attachments/assets/f5c790f9-f0e2-4c4d-b274-bf4bcd1c4764), [2](https://github.com/user-attachments/assets/21b0d56c-a2a5-463a-9a0e-84100e9d08d8)
+- Images:
+  ![Image 1](https://github.com/user-attachments/assets/f5c790f9-f0e2-4c4d-b274-bf4bcd1c4764)
+  ![Image 2](https://github.com/user-attachments/assets/21b0d56c-a2a5-463a-9a0e-84100e9d08d8)
 
 ```
 Design a viral video thumbnail using the person from Image 1. Face Consistency : Keep the person's facial features exactly the same as Image 1 , but change their expression to look excited and surprised . Action : Pose the person on the left side, pointing their finger towards the right side of the frame. Subject : On the right side, place a high-quality image of [a delicious avocado toast]. Graphics : Add a bold yellow arrow connecting the person's finger to the toast. Text : Overlay massive, pop-style text in the middle: '3分钟搞定!' (Done in 3 mins!). Use a thick white outline and drop shadow. Background : A blurred, bright kitchen background. High saturation and contrast.
@@ -2946,7 +3654,8 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 ### 浮世绘闪卡（by @MANISH1027512）
 - Author: @TechieBySA
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case1/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case1/output.jpg)
 
 ```
 核心指令： 一张日式浮世绘风格的收藏级集换式卡牌设计，竖构图。插画风格需要紧密模仿《鬼灭之刃》的视觉美学，特征包括：粗细变化的墨笔轮廓线、传统木版画的配色方案，以及戏剧性的动态构图。
@@ -2961,7 +3670,8 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 <a id="by-techiebysa"></a>
 ### 生成对应坐标的图片（by @TechieBySA）
 - Author: @tapeheadLab
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case2/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case2/output.jpg)
 
 ```
 创建一张在北纬 40.7128°、西经 74.0060° 处，于 2001 年 9 月 11 日 08:46 的图像
@@ -2971,7 +3681,8 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 ### 人物分身术（by @tapeheadLab）
 - Author: @anderssandberg
 - Input: 需上传参考图片作为人物对象
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case3/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case3/output.jpg)
 
 ```
 根据上传的参考角色，在一间宽敞的东京女孩公寓内拍摄一个真人场景——一间明亮、充满生活气息的单间，空间比例接近1LDK。房间应包含白色墙壁、温暖的木地板、米色窗帘、一张铺着柔软床品的矮床、一张摆放着化妆品的书桌、书架、绿植、一面立镜、一块地毯、散落的个人物品，以及位于房间后方的紧凑型厨房区域。房间必须具有强烈的景深，前景、中景和深邃的背景层次分明。
@@ -3058,7 +3769,8 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 <a id="by-anderssandberg"></a>
 ### 根据文档生成流程图（by @anderssandberg）
 - Author: @op7418
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case4/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case4/output.jpg)
 
 ```
 图示为根据论文 Armstrong, S., & Sandberg, A. (2013). Eternity in six hours: Intergalactic spreading of intelligent life and sharpening the Fermi paradox. Acta Astronautica, 89, 1-13 构建戴森群的过程。
@@ -3068,7 +3780,8 @@ Design a viral video thumbnail using the person from Image 1. Face Consistency :
 ### 根据文章制作PPT（by @op7418）
 - Author: @cheerselflin
 - Input: 需上传文章/文字作为生成PPT的内容
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case5/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case5/output.jpg)
 
 ```
 帮我根据下面这个文章做一套中学生都能理解的中文PPT。
@@ -3099,7 +3812,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @ZHOZHOZHO
 - Input: 需上传人物图片作为参考图
 - Output: 4K 高清 2D 插画，兼具性感与时尚感。
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case6/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case6/output.jpg)
 
 ```
 手绘风格的时尚概念分解图。
@@ -3131,7 +3845,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 物品制作幕后（by @ZHOZHOZHO）
 - Author: @lxfater
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case7/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case7/case.jpg)
 
 ```
 我想看这个是如何制作出来的
@@ -3141,7 +3856,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 儿童识字小报（by @lxfater）
 - Author: @someidesign
 - Notes: 请生成一张儿童识字小报《游乐园》，竖版 A4，学习小报版式，适合 5–9 岁孩子 认字与看图识物。 一、小报标题区（顶部） 顶部居中大标题：《游乐园识字小报》 风格：十字小报 / 儿童学习报感 文本要求：大字、醒目、卡通手写体、彩色描边 装饰：周围添加与 游乐园 相关的贴纸风装饰，颜色鲜艳 二、小报主体（中间主画面） 画面中心是一幅 卡通插画风的「游乐园」场景： 整体气氛：明亮、温暖、积极 构图：物体边界清晰，方便对应文字，不要过于拥挤。 场景分区与核心内容 核心区域 A（主要对象）：表现 游乐园 的核心活动（孩子们在玩游乐设施）。 核心区域 B（配套设施）：展示相关的工具或物品（售票、零食、指示设施）。 核心区域 C（环境背景）：体现环境特征（入口、路牌、彩旗、绿地等）。 主题人物 角色：1 位可爱卡通人物（身份：游乐园工作人员/游客小朋友皆可）。 动作：正在进行与场景相关的自然互动（如微笑指路、挥手欢迎、陪孩子玩）。 三、必画物体与识字清单（Generated Content） 请务必在画面中清晰绘制以下物体，并为其预留贴标签的位置： 1. 核心角色与设施： gōng zuò rén yuán 工作人员 shòu piào chù 售票处 guò shān chē 过山车 mó tiān lún 摩天轮 xuán zhuǎn mǎ 旋转木马 2. 常见物品/工具： piào 票 qì qiú 气球 bīng jī líng 冰淇淋 bào mǐ huā 爆米花 táng hú lu 糖葫芦 miàn jù 面具 wán jù 玩具 xiǎo qí zi 小旗子 3. 环境与装饰： rù kǒu 入口 chū kǒu 出口 zhǐ shì pái 指示牌 cǎi qí 彩旗 guǎng chǎng 广场 (注意：画面中的物体数量不限于此，但以上列表必须作为重点描绘对象；总计 18 个典型名词，适合 5–9 岁儿童识字。) 四、识字标注规则 对上述清单中的物体，贴上中文识字标签： 格式：两行制（第一行拼音带声调，第二行简体汉字）。 样式：彩色小贴纸风格，白底黑字或深色字，清晰可读。 排版：标签靠近对应的物体，不遮挡主体。 五、画风参数 风格：儿童绘本风 + 识字小报风 色彩：高饱和、明快、温暖 (High Saturation, Warm Tone) 质量：8k resolution, high detail, vector illustration style, clean lines.
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case8/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case8/output.jpg)
 
 ```
 请生成一张儿童识字小报《游乐园》，竖版 A4，学习小报版式，适合 5–9 岁孩子 认字与看图识物。 一、小报标题区（顶部） 顶部居中大标题：《游乐园识字小报》 风格：十字小报 / 儿童学习报感 文本要求：大字、醒目、卡通手写体、彩色描边 装饰：周围添加与 游乐园 相关的贴纸风装饰，颜色鲜艳 二、小报主体（中间主画面） 画面中心是一幅 卡通插画风的「游乐园」场景： 整体气氛：明亮、温暖、积极 构图：物体边界清晰，方便对应文字，不要过于拥挤。 场景分区与核心内容 核心区域 A（主要对象）：表现 游乐园 的核心活动（孩子们在玩游乐设施）。 核心区域 B（配套设施）：展示相关的工具或物品（售票、零食、指示设施）。 核心区域 C（环境背景）：体现环境特征（入口、路牌、彩旗、绿地等）。 主题人物 角色：1 位可爱卡通人物（身份：游乐园工作人员/游客小朋友皆可）。 动作：正在进行与场景相关的自然互动（如微笑指路、挥手欢迎、陪孩子玩）。 三、必画物体与识字清单（Generated Content） 请务必在画面中清晰绘制以下物体，并为其预留贴标签的位置： 1. 核心角色与设施： gōng zuò rén yuán 工作人员 shòu piào chù 售票处 guò shān chē 过山车 mó tiān lún 摩天轮 xuán zhuǎn mǎ 旋转木马 2. 常见物品/工具： piào 票 qì qiú 气球 bīng jī líng 冰淇淋 bào mǐ huā 爆米花 táng hú lu 糖葫芦 miàn jù 面具 wán jù 玩具 xiǎo qí zi 小旗子 3. 环境与装饰： rù kǒu 入口 chū kǒu 出口 zhǐ shì pái 指示牌 cǎi qí 彩旗 guǎng chǎng 广场 (注意：画面中的物体数量不限于此，但以上列表必须作为重点描绘对象；总计 18 个典型名词，适合 5–9 岁儿童识字。) 四、识字标注规则 对上述清单中的物体，贴上中文识字标签： 格式：两行制（第一行拼音带声调，第二行简体汉字）。 样式：彩色小贴纸风格，白底黑字或深色字，清晰可读。 排版：标签靠近对应的物体，不遮挡主体。 五、画风参数 风格：儿童绘本风 + 识字小报风 色彩：高饱和、明快、温暖 (High Saturation, Warm Tone) 质量：8k resolution, high detail, vector illustration style, clean lines.
@@ -3151,7 +3867,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 生成材质贴图（by @someidesign）
 - Author: @AIGIRLDESIGN
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case9/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case9/case.jpg)
 
 ```
 您能否帮我使用这座建筑的纹理生成一个装饰图集？
@@ -3162,7 +3879,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @ZeroZJQ
 - Input: 需上传一张城市参考图片
 - Notes: 使用上传的城市照片作为底图。请勿更改照片中的真实建筑、街道、车辆或人物。保持照片的真实性。在建筑物上方和后方的天空中添加一个非常巨大、风格化的插画生物，仿佛它俯瞰着整座城市。该生物应采用扁平化的图形风格绘制，轮廓清晰，并使用有限的霓虹色（例如柔和的霓虹绿、霓虹黄和柠檬绿），类似于壁画或海报插图。生物设计： - 奇幻的异想世界，而非恐怖或暴力 - 由层叠的形状、鳞片、毛发或花卉图案构成 - 长长的手臂或头发垂挂在建筑物旁 - 巨大的角或其他奇特的特征在天空的映衬下清晰可见 与照片的融合： - 将生物放置在建筑物边缘后方，使其部分身体出现在建筑物边缘之后，注意透视关系 - 使用正确的重叠方式：建筑物边缘在前，生物在后，使其融入场景之中 - 如有需要，可在附近的建筑物表面添加非常柔和的阴影或色彩反射，但要保持微妙 - 保持天空的原始亮度，使插图清晰突出 可选： - 在街道上添加一些小型、简单的插图人物（扁平、极简风格），例如遛狗或过马路，但不要遮挡真人。 整体氛围：梦幻般的超现实城市景象，一只巨大的、友好的插图生物出现在逼真的建筑物上方，将真实照片与简洁现代的插图相结合。
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case10/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case10/output.jpg)
 
 ```
 使用上传的城市照片作为底图。请勿更改照片中的真实建筑、街道、车辆或人物。保持照片的真实性。在建筑物上方和后方的天空中添加一个非常巨大、风格化的插画生物，仿佛它俯瞰着整座城市。该生物应采用扁平化的图形风格绘制，轮廓清晰，并使用有限的霓虹色（例如柔和的霓虹绿、霓虹黄和柠檬绿），类似于壁画或海报插图。生物设计： - 奇幻的异想世界，而非恐怖或暴力 - 由层叠的形状、鳞片、毛发或花卉图案构成 - 长长的手臂或头发垂挂在建筑物旁 - 巨大的角或其他奇特的特征在天空的映衬下清晰可见 与照片的融合： - 将生物放置在建筑物边缘后方，使其部分身体出现在建筑物边缘之后，注意透视关系 - 使用正确的重叠方式：建筑物边缘在前，生物在后，使其融入场景之中 - 如有需要，可在附近的建筑物表面添加非常柔和的阴影或色彩反射，但要保持微妙 - 保持天空的原始亮度，使插图清晰突出 可选： - 在街道上添加一些小型、简单的插图人物（扁平、极简风格），例如遛狗或过马路，但不要遮挡真人。 整体氛围：梦幻般的超现实城市景象，一只巨大的、友好的插图生物出现在逼真的建筑物上方，将真实照片与简洁现代的插图相结合。
@@ -3172,7 +3890,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 玩具分解展示（by @ZeroZJQ）
 - Author: @toolfolio
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case11/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case11/output.jpg)
 
 ```
 桌子上只有一个[阿童木]的玩具，玩具被对半分为左右两部分展示，玩具左半边是正常的玩具形象，右半边是透明的外壳，可以清晰的看到里面的内部构造，并有白色的线指出每一个部分是做什么的，在桌面上，明亮的背景，虚化的桌子。左边展示这个一半透明一半实体的玩具，画面的右边展示各类线条指出的参数指
@@ -3182,7 +3901,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 蓬松毛绒玩具（by @toolfolio）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case12/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case12/output.jpg)
 
 ```
 将一个简单的扁平矢量标志转换成一个柔软蓬松的3D立体物体。使用原有颜色。该物体完全被毛发覆盖，拥有超逼真的毛发纹理和柔和的阴影。它位于干净的浅灰色背景中央，轻柔地漂浮在空中。风格超现实、触感丰富且现代，营造出舒适和趣味盎然的感觉。采用摄影棚灯光和高分辨率渲染。
@@ -3192,7 +3912,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 水晶质感emoji（by @ZHOZHOZHO）
 - Author: @gizakdag
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case13/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case13/output.jpg)
 
 ```
 一幅照片级真实、细节高度丰富的图像，主体是 [一台 3D 拍立得相机]，以清澈、抛光度极高的透明玻璃或水晶材质渲染而成。[机身具有明显的厚度与立体深度，经典拍立得相机的标志性造型——方正机身、前置镜头、顶部取景器、正面拍照按钮以及底部吐片槽——全部以简化却极为精确的几何结构呈现，使其无需任何图案就能一眼辨认]。所有边缘采用圆润倒角与光滑曲面处理，在光线下产生优雅的折射效果。相机略微倾斜摆放，仿佛漂浮在洁净无暇、无缝衔接的淡米白或极浅灰色棚拍背景上方。
@@ -3206,7 +3927,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 蓬松充气玩具（by @gizakdag）
 - Author: @AmirMushich
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case14/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case14/output.jpg)
 
 ```
 将附件中的标志制作成一个高分辨率的3D渲染图，形状应为充气蓬松的物体。形状应呈现柔软饱满的效果，如同毛绒气球或充气玩具。使用光滑的哑光纹理，并添加细微的织物褶皱和缝线，以突出充气效果。物体应略带弹性，并辅以柔和的阴影和光线，以增强体积感和真实感。将其放置在简洁的背景（浅灰色）上。
@@ -3216,7 +3938,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 手绘等距图（by @AmirMushich）
 - Author: @icreatelife
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case15/input.jpg), [2](Awesome-Nano-Banana-images-main/images/pro_case15/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case15/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/pro_case15/output.jpg)
 
 ```
 绘制这条街道的手绘等距示意图
@@ -3226,7 +3950,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 揭秘照片的幕后制作过程（by @icreatelife）
 - Author: @Samannai
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case16/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case16/output.jpg)
 
 ```
 我想看看这张照片拍摄的幕后花絮，了解它是如何诞生的。
@@ -3236,7 +3961,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 根据面部估算年龄（by @Samannai）
 - Author: @TechieBySA
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case17/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case17/output.jpg)
 
 ```
 根据（您的照片）制作一张超逼真、高分辨率的肖像信息图。保持（您的照片）中人物的身份、发型、服装和自然肤色不变，并使用中性摄影棚背景。在整张脸上叠加一个微妙的半透明面部分析网格，类似于3D面部扫描网格：纤细柔和的白色线条沿着面部轮廓延伸，略带光泽但不遮盖皮肤细节。在脸部一侧添加一条清晰的垂直红色激光线，如同未来主义的扫描效果。所有分析线都必须柔和、简洁、优雅，如同美容科技广告一般。制作一张简洁的医学美容信息图，使用全局数据百分比评估5个衰老因素：1. 细纹和皱纹；2. 皮肤纹理和弹性；3. 面部容量和下垂；4. 眼周衰老迹象；5.肤色和色素沉着：针对每个因素，放置一个带有细线指向相应面部区域的小标签，并在旁边写上简短的标题和一个0-100%的实际百分比分数（基于全球数据），例如：“细纹和皱纹 - 18%”“皮肤纹理和弹性 - 72%”“面部容量和下垂 - 35%”“眼周衰老迹象 - 41%”“肤色和色素沉着 - 63%”。使用简洁、现代的无衬线字体和小号技术风格文本，类似于科学的面部分析用户界面。在图像底部中央，用粗体大字显示基于分析的最终估计真实年龄，例如：“估计年龄：（基于面部分析的随机数字）”。整体风格：未来主义的AI引导护肤分析，极简主义，高级编辑灯光，不提及性别，适用于任何面部。
@@ -3246,7 +3972,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 历史报纸（by @TechieBySA）
 - Author: @KanaWorksAI
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case18/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case18/output.jpg)
 
 ```
 一张1080x1080像素的特写照片，双手捧着一份白色报纸，镜头向下拍摄。背景极度虚化且偏暗，使报纸清晰醒目。报纸占据了画面的大部分，其内容清晰易读。醒目的标题为“[标题]”。画面中央是一张[照片描述]的大幅黑白照片。配文列数较多，清晰易读。每次拍摄都保持相同的风格、构图、光线、人物、虚化效果、布局和报纸设计，仅更改标题和照片。
@@ -3255,7 +3982,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-kanaworksai"></a>
 ### 角色关系图（by @KanaWorksAI）
 - Author: @KanaWorksAI
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case19/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case19/output.jpg)
 
 ```
 【日式恋爱模拟游戏】角色关系图。包含角色名称、关系箭头、好感度、冲突点。【剧情喜剧风格】。共7个角色。
@@ -3264,7 +3992,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-kanaworksai-2"></a>
 ### 少女游戏设定集（by @KanaWorksAI）
 - Author: @KanaWorksAI
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case20/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case20/output.jpg)
 
 ```
 一套用于设定少女游戏主角及配角的背景资料。
@@ -3274,7 +4003,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 角色等级进化（by @KanaWorksAI）
 - Author: @goodside
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case21/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case21/output.jpg)
 
 ```
 游戏设计插画。根据参考图，创作角色初级、中级、高级和精英四个版本，每个版本都应具有独特的外观，并按顺序排列。角色名称如下：[ A ]
@@ -3283,7 +4013,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-goodside"></a>
 ### 递归图像（by @goodside）
 - Author: @canghecode
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case22/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case22/output.jpg)
 
 ```
 1998 年的一张业余照片，照片中一位中年艺术家正在用手将电脑屏幕上的图像复制到绷紧的画布上的油画中，但图像本身却是这位艺术家绘制递归图像时的照片。
@@ -3292,7 +4023,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-canghecode"></a>
 ### 多角色串场漫画（by @canghecode）
 - Author: @op7418
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case23/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case23/output.jpg)
 
 ```
 帮我生成动漫角色中的女角色的一个合集故事，其中包括娜美、罗宾、小樱、雏田、松本乱菊，做成彩色漫画的形式，要求中文。
@@ -3300,9 +4032,38 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 <a id="by-op7418"></a>
 ### 手办白模上色（by @op7418）
-- 别名/Also known as: Part 1: 核心能力展示
+- 别名: Part 1: 核心能力展示
 - Author: @starknico99
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case24/case.jpg), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [29](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case24/case.jpg)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 29](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 为这张手办完成材质添加和上色，同时将周围环境变为符合角色设定的环境
@@ -3311,7 +4072,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-starknico99"></a>
 ### 金句卡片（by @starknico99）
 - Author: @dotey
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case25/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case25/output.jpg)
 
 ```
 一张宽的名人金句卡，棕色背景，衬线体浅金色 “保持饥饿, 保持愚蠢” 小字“——Steve Jobs”，文字前面带一个大的淡淡的引号，人物头像在左边，文字在右边，文字占画面比例2/3，人物占1/3，人物有点渐变过渡的感觉
@@ -3320,7 +4082,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-dotey"></a>
 ### 清明上河图风格图像（by @dotey）
 - Author: @jamesyeung18
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case26/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case26/output.jpg)
 
 ```
 一幅气势恢宏、细节丰富的传统中国水墨彩绘手卷，绘于古旧绢本之上，完美地模仿了张择端名作《清明上河图》的艺术风格、笔法和散点透视。
@@ -3332,7 +4095,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-jamesyeung18"></a>
 ### 电影分镜制作（by @jamesyeung18）
 - Author: @TlanoAI
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case27/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case27/output.jpg)
 
 ```
 使用宽屏面板，为《1984》第一页创作电影分镜脚本。
@@ -3342,7 +4106,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 黑板粉笔画（by @TlanoAI）
 - Author: @TechieBySA
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case28/input.jpg), [2](Awesome-Nano-Banana-images-main/images/pro_case28/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case28/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/pro_case28/output.jpg)
 
 ```
 将这幅插图用粉笔在黑板上进行绘画，使用彩色粉笔，从某个角度拍摄了黑板，场景来自日本教室，黑板靠墙放置，老师的桌子在前面，插图旁边用粉笔写着“虎来了！”。
@@ -3352,7 +4118,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 微型自画像（by @TechieBySA）
 - Author: @chrisfirst
 - Input: 需上传一张参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case29/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case29/output.jpg)
 
 ```
 创作一幅人物肖像，描绘此人作为艺术家正在绘制一个微型人偶。此人身着其最具标志性的服装，自信地直视镜头，一手拿着一支小画笔。一个迷你版的自己被醒目地放置在面前干净的工作台上——将人偶放大一些，使其比实际比例更显眼，从而更加突出。人偶也穿着同样的标志性服装，摆出标志性的姿势。工作台上摆放的绘画用品极简，避免杂乱——只有两三瓶小颜料和一支备用画笔，使画面焦点集中在人物和人偶上。柔和的中性白色背景，专业的影棚灯光，浅景深。构图突出了人物看向镜头的面部表情以及他正在绘制的人偶。画面风格简洁明快，追求照片级的写实效果，人物和人偶的细节都需高度还原。
@@ -3363,7 +4130,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @MrAllenT
 - Input: 需上传wikipedia链接
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case30/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case30/output.jpg)
 
 ```
 根据这篇文章 [维基百科页面] 制作一张关于此人生平的信息图。
@@ -3372,7 +4140,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-mrallent"></a>
 ### 风格化地图（by @MrAllenT）
 - Input: 需上传一张google map图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/pro_case31/input.jpg), [2](Awesome-Nano-Banana-images-main/images/pro_case31/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/pro_case31/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/pro_case31/output.jpg)
 
 ```
 请给我展示一张拉斯维加斯赌场风格的俯视图。
@@ -3382,7 +4152,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 插画变手办（by @ZHOZHOZHO）
 - Author: @tokumin
 - Input: 需上传一张参考图片作为生成手办的对象
-- Images: [1](Awesome-Nano-Banana-images-main/images/case1/input0.jpg), [2](Awesome-Nano-Banana-images-main/images/case1/output0.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case1/input0.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case1/output0.jpg)
 
 ```
 将这张照片变成角色手办。在它后面放置一个印有角色图像的盒子，盒子上有一台电脑显示Blender建模过程。在盒子前面添加一个圆形塑料底座，角色手办站在上面。如果可能的话，将场景设置在室内
@@ -3392,7 +4164,13 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 根据地图箭头生成地面视角图片（by @tokumin）
 - Author: @bilawalsidhu
 - Input: 需要上传一张包含红色箭头的google maps图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case2/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case2/output.jpg), [3](Awesome-Nano-Banana-images-main/images/case2/input3.jpg), [4](Awesome-Nano-Banana-images-main/images/case2/output3.jpg), [5](Awesome-Nano-Banana-images-main/images/case2/input2.jpg), [6](Awesome-Nano-Banana-images-main/images/case2/output2.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case2/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case2/output.jpg)
+  ![Image 3](Awesome-Nano-Banana-images-main/images/case2/input3.jpg)
+  ![Image 4](Awesome-Nano-Banana-images-main/images/case2/output3.jpg)
+  ![Image 5](Awesome-Nano-Banana-images-main/images/case2/input2.jpg)
+  ![Image 6](Awesome-Nano-Banana-images-main/images/case2/output2.jpg)
 
 ```
 画出红色箭头看到的内容
@@ -3405,7 +4183,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @Zieeett
 - Input: 需上传一张参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case3/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case3/output.jpg)
 
 ```
 你是一个基于位置的AR体验生成器。在这张图像中突出显示[兴趣点]并标注相关信息
@@ -3416,7 +4195,11 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @AmirMushich
 - Input: 需上传一张包含对应物体的图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case4/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case4/output.jpg), [3](Awesome-Nano-Banana-images-main/images/case4/input2.jpg), [4](Awesome-Nano-Banana-images-main/images/case4/output2.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case4/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case4/output.jpg)
+  ![Image 3](Awesome-Nano-Banana-images-main/images/case4/input2.jpg)
+  ![Image 4](Awesome-Nano-Banana-images-main/images/case4/output2.jpg)
 
 ```
 将图像制作成白天和等距视图[仅限建筑]
@@ -3427,7 +4210,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @MrDavids1
 - Input: 需上传一张人物的照片
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case5/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case5/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case5/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case5/output.jpg)
 
 ```
 将角色的风格改为[1970]年代的经典[男性]风格
@@ -3444,7 +4229,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @op7418
 - Input: 需上传多个参考图
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case6/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case6/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case6/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case6/output.jpg)
 
 ```
 一个模特摆姿势靠在粉色宝马车上。她穿着以下物品，场景背景是浅灰色。绿色外星人是一个钥匙扣，挂在粉色手提包上。模特肩上还有一只粉色鹦鹉。旁边坐着一只戴着粉色项圈和金色耳机的哈巴狗
@@ -3454,7 +4241,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 自动修图（by @op7418）
 - Author: @op7418
 - Input: 需上传一张需要进行修正的图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case7/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case7/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case7/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case7/output.jpg)
 
 ```
 这张照片很无聊很平淡。增强它！增加对比度，提升色彩，改善光线使其更丰富，你可以裁剪和删除影响构图的细节
@@ -3464,7 +4253,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 手绘图控制多角色姿态（by @op7418）
 - Author: @op7418
 - Input: 需上传角色的图像以及手绘草图
-- Images: [1](Awesome-Nano-Banana-images-main/images/case8/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case8/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case8/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case8/output.jpg)
 
 ```
 让这两个角色使用图3的姿势进行战斗。添加适当的视觉背景和场景互动，生成图像比例为16:9
@@ -3474,7 +4265,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 跨视角图像生成（by @op7418）
 - Author: @op7418
 - Input: 需上传一张地面上拍摄的照片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case9/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case9/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case9/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case9/output.jpg)
 
 ```
 将照片转换为俯视角度并标记摄影师的位置
@@ -3484,7 +4277,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 定制人物贴纸（by @op7418）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张贴纸参考图以及一张人物图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case10/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case10/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case10/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case10/output.jpg)
 
 ```
 帮我将角色变成类似图2的白色轮廓贴纸。角色需要转换成网页插画风格，并添加一个描述图1的俏皮白色轮廓短语
@@ -3494,7 +4289,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 动漫转真人Coser（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张插画图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case11/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case11/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case11/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case11/output.jpg)
 
 ```
 生成一个女孩cosplay这张插画的照片，背景设置在Comiket
@@ -3504,7 +4301,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 生成角色设定（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张角色参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case12/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case12/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case12/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case12/output.jpg)
 
 ```
 为我生成人物的角色设定（Character Design）
@@ -3524,7 +4323,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 色卡线稿上色（by @ZHOZHOZHO）
 - Author: @黄建同学
 - Input: 需上传一张线稿图和一张色卡图
-- Images: [1](Awesome-Nano-Banana-images-main/images/case13/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case13/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case13/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case13/output.jpg)
 
 ```
 准确使用图2色卡为图1人物上色
@@ -3534,7 +4335,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 文章信息图（by @黄建同学）
 - Author: @balconychy
 - Input: 需上传一段博客/文章
-- Images: [1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
 
 ```
 为文章内容生成信息图
@@ -3549,7 +4351,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 更换多种发型（by @balconychy）
 - Author: @berryxiaai
 - Input: 需上传一张需要更换发型的人像图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case15/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case15/output.jpg)
 
 ```
 以九宫格的方式生成这个人不同发型的头像
@@ -3559,7 +4362,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 模型标注讲解图（by @berryxiaai）
 - Author: @umeshai
 - Notes: 标注结果中存在较多错误 ⚠️。请注意，Nano-Banana 的标注结果并非完全正确，在使用时务必仔细核实信息的准确性。; [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case16/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case16/output.jpg)
 
 ```
 绘制[3D人体器官模型展示示例心脏]用于学术展示，进行标注讲解，适用于展示其原理和[每个器官]的功能，非常逼真，高度还原，精细度非常细致的设计
@@ -3569,7 +4373,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 定制大理石雕塑（by @umeshai）
 - Author: @Gdgtify
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case17/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case17/output.jpg)
 
 ```
 一张超详细的图像中主体雕塑的写实图像，由闪亮的大理石制成。雕塑应展示光滑反光的大理石表面，强调其光泽和艺术工艺。设计优雅，突出大理石的美丽和深度。图像中的光线应增强雕塑的轮廓和纹理，创造出视觉上令人惊叹和迷人的效果
@@ -3579,7 +4384,13 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 根据食材做菜（by @Gdgtify）
 - Author: @Gorden
 - Input: 需上传一张带有多种食材的照片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case18/input1.jpg), [2](Awesome-Nano-Banana-images-main/images/case18/output1.jpg), [3](Awesome-Nano-Banana-images-main/images/case18/input2.jpg), [4](Awesome-Nano-Banana-images-main/images/case18/output2.jpg), [5](Awesome-Nano-Banana-images-main/images/case18/input3.jpg), [6](Awesome-Nano-Banana-images-main/images/case18/output3.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case18/input1.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case18/output1.jpg)
+  ![Image 3](Awesome-Nano-Banana-images-main/images/case18/input2.jpg)
+  ![Image 4](Awesome-Nano-Banana-images-main/images/case18/output2.jpg)
+  ![Image 5](Awesome-Nano-Banana-images-main/images/case18/input3.jpg)
+  ![Image 6](Awesome-Nano-Banana-images-main/images/case18/output3.jpg)
 
 ```
 用这些食材为我做一顿美味的午餐，放在盘子里，盘子的特写视图，移除其他盘子和食材
@@ -3590,7 +4401,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @GeminiApp
 - Input: 需上传一道数学类的题目
 - Notes: ### 例 19: 数学题推理（by @Gorden Sun）
-- Images: [1](Awesome-Nano-Banana-images-main/images/case19/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case19/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case19/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case19/output.jpg)
 
 ```
 根据问题将问题的答案写在对应的位置上
@@ -3600,7 +4413,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 旧照片上色（by @GeminiApp）
 - Author: @302.AI
 - Input: 需上传一张老旧、需要修复的照片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case20/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case20/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case20/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case20/output.jpg)
 
 ```
 修复并为这张照片上色
@@ -3610,7 +4425,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### OOTD穿搭（by @302.AI）
 - Author: @skirano
 - Input: 需上传一张人物图片和服装图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case21/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case21/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case21/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case21/output.jpg)
 
 ```
 选择图1中的人，让他们穿上图2中的所有服装和配饰。在户外拍摄一系列写实的OOTD风格照片，使用自然光线，时尚的街头风格，清晰的全身镜头。保持图1中人物的身份和姿势，但以连贯时尚的方式展示图2中的完整服装和配饰
@@ -3620,7 +4437,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 人物换衣（by @skirano）
 - Author: @ErrorHTTP404
 - Input: 需上传人物图像和衣服图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case22/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case22/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case22/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case22/output.jpg)
 
 ```
 将输入图像中人物的服装替换为参考图像中显示的目标服装。保持人物的姿势、面部表情、背景和整体真实感不变。让新服装看起来自然、合身，并与光线和阴影保持一致。不要改变人物的身份或环境——只改变衣服
@@ -3630,7 +4449,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 多视图结果生成（by @ErrorHTTP404）
 - Author: @GeminiApp
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case23/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case23/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case23/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case23/output.jpg)
 
 ```
 在白色背景上生成前、后、左、右、上、下视图。均匀分布。一致的主体。等距透视等效
@@ -3640,7 +4461,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 电影分镜（by @GeminiApp）
 - Author: @arrakisai
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case24/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case24/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case24/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case24/output.jpg)
 
 ```
 用这两个角色创作一个令人上瘾的12部分故事，包含12张图像，讲述经典的黑色电影侦探故事。故事关于他们寻找线索并最终发现的失落的宝藏。整个故事充满刺激，有情感的高潮和低谷，以精彩的转折和高潮结尾。不要在图像中包含任何文字或文本，纯粹通过图像本身讲述故事
@@ -3650,7 +4473,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 人物姿势修改（by @arrakisai）
 - Author: @ZHOZHOZHO
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case25/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case25/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case25/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case25/output.jpg)
 
 ```
 让图片中的人直视前方
@@ -3660,7 +4485,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 线稿图生成图像（by @ZHOZHOZHO）
 - Author: @AiMachete
 - Input: 需上传线稿图和参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case26/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case26/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case26/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case26/output.jpg)
 
 ```
 将图一人物换成图二姿势，专业摄影棚拍摄
@@ -3670,7 +4497,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 为图像添加水印（by @AiMachete）
 - Author: @icreatelife
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case27/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case27/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case27/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case27/output.jpg)
 
 ```
 在整个图片上反复覆盖“TRUMP”这个词。
@@ -3679,7 +4508,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 <a id="by-icreatelife-2"></a>
 ### 知识推理生成图像（by @icreatelife）
 - Author: @AiMachete
-- Images: [1](Awesome-Nano-Banana-images-main/images/case28/output.jpg), [2](Awesome-Nano-Banana-images-main/images/case28/output1.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case28/output.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case28/output1.jpg)
 
 ```
 为我制作一张世界五座最高建筑的信息图 / 制作一张关于地球上最甜蜜事物的彩色信息图
@@ -3689,7 +4520,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 红笔批注（by @AiMachete）
 - Author: @icreatelife
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case29/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case29/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case29/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case29/output.jpg)
 
 ```
 分析这张图片。用红笔标出你可以改进的地方。
@@ -3699,7 +4532,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 爆炸的食物（by @icreatelife）
 - Author: @icreatelife
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case30/output.jpg), [2](Awesome-Nano-Banana-images-main/images/case30/output1.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case30/output.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case30/output1.jpg)
 
 ```
 在具有戏剧性的现代场景中拍摄该产品，并伴随着爆炸性的向外动态排列，主要成分新鲜和原始在产品周围飞舞，表明其新鲜度和营养价值。促销广告镜头，没有文字，强调产品，以关键品牌颜色作为背景。
@@ -3709,7 +4544,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 制作漫画书（by @icreatelife）
 - Author: @icreatelife
 - Input: 需上传参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case31/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case31/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case31/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case31/output.jpg)
 
 ```
 基于上传的图像，制作漫画书条幅，添加文字，写一个引人入胜的故事。我想要一本奇幻漫画书。
@@ -3720,7 +4557,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @demishassabis
 - Input: 需上传参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case32/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case32/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case32/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case32/output.jpg)
 
 ```
 制作一个写着 [“AI Evangelist - Kris”] 的动作人偶，并包含 [咖啡、乌龟、笔记本电脑、手机和耳机] 。
@@ -3730,7 +4569,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 地图生成等距建筑（by @demishassabis）
 - Author: @ZHOZHOZHO
 - Input: 需上传地图的参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case33/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case33/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case33/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case33/output.jpg)
 
 ```
 以这个位置为地标，将其设为等距图像（仅建筑物），采用游戏主题公园的风格
@@ -3740,7 +4581,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 参考图控制人物表情（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张人物参考图和一张表情参考图
-- Images: [1](Awesome-Nano-Banana-images-main/images/case34/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case34/case.jpg)
 
 ```
 图一人物参考/换成图二人物的表情
@@ -3750,7 +4592,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 插画绘画过程四格（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张人物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case35/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case35/case.jpg)
 
 ```
 为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字
@@ -3760,7 +4603,8 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ### 虚拟试妆（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张人物参考图像和一张妆造参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case36/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case36/case.jpg)
 
 ```
 为图一人物化上图二的妆，还保持图一的姿势
@@ -3771,7 +4615,9 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 - Author: @TechHallo
 - Input: 需上传一张人物参考图像
 - Notes: Analyze this image. Use red pen to denote where you can improve
-- Images: [1](Awesome-Nano-Banana-images-main/images/case37/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case37/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case37/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case37/output.jpg)
 
 ```
 分析这张图片。用红笔标出可以改进的地方
@@ -3781,7 +4627,8 @@ Analyze this image. Use red pen to denote where you can improve
 <a id="googleby-techhallo"></a>
 ### Google地图视角下的中土世界（by @TechHallo）
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case38/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case38/output.jpg)
 
 ```
 行车记录仪谷歌街景拍摄 | [霍比屯街道] | [霍比特人进行园艺和抽烟斗等日常活动] | [晴天]
@@ -3791,7 +4638,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 印刷插画生成（by @Umesh）
 - Author: @tapeheadLab
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case39/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case39/output.jpg)
 
 ```
 仅使用短语 [“riding a bike”] 中的字母，创作一幅极简主义的黑白印刷插图，描绘骑自行车的场景。每个字母的形状和位置都应富有创意，以构成骑车人、自行车和动感。设计应简洁、极简，完全由修改后的 [“riding a bike”] 字母组成，不添加任何额外的形状或线条。字母应流畅或弯曲，以模仿场景的自然形态，同时保持清晰易读。
@@ -3801,7 +4649,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 超多人物姿势生成（by @tapeheadLab）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张人物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case40/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case40/case.jpg)
 
 ```
 请为这幅插图创建一个姿势表，摆出各种姿势
@@ -3811,7 +4660,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 物品包装生成（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张物品参考图像和一张包装参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case41/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case41/case.jpg)
 
 ```
 把图一贴在图二易拉罐上，并放在极简设计的布景中，专业摄影
@@ -3822,7 +4672,8 @@ Analyze this image. Use red pen to denote where you can improve
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图像和一张滤镜/材质参考图片
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case42/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case42/case.jpg)
 
 ```
 为图一照片叠加上图二 [玻璃] 的效果
@@ -3832,7 +4683,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 控制人物脸型（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图像和一张脸型参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case43/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case43/case.jpg)
 
 ```
 图一人物按照图二的脸型设计为q版形象
@@ -3842,7 +4694,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 光影控制（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图像和一张光影参考图片
-- Images: [1](Awesome-Nano-Banana-images-main/images/case44/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case44/case.jpg)
 
 ```
 图一人物变成图二光影，深色为暗
@@ -3852,7 +4705,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 乐高玩具小人（by @ZHOZHOZHO）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case45/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case45/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case45/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case45/output.jpg)
 
 ```
 将照片中的人物转化为乐高小人包装盒的风格，以等距透视呈现。在包装盒上标注标题“ZHOGUE”。在盒内展示基于照片中人物的乐高小人，并配有他们必需的物品（如化妆品、包或其他物品）作为乐高配件。在盒子旁边，也展示实际乐高小人本身，未包装，以逼真且生动的方式渲染。
@@ -3862,7 +4717,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 高达模型小人（by @ZHOZHOZHO）
 - Author: @AIimagined
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case46/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case46/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case46/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case46/output.jpg)
 
 ```
 将照片中的人物转化为高达模型套件包装盒的风格，以等距透视呈现。在包装盒上标注标题“ZHOGUE”。在盒内展示照片中人物的高达风格机械人版本，并伴随其必需品（如化妆品、包袋或其他物品）重新设计为未来派机械配件。包装盒应类似真实的 Gunpla 盒子，包含技术插图、说明书风格细节和科幻字体。在盒子旁边，也展示实际的高达风格机械人本身，在包装外以逼真且栩栩如生的风格渲染，类似于官方 Bandai 宣传渲染图。
@@ -3871,7 +4728,8 @@ Analyze this image. Use red pen to denote where you can improve
 <a id="by-aiimagined"></a>
 ### 硬件拆解图（by @AIimagined）
 - Author: @icreatelife
-- Images: [1](Awesome-Nano-Banana-images-main/images/case47/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case47/output.jpg)
 
 ```
 数码单反相机的分解图，展示了其所有配件和内部组件，例如镜头、滤镜、内部组件、镜头、传感器、螺丝、按钮、取景器、外壳和电路板。保留了数码单反相机的红色装饰。
@@ -3881,7 +4739,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 食物卡路里标注（by @icreatelife）
 - Author: @nglprz
 - Input: 需上传一张食物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case48/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case48/output.jpg)
 
 ```
 用食物名称、卡路里密度和近似卡路里来注释这顿饭
@@ -3892,7 +4751,9 @@ Analyze this image. Use red pen to denote where you can improve
 - Author: @bwabbage
 - Input: 需上传一张参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case49/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case49/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case49/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case49/output.jpg)
 
 ```
 提取 [武士] 并放置透明背景
@@ -3902,7 +4763,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 图像外扩修复（by @bwabbage）
 - Author: @levelsio
 - Input: 需上传一张带有未知棋盘格信息的参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case50/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case50/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case50/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case50/output.jpg)
 
 ```
 将图像的棋盘格部分进行修复，恢复为完整图像
@@ -3912,7 +4775,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 古老地图生成古代场景（by @levelsio）
 - Author: @tetumemo
 - Input: 需上传一张古代的参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case51/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case51/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case51/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case51/output.jpg)
 
 ```
 全彩照片。1660 年的新阿姆斯特丹。确保它是全现代色彩，就像它是今天拍摄的照片一样。
@@ -3922,7 +4787,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 时尚服装拼贴画（by @tetumemo）
 - Author: @azedai
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case52/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case52/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case52/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case52/output.jpg)
 
 ```
 时尚情绪板拼贴画。用模特所穿单品的剪纸图案围绕肖像画。用俏皮的马克笔字体添加手写笔记和草图，并用英文标注每件单品的品牌名称和来源。整体美感应该兼具创意和可爱。
@@ -3932,7 +4799,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 精致可爱的产品照片（by @azedai）
 - Author: @riddi0908
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case53/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case53/output.jpg)
 
 ```
 一张高分辨率广告照片，一位男士用拇指和食指精心握着一件逼真的微型 [产品] 。背景干净清爽，摄影棚灯光，阴影柔和。手部造型精致，肤色自然，摆放位置凸显了产品的形状和细节。产品看起来极小，但细节丰富，品牌形象精准，位于画面中央，景深浅。模仿了奢侈品摄影和极简主义商业风格。
@@ -3942,7 +4810,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 动漫雕像放入现实（by @riddi0908）
 - Author: @riddi0908
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case54/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case54/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case54/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case54/output.jpg)
 
 ```
 一幅写实的摄影作品。这个人的巨型雕像被安放在东京市中心的广场上，人们仰望着它。
@@ -3952,7 +4822,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 痛车制作（by @riddi0908）
 - Author: @namaedousiyoka
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case55/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case55/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case55/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case55/output.jpg)
 
 ```
 打造一张专业的跑车照片，以动漫风格的人物图案作为“痛车”（彩绘汽车）的设计，拍摄地点为著名的旅游景点或地标。汽车上醒目的大型动漫人物插图，构图简洁干净。人物图案应采用鲜艳的动漫艺术风格，色彩大胆，细节清晰。将车辆放置在自然光线充足的知名旅游景点或风景区，以展现车辆的运动外观和人物图案。运用专业的汽车摄影技巧，并结合适当的景深，突出“痛车”图案，同时融入风景背景，提升旅游吸引力，适合用于促销或爱好者营销材料。
@@ -3962,7 +4834,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 漫画风格转换（by @nobisiro2023）
 - Author: @tetumemo
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case57/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case57/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case57/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case57/output.jpg)
 
 ```
 将输入的图片处理为黑白漫画风格线稿
@@ -3972,7 +4846,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 等距全息投影图（by @tetumemo）
 - Author: @tetumemo
 - Input: 需上传一张线稿参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case58/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case58/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case58/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case58/output.jpg)
 
 ```
 根据上传的图像，仅用线框进行全息化
@@ -3982,7 +4858,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### Minecraft 风格场景生成（by @tetumemo）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张google map参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case59/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case59/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case59/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case59/output.jpg)
 
 ```
 使用此位置将​​地标制作成游戏 Minecraft 的 HD-2D 风格的等距图像（仅建筑物）。
@@ -3992,7 +4870,8 @@ Analyze this image. Use red pen to denote where you can improve
 ### 材质球赋予材质（by @ZHOZHOZHO）
 - Author: @op7418
 - Input: 需上传一张参考图像和一张材质球图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case60/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case60/case.jpg)
 
 ```
 将图2的材质用在图1的logo上，3d立体呈现，渲染c4d，纯色背景
@@ -4002,7 +4881,9 @@ Analyze this image. Use red pen to denote where you can improve
 ### 平面图3D渲染（by @op7418）
 - Author: @hckinz
 - Input: 需上传一张平面参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case61/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case61/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case61/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case61/output.jpg)
 
 ```
 帮我把这个住宅平面图转换为房屋的等距照片级真实感 3D 渲染。
@@ -4013,7 +4894,9 @@ Analyze this image. Use red pen to denote where you can improve
 - Author: @songguoxiansen
 - Input: 需上传一张参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case62/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case62/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case62/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case62/output.jpg)
 
 ```
 RAW-ISO [100] - [F28-1/200 24mm] 设置
@@ -4023,7 +4906,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 制作证件照（by @songguoxiansen）
 - Author: @Gdgtify
 - Input: 需上传一张人物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case63/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case63/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case63/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case63/output.jpg)
 
 ```
 截取图片人像头部，帮我做成2寸证件照，要求:
@@ -4037,7 +4922,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 场景 A6 折叠卡（by @Gdgtify）
 - Author: @Gdgtify
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case64/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case64/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case64/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case64/output.jpg)
 
 ```
 绘制一个 A6 折叠卡：打开时它会展示一个完整的 3D 球形小屋，里面有一座微型的纸花园和盆景树。
@@ -4047,7 +4934,8 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 设计国际象棋（by @Gdgtify）
 - Author: @fofrAI
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case65/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case65/case.jpg)
 
 ```
 绘制一个棋盘和受此图片启发的 3D 打印棋子
@@ -4056,7 +4944,8 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 <a id="by-fofrai"></a>
 ### 分割对照样式照片（by @fofrAI）
 - Author: @Gdgtify
-- Images: [1](Awesome-Nano-Banana-images-main/images/case66/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case66/case.jpg)
 
 ```
 一张卧室的照片，从中间分开，左边是 2018 年，右边是 1964 年，是同一个房间
@@ -4066,7 +4955,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 珠宝首饰设计（by @Gdgtify）
 - Author: @0xFramer
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case67/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case67/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case67/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case67/output.jpg)
 
 ```
 将这张图像变成一条包含 5 件首饰的系列。
@@ -4076,7 +4967,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 周边设计（by @0xFramer）
 - Author: @UNIBRACITY
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case68/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case68/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case68/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case68/output.jpg)
 
 ```
 用这个角色图像创建商品
@@ -4087,7 +4980,8 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 - Author: @songguoxiansen
 - Output: 4:5，2048×2560。
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case69/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case69/output.png)
 
 ```
 超逼真的产品照片。
@@ -4125,7 +5019,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 巨型人物脚手架（by @songguoxiansen）
 - Author: @lehua555
 - Input: 需上传一张人物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case70/input.png), [2](Awesome-Nano-Banana-images-main/images/case70/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case70/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case70/output.png)
 
 ```
 图片中人物站着自拍的超写实3D渲染图。画面里这个巨型人物全身环绕着庞大的脚手架，脚手架上有许多身形微小的建筑工人正在作业。场景设定在一个城市广场，周围是现代化建筑，还有行驶中的交通工具（轿车、公交车）、行人，以及晴朗明亮的湛蓝天空。整体细节丰富，呈现出照片级的真实质感，且采用了电影级灯光效果。
@@ -4135,7 +5031,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 遥感影像建筑物提取（by @lehua555）
 - Author: @tetumemo
 - Input: 需上传一张遥感图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case71/input.png), [2](Awesome-Nano-Banana-images-main/images/case71/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case71/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case71/output.png)
 
 ```
 删除影像中除建筑以外的地方
@@ -4145,7 +5043,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 部件提取（by @tetumemo）
 - Author: @bindlux
 - Input: 需上传一张模型的图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case72/input.png), [2](Awesome-Nano-Banana-images-main/images/case72/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case72/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case72/output.png)
 
 ```
 将各部件切割出来，制作成保留有全息图的模型表
@@ -4155,7 +5055,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 移除汉堡的配料（by @bindlux，本案例由@jeanlucaslima提供）
 - Author: @op7418
 - Input: 需上传一张汉堡的图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case73/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case73/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case73/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case73/output.jpg)
 
 ```
 把汉堡里的所有配料都取出来，只留下上下两片面包。面包之间留出空隙，就像馅料还在里面一样。
@@ -4165,7 +5067,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 图像高清修复（by @op7418）
 - Author: @techhalla
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case74/input.png), [2](Awesome-Nano-Banana-images-main/images/case74/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case74/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case74/output.png)
 
 ```
 增强这张老图像的分辨率并添加适当的纹理细节，用现代动漫技术重新诠释它。
@@ -4175,7 +5079,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 图片生成微缩场景（by @techhalla）
 - Author: @op7418
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case75/input.png), [2](Awesome-Nano-Banana-images-main/images/case75/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case75/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case75/output.png)
 
 ```
 将图像转换为等距视图
@@ -4184,7 +5090,8 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 <a id="by-op7418-7"></a>
 ### 科普漫画（by @op7418）
 - Author: @vista8
-- Images: [1](Awesome-Nano-Banana-images-main/images/case76/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case76/output.png)
 
 ```
 请帮我生成多张 16:9 的涂鸦风格图片，向中学生解释“未来”的概念。图片应采用一致的彩色粗铅笔手绘风格，信息丰富，包含英文文本，使用纯色背景，卡片周围有轮廓，并包含统一的标题，类似于 PowerPoint 演示文稿。
@@ -4195,7 +5102,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 - Author: @googlejapan
 - Input: 需上传一张参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case77/input.png), [2](Awesome-Nano-Banana-images-main/images/case77/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case77/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case77/output.png)
 
 ```
 用图2形象，参图一的各种姿势生成 [x] 个表情包
@@ -4206,7 +5115,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 - Author: @NanoBananalabs
 - Input: 需上传一张参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case78/input.png), [2](Awesome-Nano-Banana-images-main/images/case78/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case78/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case78/output.png)
 
 ```
 将这个吃了一半的 [XX] 恢复到吃之前的状态。
@@ -4216,7 +5127,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 格斗游戏界面制作（by @NanoBananalabs）
 - Author: @oldpgmrswill
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case79/input.png), [2](Awesome-Nano-Banana-images-main/images/case79/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case79/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case79/output.png)
 
 ```
 创建一个中速动作场景，让两个主体以四分之三视角清晰对焦，摆出武术格斗姿势。他们身处同一个电影场景中。移除中间的线条，背景中是紫色外星世界中模糊的摇摇欲坠的废墟。该场景拍摄于日出时分。现代格斗游戏生命值条，莫顿对决死亡种子。强力招式。HUD风格屏幕特效。在生命值条中添加每个角色的缩略图。炫酷炫光！
@@ -4226,7 +5139,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 切割模型（by @oldpgmrswill）
 - Author: @AIKei75
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case80/input.png), [2](Awesome-Nano-Banana-images-main/images/case80/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case80/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case80/output.png)
 
 ```
 创建这辆车的剖面图，一侧显示完整的外部结构，另一侧显示内部发动机和座椅。保持比例准确，细节逼真。
@@ -4236,7 +5151,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 海盗通缉书（by @AIKei75）
 - Author: @tokyoValentine
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case81/input.png), [2](Awesome-Nano-Banana-images-main/images/case81/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case81/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case81/output.png)
 
 ```
 使用原始图像，在羊皮纸上重新绘制一张海盗通缉令。
@@ -4251,7 +5168,9 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 ### 周边展示货架（by @tokyoValentine）
 - Author: @tokyoValentine
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case82/input.png), [2](Awesome-Nano-Banana-images-main/images/case82/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case82/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case82/output.png)
 
 ```
 移除这幅插画的背景，将其制作成类似手办的周边商品。
@@ -4290,7 +5209,9 @@ Q版人偶（原作变形版）
 ### 漫展展台（by @tokyoValentine）
 - Author: @hArumAkich
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case83/input.png), [2](Awesome-Nano-Banana-images-main/images/case83/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case83/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case83/output.png)
 
 ```
 擦除背景，将人物替换为以下内容：
@@ -4335,7 +5256,9 @@ Cosplayer 和角色周边
 ### 线稿转涂鸦画（by @tokyoValentine）
 - Author: @UNIBRACITY
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case84/input.png), [2](Awesome-Nano-Banana-images-main/images/case84/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case84/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case84/output.png)
 
 ```
 我上传的图画书看起来就像是一个五岁小孩画的。
@@ -4345,7 +5268,8 @@ Cosplayer 和角色周边
 ### 现代美术展览空间（by @UNIBRACITY）
 - Author: @ImperfectEngel
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case85/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case85/output.png)
 
 ```
 一个以参考图像为主题的前卫当代艺术展览空间。
@@ -4373,7 +5297,8 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case86/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case86/output.png)
 
 ```
 根据这张图片，生成一张以我为主角的暗黑哥特式塔罗牌。包含[“AI 艺术家 - Shira”]和[咖啡、系着粉色蝴蝶结的白色蓬松胖猫、笔记本电脑、手机、耳机]作为符号，并搭配忧郁的阴影、精致的哥特式边框和神秘的暗黑奇幻氛围。
@@ -4382,7 +5307,8 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 <a id="by-zhozhozho-17"></a>
 ### 黑白进化图（by @ZHOZHOZHO）
 - Author: @NanoBananalabs
-- Images: [1](Awesome-Nano-Banana-images-main/images/case87/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case87/output.png)
 
 ```
 生成 进化的行进 图，极简黑白风格，从最早的猿猴逐渐进化为人再进化为最后的 香蕉
@@ -4392,7 +5318,8 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 ### 玻璃瓶纪念品（by @NanoBananalabs）
 - Author: @NanoBananalabs
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case88/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case88/output.png)
 
 ```
 1/7比例的商品化收藏级人偶，以照片中人物为原型，高度写实的风格打造。人偶置于细致的沙滩环境中，沙滩、贝壳和轻柔的海浪交织在一起。整个玩具展示架被封装在一个透明的纪念品玻璃瓶中，使其呈现出高端的微缩立体模型效果，并拥有逼真的光影效果。
@@ -4402,7 +5329,8 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 ### 微型商店（by @NanoBananalabs）
 - Author: @AIKei75
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case89/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case89/output.png)
 
 ```
 [品牌] 的微型立体模型店。屋顶由超大的 [产品] 制成，窗户上方是巨大的 [品牌] 标识，摊主正在向顾客递上 [产品]，地面上覆盖着许多 [产品]。手工软陶造型，摄影棚微距照片，柔和的光线，浅景深，竖屏 3:4
@@ -4412,7 +5340,9 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 ### 成为Vtuber（by @AIKei75）
 - Author: @AIKei75
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case90/input.png), [2](Awesome-Nano-Banana-images-main/images/case90/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case90/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case90/output.png)
 
 ```
 使用原图创建一个虚拟的Vtuber及其直播画面。
@@ -4430,7 +5360,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 车站电影海报（by @AIKei75）
 - Author: @tokyoValentine
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case91/input.png), [2](Awesome-Nano-Banana-images-main/images/case91/output.png)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case91/input.png)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case91/output.png)
 
 ```
 使用原图制作电影海报。电影类型将根据原图的氛围确定。
@@ -4444,7 +5376,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 电影休息室（by @tokyoValentine）
 - Author: @ArminnAi
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case92/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case92/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case92/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case92/output.jpg)
 
 ```
 插画处理：
@@ -4493,7 +5427,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 切割带有卡通爆炸效果的物体（by @ArminnAi）
 - Author: @tokyoValentine
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case93/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case93/case.jpg)
 
 ```
 将 [OBJECT] 从中间干净利落地切开，上下两半略微分离并悬浮。
@@ -4505,7 +5440,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 卡通人物主题火车（by @tokyoValentine）
 - Author: @AIKei75
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case94/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case94/output.jpg)
 
 ```
 插画处理：
@@ -4544,7 +5480,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 自定义主题公园（by @AIKei75）
 - Author: @AIKei75
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case95/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case95/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case95/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case95/output.jpg)
 
 ```
 生成一张基于原图的逼真主题公园图像。
@@ -4560,7 +5498,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 创建星座图（by @AIKei75）
 - Author: @ZHOZHOZHO
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case96/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case96/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case96/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case96/output.jpg)
 
 ```
 根据原图创建一幅虚构星座的图像。
@@ -4576,7 +5516,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 图片变手机壁纸（by @ZHOZHOZHO）
 - Author: @aiehonaya
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case97/case.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case97/case.jpg)
 
 ```
 将图片转换为 iPhone 锁屏壁纸效果。手机时间（01:16）、日期（9 月 16 日，星期日）和状态栏详细信息（电池、信号等）叠加显示在图片上，底部显示手电筒和相机图标。原始图片经过调整，以适应加长的智能手机屏幕构图。手机放置在相同配色方案的背景上。
@@ -4586,7 +5527,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 制作电影海报（by @aiehonaya）
 - Author: @icreatelife
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case98/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case98/output.jpg)
 
 ```
 分析上传的照片，检测其中的主体、情绪和氛围。
@@ -4614,7 +5556,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 将X账户变成软盘（by @icreatelife）
 - Author: @icreatelife
 - Input: 需上传一张X账户参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case99/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case99/output.jpg)
 
 ```
 把我的X账户做成90年代软盘
@@ -4624,7 +5567,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 将参考图像变为透明物体（by @icreatelife）
 - Author: @emakiscroll
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case100/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case100/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case100/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case100/output.jpg)
 
 ```
 使该对象透明
@@ -4634,7 +5579,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 鱼眼镜头视角图像（by @emakiscroll）
 - Author: @IqraSaifiii
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case101/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case101/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case101/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case101/output.jpg)
 
 ```
 超高细节的动漫插画，采用鱼眼镜头窥视孔视角，呈现圆形扭曲画面，如同透过门上的窥视孔观看，广角扭曲效果，边缘弯曲，圆形边框周围带有暗角。
@@ -4647,7 +5594,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 超级英雄室内设计（by @IqraSaifiii）
 - Author: @googlejapan
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case102/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case102/output.jpg)
 
 ```
 一个超逼真、专业的室内设计摄影作品，展示以 [超级英雄] 为灵感的现代客厅。
@@ -4661,7 +5609,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 自定义娃娃机（by @googlejapan）
 - Author: @aziz4ai
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case103/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case103/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case103/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case103/output.jpg)
 
 ```
 生成一张图像，展示该动物被简化并变形为动漫风格的毛绒玩具（材质为短绒、触感柔软的聚酯针织布），放置在 UFO 捞娃娃机中。
@@ -4677,7 +5627,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 字体logo设计（by @aziz4ai）
 - Author: @AIKei75
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case104/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case104/output.jpg)
 
 ```
 创建一个 [OBJECT] 形状的文字插画，文字本身构成该形状——
@@ -4701,7 +5652,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 游戏角色状态界面（by @AIKei75）
 - Author: @nobisiro2023
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case105/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case105/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case105/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case105/output.jpg)
 
 ```
 使用原图中的角色创建一个 RPG 游戏角色状态界面：
@@ -4721,7 +5674,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 文字转象形图（by @nobisiro2023）
 - Author: @AIKei75
 - Input: 需上传一张包含文字的参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case106/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case106/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case106/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case106/output.jpg)
 
 ```
 将此说明图转换为象形图
@@ -4731,7 +5686,9 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 数位板上的绘画（by @AIKei75）
 - Author: @emakiscroll
 - Input: 需上传一张参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case107/input.jpg), [2](Awesome-Nano-Banana-images-main/images/case107/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case107/input.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case107/output.jpg)
 
 ```
 超逼真的手绘板屏幕图像，真实的第一人称视角，一只手握着手绘板和手绘笔。
@@ -4749,7 +5706,10 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### 创建Line印章图片（by @emakiscroll）
 - Author: @samannai
 - Input: 需上传一张表情参考图和人物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case108/input1.jpg), [2](Awesome-Nano-Banana-images-main/images/case108/input2.jpg), [3](Awesome-Nano-Banana-images-main/images/case108/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case108/input1.jpg)
+  ![Image 2](Awesome-Nano-Banana-images-main/images/case108/input2.jpg)
+  ![Image 3](Awesome-Nano-Banana-images-main/images/case108/output.jpg)
 
 ```
 角色表、面部表情、喜悦、愤怒、悲伤、快乐
@@ -4760,7 +5720,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 - Author: @NanoBananalabs
 - Input: 需上传一张人物参考图像
 - Notes: [!NOTE]
-- Images: [1](Awesome-Nano-Banana-images-main/images/case109/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case109/output.jpg)
 
 ```
 超逼真极简主义治疗室场景：
@@ -4783,7 +5744,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 <a id="pixarby-nanobananalabs"></a>
 ### PIXAR风格图片（by @NanoBananalabs）
 - Input: 需上传一张人物参考图像
-- Images: [1](Awesome-Nano-Banana-images-main/images/case110/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case110/output.jpg)
 
 ```
 生成一幅 3D 头像：
@@ -4807,7 +5769,8 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 ### Article Infographic（by @黄建同学）
 - Author: @balconychy
 - Input: Need to upload a blog/article
-- Images: [1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
 
 ```
 Generate an infographic for the article content
@@ -4821,7 +5784,8 @@ Requirements:
 <a id="caso-14-infografa-de-artculopor"></a>
 ### Caso 14: Infografía de Artículo（por @黄建同学）
 - Author: @balconychy
-- Images: [1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
 
 ```
 Genera una infografía para el contenido del artículo.
@@ -4835,7 +5799,8 @@ Requisitos:
 <a id="14-by"></a>
 ### 예시 14: 기사 포스터（by @黄建同学）
 - Author: @balconychy
-- Images: [1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
 
 ```
 기사 내용에 맞는 인포그래픽을 제작해주세요.
@@ -4848,7 +5813,8 @@ Requisitos:
 
 <a id="rnek-14-makale-infografiigelitiren"></a>
 ### Örnek 14: Makale İnfografiği（geliştiren @黄建同学）
-- Images: [1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
+- Images:
+  ![Image 1](Awesome-Nano-Banana-images-main/images/case14/output.jpg)
 
 ```
 Makale içeriği için bir infografik oluşturun
@@ -4861,7 +5827,35 @@ Gereksinimler:
 
 <a id="part-1"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 请绘制一张四宫格图片，四张图依次表现同一位戴着斗笠的年轻男子分别发音「我」「上」「早」「八」，人物外貌保持一致，口型准确对应每个字的发音，整体风格统一，16:9，4K
@@ -4869,7 +5863,35 @@ Gereksinimler:
 
 <a id="part-1-2"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 将图片上的文字翻译为中文，并上色，其他不变
@@ -4877,7 +5899,35 @@ Gereksinimler:
 
 <a id="part-1-3"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 将英文海报中的英文翻译成中文。
@@ -4885,7 +5935,35 @@ Gereksinimler:
 
 <a id="part-1-4"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 生成两张竖版的微信群聊天界面截图，群成员正在讨论 Nano Banana Pro 的发布。
@@ -4893,7 +5971,35 @@ Gereksinimler:
 
 <a id="part-1-5"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 生成一幅 4K 古画，画上写着：明月几时有？把酒问青天。不知天上宫阙，今夕是何年。我欲乘风归去，又恐琼楼玉宇，高处不胜寒。起舞弄清影，何似在人间。转朱阁，低绮户，照无眠。不应有恨，何事长向别时圆？人有悲欢离合，月有阴晴圆缺，此事古难全。但愿人长久，千里共婵娟。
@@ -4901,7 +6007,35 @@ Gereksinimler:
 
 <a id="part-1-6"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 哆啦A梦和李白在月下对酌。圆月高悬，古代亭台楼阁，哆啦A梦穿着唐朝服饰，李白持酒壶，石桌上摆着酒具，仙气飘飘，中日混合画风，精致细节
@@ -4909,7 +6043,35 @@ Gereksinimler:
 
 <a id="part-1-7"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 生成一张可视化的图片，展示在广州旅游的 2 天行程。
@@ -4917,7 +6079,35 @@ Gereksinimler:
 
 <a id="part-1-8"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 搜索广州实时天气信息，制作一幅中文波普艺术风格的信息图，4:3
@@ -4925,7 +6115,35 @@ Gereksinimler:
 
 <a id="part-1-9"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 帮我搜索现在（20251120）北京的天气信息，并且将其放在一个天气UI设计稿中
@@ -4933,7 +6151,35 @@ Gereksinimler:
 
 <a id="part-1-10"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 搜索北京市今天（202511120）的天气和一条正能量的早间新闻。将我的照片转换成'美式复古海报'风格。在海报顶部用巨大的艺术字写上今天的日期（中文），底部用报纸排版风格写上那条新闻的摘要和今天的天气提示。
@@ -4941,7 +6187,35 @@ Gereksinimler:
 
 <a id="part-1-11"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 帮我生成一张拼贴手帐风格的广西旅游笔记，上面记录着自己的行程以及路上的照片等，文字有中文、韩语和英语。
@@ -4949,7 +6223,35 @@ Gereksinimler:
 
 <a id="part-1-12"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 模拟在一张略带纹理的纸张上（米黄色或者浅棕色）手写的关于今天的日记。所有的图片以拼贴画风格放在一页日记上，保证图片与原图一致包含以下元素：用手写字体描述今天做了什么，以及一两句吸引人的标语或简介，包含几张图片的介绍，用红色笔迹或其他亮色圈出或用箭头指向特别推荐的地点或活动。穿插一些与图片特色相关的简单涂鸦式小图画，写着当前的日期和北京的天气，并添加一个图 4 手绘角色形象。整体感觉要像一份由热爱生活的作者精心制作的、生动有趣的个人日记。
@@ -4957,7 +6259,35 @@ Gereksinimler:
 
 <a id="part-1-13"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 （示例为多种字体设计提示词的综合效果展示）
@@ -4965,7 +6295,35 @@ Gereksinimler:
 
 <a id="part-1-14"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 为这款米色皮革手机壳设计产品海报。手机壳侧立放置的超近景特写，清晰展现素皮细腻纹理与橙色金属镜头圈的撞色质感，背部吸附同色系磁吸卡包。米色背景，周围缭绕棕色透明轻纱，搭配几株蕨类植物、沉香枯木与两支铃兰作为前景点缀。4K超清画面质感。静物摄影，昏暗氛围，光线追踪，高级柔光。海报上方文案标题："AATTT STUDIO"，极细衬线字体。页面下方小字："素皮 | 磁吸 | 极简"。艺术签角标："AATTT | Design"。
@@ -4973,7 +6331,35 @@ Gereksinimler:
 
 <a id="part-1-15"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 为这两个香薰产品设计产品海报。两个香薰放在一起的超近景特写，质感清晰。米色背景，周围棕色透明轻纱，蕨类植物，沉香枯木，两支铃兰。4K超清画面质感。静物摄影，昏暗氛围，光线追踪。海报上方文案标题："昆仑煮雪"，极细文字。页面下方小字："沉香|铃兰|草本"。艺术签角标："观夏|to summer"。
@@ -4981,7 +6367,35 @@ Gereksinimler:
 
 <a id="part-1-16"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 帮我将这个香薰放在符合设计风格的室内，大师级摄影，特写镜头
@@ -4989,7 +6403,35 @@ Gereksinimler:
 
 <a id="part-1-17"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 将这些家具融洽的放到一个房间中
@@ -4997,7 +6439,35 @@ Gereksinimler:
 
 <a id="part-1-18"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 轻度美颜、瘦脸，发型替换为美式前刺，发际线前移，眼镜更换为墨镜
@@ -5005,7 +6475,35 @@ Gereksinimler:
 
 <a id="part-1-19"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 杰瑞鼠身披《大闹天宫》动画版标志性的鹅黄色虎皮裙、大红披风和金甲，头戴凤翅紫金冠，手持金箍棒，面部表情夸张而神气，背景是天宫的亭台楼阁或花果山水帘洞，整个画面都将严格遵循上海美术电影制片厂《大闹天宫》的经典画风，色彩浓烈，线条流畅，充满浓郁的中国传统水墨和工笔重彩韵味。
@@ -5013,7 +6511,35 @@ Gereksinimler:
 
 <a id="part-1-20"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 一张手帐风格图片，上面画着电视剧权力的游戏的人物关系和势力关系图，人物有头像
@@ -5021,7 +6547,35 @@ Gereksinimler:
 
 <a id="part-1-21"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 3D写实风格的宝可梦主题MMO游戏截图
@@ -5029,7 +6583,35 @@ Gereksinimler:
 
 <a id="part-1-22"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 （示例为对复杂海贼王漫画页进行翻译和上色）
@@ -5037,7 +6619,35 @@ Gereksinimler:
 
 <a id="part-1-23"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 请分析我上传的这张照片，并将其转换成一张现代风格的平面设计海报。主体处理：首先，将主体从原始背景中精确地抠出来，作为海报的核心主体。背景改造：将原始背景替换为一个抽象的、具有毛玻璃质感的背景。核心构图：在主体的后面，添加一个醒目的纯色矩形色块。风格统一：确保整个海报的风格是Y2K美学或酸性设计。
@@ -5045,7 +6655,35 @@ Gereksinimler:
 
 <a id="part-1-24"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 模仿这个设计稿的风格和关键元素表现形式，帮我生成一个天气应用的UI设计稿
@@ -5053,7 +6691,35 @@ Gereksinimler:
 
 <a id="part-1-25"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 在画面上方有一张长长的画卷上用潇洒的书法写着一整首白居易的《琵琶行》内容是"浔阳江头夜送客，枫叶荻花秋瑟瑟...座中泣下谁最多？江州司马青衫湿。"，同时下方用中国水墨画风格画上这首诗对应的画面
@@ -5061,7 +6727,35 @@ Gereksinimler:
 
 <a id="part-1-26"></a>
 ### Part 1: 核心能力展示
-- Images: [1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png), [2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png), [3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png), [4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png), [5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png), [6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png), [7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png), [8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png), [9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg), [10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png), [11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg), [12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg), [13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg), [14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png), [15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg), [16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg), [17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg), [18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg), [19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg), [20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg), [21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg), [22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg), [23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg), [24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg), [25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg), [26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg), [27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg), [28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
+- Images:
+  ![Image 1](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719889.png)
+  ![Image 2](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719131.png)
+  ![Image 3](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719266.png)
+  ![Image 4](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719642.png)
+  ![Image 5](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719856.png)
+  ![Image 6](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719241.png)
+  ![Image 7](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211719795.png)
+  ![Image 8](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211720294.png)
+  ![Image 9](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740561.jpeg)
+  ![Image 10](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740241.png)
+  ![Image 11](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740100.jpeg)
+  ![Image 12](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740825.jpeg)
+  ![Image 13](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740992.jpeg)
+  ![Image 14](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740269.png)
+  ![Image 15](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740031.jpeg)
+  ![Image 16](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740567.jpeg)
+  ![Image 17](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740721.jpeg)
+  ![Image 18](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740959.jpeg)
+  ![Image 19](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740823.jpeg)
+  ![Image 20](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740621.jpeg)
+  ![Image 21](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740038.jpeg)
+  ![Image 22](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740819.jpeg)
+  ![Image 23](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740983.jpeg)
+  ![Image 24](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740806.jpeg)
+  ![Image 25](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740707.jpeg)
+  ![Image 26](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211740851.jpeg)
+  ![Image 27](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742741.jpeg)
+  ![Image 28](https://maynor123-1301929665.cos.ap-guangzhou.myqcloud.com/202511211742790.png)
 
 ```
 生成一张微信手机聊天界面截图，严格按照微信的界面UI和排版方式，左侧对话气泡是灰色，右侧对话气泡是绿色，右侧是甄嬛的角色在讲话。群聊名称：紫禁城吃瓜群 聊天内容：...
